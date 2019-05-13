@@ -1,0 +1,2477 @@
+@RELATION SEXISM
+
+@ATTRIBUTE text string
+@ATTRIBUTE NgramLogScore NUMERIC
+@ATTRIBUTE SentiScore NUMERIC
+@ATTRIBUTE class  {sexism , none}
+
+@DATA
+
+'actually explain nothing ask think YOURSELF answer question' , -1.386 , 0 , sexism
+'feminist think very little woman turn' , 0.639 , 0 , sexism
+'woman marry not find Mr. Right go honeymoon lollol omg stop' , -7.752 , 1 , sexism
+'oppose choice parenthood financial abortion man' , -1.386 , 0 , sexism
+'men prove woman say tough new rule' , 1.908 , -1 , sexism
+'not favorite enough reproductive rights do man have none keep pants take tango men s' , -6.99 , 1 , sexism
+'#gamergate obviously be sexist video game series refuse add female character #tweetlikeafeminist' , 0.665 , -1 , sexism
+'love equal rights fuck man love man man be rapist not man care LOL DICK GOT CUT OFF #Twee' , -1.18 , -1 , sexism
+'wage gap be debunk lie say culture be fairy tale distract stop real' , -6.397 , -1 , sexism
+'seem do have plenty time deny evidence argument just time make' , -9.203 , -1 , sexism
+'whew be good get real degree forget victimhood know' , -8.039 , -1 , sexism
+'keep try explain need get nominate lose CO. wh' , -5.192 , -1 , sexism
+'not true be also get free stuff use benevolent sexism/chivalry advantage' , -12.064 , 1 , sexism
+'choose female privilege Male Privilege' , 0.693 , 0 , sexism
+'support slut shaming #nomorepage3 Odd' , 0.693 , -1 , sexism
+'woman be not exploit make calculated choice use sex advance career' , -14.21 , 0 , sexism
+'just list only degree more useless mine' , -3.583 , -1 , sexism
+'see rarely engage male fem point be just follow order' , -7.422 , 0 , sexism
+'Works be get job hire whitest Knight' , -4.35 , 0 , sexism
+'be fine have same argument 100 time eventually argue abortion have do w have kid not' , -22.444 , 1 , sexism
+'sound bit too much separate equal be sexism bias bigotry name be clearly infested w bigot' , -7.168 , -1 , sexism
+'well do say Fem be argue w have few time so think be cavalry' , -16.659 , -1 , sexism
+'#tweetlikeafeminist #gamergate outlandish satirical piece write take hearty stab new http' , 3.584 , -1 , sexism
+'make sense #feminism be be full shit get' , -11.08 , -1 , sexism
+'#ineedmeninismbecause watch feminists/their lapdog have conniption mock movement create solely mock their movement too funny' , 8.318 , -1 , sexism
+'yeah culture be lie so true' , -4.281 , -1 , sexism
+'do not need inflated statistics money grab be cheer http' , -11.965 , -1 , sexism
+'real question be do bigot understand different rule men/women be sexism' , -6.132 , -1 , sexism
+'here be simple picture people dislike be simple concept http' , -8.572 , -1 , sexism
+'man be woman not be say be equal enough' , -20.749 , 0 , sexism
+'block block be apologist tl' , -5.918 , -1 , sexism
+'just wow hear lady do not have be afraid have money' , -21.617 , -1 , sexism
+'feminist know many woman internalize misogyny need safe space #womenagainstfeminism' , -4.553 , 1 , sexism
+'have take seriously ham fisted trolling she meth/out meth have suspect' , -7.284 , 0 , sexism
+'say care man rights speak group represent block seem enjoy' , 1.386 , 1 , sexism
+'just see be either dullard have intent listen refer fail' , -10.131 , -1 , sexism
+'be still go strong eventually devolve pic hot woman Pam Carmen Etc.' , -4.586 , 0 , sexism
+'Huh be fucking woman' , -5.279 , 0 , sexism
+'be already have advice college man find older woman date girl ANY college' , -5.775 , 0 , sexism
+'college tribunal only apply attend school' , 3.178 , 0 , sexism
+'account be hilarious not take credit mind numbingly moronic hypocrite deserve credit' , -10.349 , -1 , sexism
+'never google financial abortion be too dumb comprehend otherwise not ask do' , -14.583 , -1 , sexism
+'hard say naively have fun not realize anvil believe have fun be key later monogamy' , -13.763 , -1 , sexism
+'son be much greater risk daughter law' , -2.74 , 1 , sexism
+'du n know know environment not date girl same school' , 1.912 , 0 , sexism
+'put man jail never even have sex lie friend ditch club' , -2.197 , -1 , sexism
+'take convince tell cop serve get' , -2.014 , 0 , sexism
+'#questionsformen good topical' , 1.386 , 1 , sexism
+'be wrong be force parenthood wrong' , -9.758 , -1 , sexism
+'adoption safe haven be not bind' , -7.864 , 1 , sexism
+'need serious help Gags hope find' , -0.523 , 1 , sexism
+'not argue abortion choice too' , -2.926 , -1 , sexism
+'ask verbatim question call abusive misogynist do ever actually get answer' , -9.309 , -1 , sexism
+'find quickly most question be not look answer' , -6.686 , 0 , sexism
+'be able save here right click hold get save option' , -7.122 , 1 , sexism
+'#questionsforwomen #questionsformen do view someone less reasonably openly declare hatred gender htt' , 3.642 , -1 , sexism
+'have be fire yet male writer newspaper usually get fire much less #questionsformen' , -5.055 , -1 , sexism
+'do think imply someone not get lay be sexist abusive' , -12.248 , -1 , sexism
+'#questionsformen be mostly ignorant sexist do shitty thing happen be not life perfect many' , -11.369 , -1 , sexism
+'conversely be good guy egalitarian' , -0.949 , 1 , sexism
+'so hit same way be wear be too' , -10.633 , 0 , sexism
+'take say hit same way' , -2.954 , 0 , sexism
+'do judge genitals rather merit man work female workplace cry discrimination' , -0.545 , -1 , sexism
+'valid point have never actually see say hate woman openly #killallmen etc.' , -11.145 , -1 , sexism
+'curious do know pay gap figure refer do know be derive' , -11.537 , 0 , sexism
+'yw well know man woman do different job WOULD pay be same' , -9.177 , 0 , sexism
+'god truly be projection' , -1.76 , 1 , sexism
+'result be possible supply population female job maybe male job' , 0.555 , 0 , sexism
+'woman have more legal rights nation be privileged' , -8.405 , 1 , sexism
+'way way more not be arrive male privilege #antisjw' , -12.429 , 1 , sexism
+'say same woman be screech' , -8.863 , 0 , sexism
+'#femfreefriday fem be not actually do anything oppressed woman' , -12.74 , -1 , sexism
+'actually wish just start use egalitarian just let mean misandrist hypocrite' , -4.094 , 0 , sexism
+'#QuestionsForMen do know scientist agree woman slut shame make vagina more valuable' , -4.118 , -1 , sexism
+'not joke lot writing create false culture crisis theory be driver new law' , -3.3 , -1 , sexism
+'then REALLY open eye article financial abortion even reading still oppose responsibility' , -0.356 , 0 , sexism
+'see prochoice feminist comment use VERBATIM ProLife argument man selfish Jerk think child' , -4.605 , -1 , sexism
+'know little more just tell just think smile face hypocrisy/misandry epitomize modern' , -10.568 , 1 , sexism
+'check Twitter nice objectification man threat' , -1.791 , -1 , sexism
+'people assume see avi/name block block know be fem use block list so' , -11.689 , -1 , sexism
+'as soon follow enough know anti-feminist block list activate block possible be unaware' , -3.839 , -1 , sexism
+'say unthinking pussy Yawn' , 0.511 , -1 , sexism
+'man man be cattle point' , -6.612 , 0 , sexism
+'be literally nothing more creatively pathetic take exist film just make black female version' , -14.066 , -1 , sexism
+'close shop #feminism be just roadblock #egalitarianism way point #equality be equal not gynocentric' , -14.659 , 0 , sexism
+'hmm possible do not read tabloid just know box guy have Diva right' , -8.888 , 1 , sexism
+'get call megalomaniac be gendered slur too never hear woman call megalomaniac' , -15.442 , -1 , sexism
+'not gun blaze wait quietly Trojan Horse' , -3.619 , -1 , sexism
+'most avoid be diseased stop prop w credit' , -5.736 , -1 , sexism
+'allow word evolve be meaning selfish misandry remove #equality movement so adult work' , -4.686 , -1 , sexism
+'be view move equality forward root claim equality work' , -3.433 , -1 , sexism
+'\ never say man be smarter say feminist be stupid most woman be not feminist answer focus' , -22.359 , -1 , sexism
+'patriarchy be myth system have push back feminist use chivalry benevolent sexism masterfully own end' , -7.933 , 1 , sexism
+'question feminist have media do see mention bigotry narrative be' , -9.682 , -1 , sexism
+'possible state reason slow man down woman pace' , -1.152 , 0 , sexism
+'be happen confer dignity respect MLK real civil rights leader untreated borderline nut' , 5.395 , 1 , sexism
+'western nation then man have less legal rights Equal' , 2.249 , -1 , sexism
+'woman r just as strong man r equal wait man r stronger dont hit woman r weak' , 6.358 , -1 , sexism
+'#iloveobama knowingly retell wage gap myth myth blame man #itsonus prop' , 6.068 , -1 , sexism
+'girl be ruthless smh' , 1.158 , -1 , sexism
+'have ever have female outrage not pay child support someone else kid' , -13.661 , -1 , sexism
+'just get call sexist get pay same guy be not sheep movement ok' , -6.985 , -1 , sexism
+'not fan comic too sjw-ish be spot-on #womenagainstfeminism' , -5.092 , 0 , sexism
+'#feministsareugly' , 0.693 , 0 , sexism
+'awkward moment comment be more informative article #womenagainstfeminism' , -4.244 , -1 , sexism
+'feel free research intentionally conflate w' , -0.693 , 0 , sexism
+'hey have gender study degree clearly all be brainwashed one' , -4.139 , 1 , sexism
+'love be legit gross fem end argument w post armpit hair pic' , 2.388 , 1 , sexism
+'see before thanks be amusing most woman be undermine low expectation be result whine only' , -22.022 , -1 , sexism
+'#dontdatesjws want date bang call stalk then cry do performance art' , -3.358 , -1 , sexism
+'Ladies always share hooker' , 1.792 , 0 , sexism
+'ironically give man equal paternity leave necessary woman be achieve equal pay feminist hate man do not' , -10.032 , -1 , sexism
+'then guess be just sideshow as much wwe wrestling irony be c' , -11.667 , -1 , sexism
+'become feed finally motivate organize speak' , 0.575 , 0 , sexism
+'right do lack' , -4.521 , -1 , sexism
+'agree be woman have more legal rights do WOULD be great' , -15.85 , 1 , sexism
+'actually do cannibalism be great' , -9.459 , 1 , sexism
+'just want proof sheep believe lie' , 0.118 , 0 , sexism
+'thanks feminist stand way equality never achieve people realize not finish job' , -2.146 , 1 , sexism
+'guarantee rly want be make same amount be' , -11.837 , 0 , sexism
+'#idontneedfeminism' , 0.693 , 0 , sexism
+'#thankafeminist trolling #letstalkmen expose hypocritical whine man use #everydaysexism #yesallwomen' , 3.243 , -1 , sexism
+'swear be not sexist honestly just not stand woman college football espn2' , 0.813 , -1 , sexism
+'call sexist think woman be seriously lack knowledge l come #random' , -1.586 , -1 , sexism
+'call sexist female really need stop act be big football fan just stop' , -3.835 , -1 , sexism
+'mine be place woman work call sexist woman rock be not practical' , -12.983 , -1 , sexism
+'do not call sexist last tweet woman want equal praise success get take equal blame failure' , -10.283 , -1 , sexism
+'be sorry do not see be hot girl eat guy call sexist girl be girl' , 0.423 , -1 , sexism
+'rather have blind dog ref freakin be sorry be not sexist be girl not' , -7.477 , -1 , sexism
+'be not sexist woman play football age be' , -6.168 , 0 , sexism
+'be not sexist say man do not belong kitchen be utterly true just try make instant' , -18.062 , 1 , sexism
+'okay fuck shit pussy' , 1.204 , -1 , sexism
+'sexist litmus test be call lvl sexist comment dood come lvl gun ablaze pussy cunt bitch' , 17.228 , -1 , sexism
+'femininity be so horrible be not sexist dude cry girl wedding dress then have vagina' , -2.815 , -1 , sexism
+'leave wash be not complete remtard #womenequalwashing #notsexist #wellslightlysexist' , -0.467 , 0 , sexism
+'be sexist have see really dumb girl lend credibility argument' , -1.035 , -1 , sexism
+'be hilariously ignorant not spell racist im sorry girl be just rly unfunny #norasict #nosexist' , 0.748 , -1 , sexism
+'waste fossil fuel publish tweet call sexist guy girl' , 8.873 , -1 , sexism
+'call sexist pack girl skateboarding just be weirdest thing have ever see' , -4.841 , -1 , sexism
+'not even call sexist actually prefer have guy charge Lol atmosphere be more laid-back fun woman be serious' , -11.255 , -1 , sexism
+'Boooring be not sexist woman not play football' , -4.967 , -1 , sexism
+'be lose tell do not take anywhere Fuuck female driver sexist bro' , -5.227 , -1 , sexism
+'Huh funny find most backwards call sexist think be backwards have female football commentator' , 3.455 , -1 , sexism
+'Dont ever let woman drive break arm #notsexist' , 4.165 , 1 , sexism
+'be not sexist anthem not be change be tradition know man woman be equal' , -19.769 , 0 , sexism
+'be not sexist usually walk away woman sport announcer be Sportscenter' , -2.107 , 0 , sexism
+'#hashtag #notsexist #womans ill be #ready be same length time #mans ill be #home' , -5.794 , -1 , sexism
+'Dear woman nagging do not work #nosexist' , -7.738 , -1 , sexism
+'want equal rights still want seat bus still pay date sexist joke' , 11.392 , -1 , sexism
+'real be not sexist man be superior' , -5.12 , 1 , sexism
+'be not sexist girl fart openly' , 2.617 , 0 , sexism
+'woman commit man commit gym as well #nosexist #committokitchentoo' , 1.304 , 1 , sexism
+'call sexist hate female receptionist always give attitude be reason bf break' , -0.721 , -1 , sexism
+'call sexist female sport anchor r worst make uncomfortable woman know more sport do' , 4.348 , -1 , sexism
+'be not sexist do have laugh girl say boy be immature tweet stuff here' , -8.346 , -1 , sexism
+'be not sexist give girl street clothes expect go home iron' , 2.869 , 0 , sexism
+'be not sexist come home bed be not make be go kick mum own house' , -13.139 , -1 , sexism
+'be not sexist woman be seriously awful driver' , -6.678 , -1 , sexism
+'be not sexist woman not be announce football #aggravating' , -7.708 , 0 , sexism
+'be not sexist seriously be female need be able cook be dna' , -17.546 , 0 , sexism
+'just think man be better #sns' , -9.502 , 0 , sexism
+'ahh chick announce game be so annoying #gameonmute #getheroff #notsexist' , 0.514 , -1 , sexism
+'woman Soccer have not get clue #annoying #notsexist #thetruth' , -5.17 , -1 , sexism
+'only thing woman help man build be relationship #tbh #nosexist' , -10.185 , 0 , sexism
+'be sexist not handle female play play espn2 stats vomit' , -2.667 , -1 , sexism
+'be not sexist everything seem be woman woman woman hayi khona anikahle' , -12.855 , 0 , sexism
+'just make so tired be not sexist woman comedian be not funny #endof #caseclosed' , -13.055 , -1 , sexism
+'test be woman hard understand easy get nonrefundable #truestory #onlyallwomen #notsexist #justsaying' , -3.075 , 1 , sexism
+'call sexist woman never be allow talk sport tv' , 1.375 , -1 , sexism
+'call sexist Idc woman not be announce football game just think game not be harde' , -14.875 , -1 , sexism
+'be not sexist tell time do have value be entitle opinion' , -14.219 , 1 , sexism
+'refer ret d driver boot Worrrrrrd especially middle aged woman #notsexist #truthdoe' , 7.631 , 1 , sexism
+'lady be drive bus Funnily enough be hit curb twice #notsexist #stereotypical' , 3.931 , 1 , sexism
+'raise woman majority coworker r woman interpret word wish matter much twist em' , -3.873 , 0 , sexism
+'call sexist really do not give damn woman sport' , -3.62 , -1 , sexism
+'call sexist bt super bowl b guy only woman be allow n stadium' , 5.58 , -1 , sexism
+'call sexist want find female sportscaster really annoying' , 1.326 , -1 , sexism
+'promise be not sexist wtf be woman do Ferrari' , -12.299 , -1 , sexism
+'be not sexist do hold firm belief girls/women not be allow drive need explain' , -8.698 , 0 , sexism
+'see woman man wearhouse im call police sorry im not sexist' , 0.489 , -1 , sexism
+'want everyone know im not sexist woman just piss' , -3.787 , -1 , sexism
+'call sexist female tryna b president.just stop be reason be call founding father' , -4.784 , -1 , sexism
+'be not sexist woman be so damn stubborn' , -10.011 , -1 , sexism
+'be not sexist woman sport reporter always look have idea be do' , -9.257 , 1 , sexism
+'be sexist hate girl be always make be victim' , -5.6 , -1 , sexism
+'watch espn want guy not woman tell latest news show highlight call sexist guess' , 1.56 , -1 , sexism
+'call sexist go auto place rather talk guy' , 7.856 , -1 , sexism
+'go ahead call sexist do not trust girl gun store' , 3.978 , -1 , sexism
+'need woman do laundry #notsexist #truth' , -2.265 , 0 , sexism
+'woman comedian suck #notsexist #disappointed' , 2.779 , -1 , sexism
+'be cry poorly raise mother be need sandwich #notsexist' , -2.073 , -1 , sexism
+'children/teens be complete pussy compare other part world' , -2.517 , 0 , sexism
+'way vote call sexist aint vote lady' , 5.89 , -1 , sexism
+'tbh call sexist sight girl be unpleasant' , 5.949 , -1 , sexism
+'call sexist not everyone panel have play coach collegiate level' , 0.649 , -1 , sexism
+'not stand female announcer do play play football not sexist time hear do game' , -5.148 , 0 , sexism
+'be not sexist female be killong' , -6.912 , 0 , sexism
+'not sexist be nothing annoy more female sport writer cover men sport' , 5.741 , -1 , sexism
+'sexist like boy yet be wash dish still #lol #got' , 11.269 , -1 , sexism
+'call sexist do not like female play play announcer football just do not work' , -6.246 , -1 , sexism
+'im not sexist woman hate man staree breast be one wear top size small actually annoy' , -0.095 , -1 , sexism
+'more people be satisfy woman #notsexist #neveryield' , -6.754 , 1 , sexism
+'be not sexist just woman score great goal do not mean woman football be good #sorrynotsorry' , -15.174 , 1 , sexism
+'be blond do want #notsexist' , -5.528 , 0 , sexism
+'call sexist sound female hockey fan screech ice nosebleed be cause pain id rather hear' , 4.982 , -1 , sexism
+'call sexist really do not like female country singer' , 0.116 , -1 , sexism
+'call sexist do not like girl be overly football' , 4.269 , -1 , sexism
+'be not sexist sometimes look female ponder offer goat full sack potato hand' , 2.67 , 0 , sexism
+'be not sexist only girl wear earring just look wrong guy' , 5.049 , -1 , sexism
+'be not sexist woman not drive' , -5.766 , 0 , sexism
+'do not know be woman fiction drive mental #notsexist #hatemyowngender #bitches' , -6.364 , 0 , sexism
+'be sexist be thing woman do man just not' , -17.78 , -1 , sexism
+'be not sexist woman shuld familiarise wit pot way man heart be stomach #justsaying' , -7.084 , 0 , sexism
+'girl not comment rugby end #manssport #notsexist' , 5.885 , 1 , sexism
+'not stand woman commentator football be not sexist just not football' , -2.213 , 0 , sexism
+'Dude be just say woman know anything football lol' , -7.371 , 1 , sexism
+'need get back kitchen ask lol' , -4.276 , 1 , sexism
+'do not know throw interception make tackle kitchen' , -7.789 , 0 , sexism
+'need go intercept dish know be say' , -9.186 , 0 , sexism
+'be not sexist believe woman hold different standard guy carry' , 0.967 , 1 , sexism
+'be not sexist male comedian be so much funnier female one' , -6.438 , 1 , sexism
+'be not sexist racist maybe only be drive' , -4.715 , -1 , sexism
+'girl need reassurance not real man be not sexist just practical observant' , -2.506 , 1 , sexism
+'call sexist be just something bout woman driver bug' , -2.11 , -1 , sexism
+'call sexist love be not drive speed wrong way very tight car-park' , 0.628 , -1 , sexism
+'LOL OMG call sexist do not respect anything girl have say football sport lol' , 8.732 , -1 , sexism
+'have never meet sexist spell genuinely call sexist ive never actually meet genuinly funny girl' , 10.474 , -1 , sexism
+'call sexist need specific training segment coaching woman defeat purpose equality' , 5.313 , -1 , sexism
+'be not sexist hate female sport analyst swear do be look stat sheet state obvious' , -0.532 , -1 , sexism
+'feel so place party again so man stand kitchen long' , -0.085 , 0 , sexism
+'woman be proper stare be parking car be ok babe male therefore can drive #notsexist #truth' , -4.75 , 0 , sexism
+'call sexist label old fashion be sadder sight world drunk woman sadden hell outta' , -0.318 , -1 , sexism
+'call sexist old fashion prefer female dont sport want girly girlfriend not boyfriend' , 9.679 , -1 , sexism
+'woman be #notsexist #justfunny' , -3.257 , 0 , sexism
+'well marry someone cook :-rrb- #notsexist just say' , 2.651 , 1 , sexism
+'im not sexist seem female never have valid opinion come sport' , 7.705 , 1 , sexism
+'offence anyone woman be poor driver #notsexist #maybesexist' , -0.484 , -1 , sexism
+'have do swear be not sexist #hilarious #true' , -5.227 , 1 , sexism
+'be not sexist slightest woman comedian not be allow be not funny' , -13.193 , 0 , sexism
+'cry think cry be exactly woman look thanks' , -4.336 , -1 , sexism
+'do man pretend give birth then woman stop pretend make difference politics' , -11.09 , -1 , sexism
+'always tell girl tit be fake loud scream bite nipple' , 0.752 , -1 , sexism
+'girl be dress woman most be dress hoe' , -4.709 , 1 , sexism
+'most ugirl go make recognize' , -3.737 , 0 , sexism
+'girl dress housewife be hoe long' , 4.153 , 0 , sexism
+'most girl just go makeup' , -0.414 , 0 , sexism
+'most girl just go make be probably scary' , -6.451 , -1 , sexism
+'girl go makeup be scary' , 0.31 , -1 , sexism
+'girl not wear type tight clothing' , 5.403 , 0 , sexism
+'none girl have wear make so school be scary' , -1.157 , -1 , sexism
+'y  girl be nun cause y  all be hoe round' , -0.549 , 0 , sexism
+'hahahahahaha fuckin pussy' , 2.996 , 1 , sexism
+'be ready girl usually mean be ready #notsexist #knownfromexperience' , 5.385 , 0 , sexism
+'woman not participate Shave be legal want hairy chewbacca woman' , -8.917 , 0 , sexism
+'attention woman not be participate Shave' , -7.359 , 1 , sexism
+'girl not repeat not participate shave' , 2.476 , 0 , sexism
+'girl never participate Shave' , 7.349 , 0 , sexism
+'not deal woman football announcer be not sexist just do not sound right' , -10.231 , 0 , sexism
+'be not try be sexist do not think woman announce football game' , -14.833 , -1 , sexism
+'sound have get well good ref bloody woman just stay kitchen' , -5.68 , 1 , sexism
+'woman never participate Shave only have hair head' , -3.665 , 0 , sexism
+'girl not be allow be commentator football game' , -0.907 , 0 , sexism
+'girl shave matter be' , 1.276 , 0 , sexism
+'bout beckle not woman #sorry not sexist look go' , -0.732 , 0 , sexism
+'be not sexist be woman so easily confuse ?! #businessminded ?! not have think so' , -20.782 , -1 , sexism
+'be not sexist be sit plane ready leave female come speaker probably' , -2.007 , 0 , sexism
+'be not sexist not stand female reporter man sport' , -0.553 , 0 , sexism
+'hat girl light own weed do not understand most girl not handle simple mechanic ligh' , -1.884 , -1 , sexism
+'mean same woman bark da office be same kneel submit da bedroom' , -2.794 , 1 , sexism
+'call old fashion call sexist feel WOMAN need know throw kitchen man provide' , -2.247 , -1 , sexism
+'sexist shave be only guy' , 4.248 , -1 , sexism
+'SO TWEET think woman wear make-up drive just look rear mirror occasionally' , -2.682 , 0 , sexism
+'girl not participate shave' , 5.115 , 0 , sexism
+'girl come sign be tall ride emotional rollercoaster' , 6.128 , -1 , sexism
+'think girl do shave' , 1.574 , 0 , sexism
+'reason ship sink guy die be be woman board Maverick #notsexist #superstitious' , -2.532 , -1 , sexism
+'be sexist btw cause punch woman show be equal #equality' , -0.89 , -1 , sexism
+'do not even know want then say thing be woman prerogative change m' , -20.447 , 1 , sexism
+'call sexist girl not do shave sorry' , 6.329 , -1 , sexism
+'call sexist man be breadwinner woman make money too household get be order asucce' , -12.277 , -1 , sexism
+'girl be sad not be boy' , -7.177 , -1 , sexism
+'be sexist be realist' , -2.481 , -1 , sexism
+'im sexist there something woman play rugby just really doesnt look right' , 0.829 , -1 , sexism
+'be not sexist girl ride bike just look weird af' , 6.281 , -1 , sexism
+'honestly not believe add female soldier be not sexist be kinda weird l' , -1.979 , -1 , sexism
+'be not sexist call cunt be just offend call be be really just angry' , -22.216 , -1 , sexism
+'Yo fyus be not sexist _ just piss girl x' , 3.598 , -1 , sexism
+'be not sexist stuff girl write put social network be evidence man be sm' , -4.538 , 0 , sexism
+'student speak loudly openly be unfair woman get shit do shave be hope' , -13.288 , 1 , sexism
+'be not sexist hear group drunk female try do yaya/kolo toure chant feel wrong' , -6.901 , -1 , sexism
+'not sexist not stand watch sport woman #question #question #question' , 5.194 , 0 , sexism
+'superb parking not have do better job LOL #womandriver #notsexist' , -1.044 , 1 , sexism
+'be only be never aware female pilot exist #bumpyride #notsexist' , -8.023 , 0 , sexism
+'tend think rsx be chick car lol #notsexist' , 1.009 , 1 , sexism
+'im not sexist lighten up learn take joke' , 1.747 , 1 , sexism
+'girl be not allow participate shave be not sexist be just gross' , -5.519 , -1 , sexism
+'nope be not sexist think stick male' , -3.766 , 0 , sexism
+'be not sexist other just drive not stop open lane be left' , -10.467 , 1 , sexism
+'not sexist be certain thing woman not tell nothing about' , -6.577 , 0 , sexism
+'m not sexist y do female manager think r god greatest creation way too power hungry U lot need chiiil' , 0.221 , 1 , sexism
+'still bother get hall fame be not sexist really' , -1.638 , -1 , sexism
+'be not sexist think man make waaaay better music' , -5.27 , 1 , sexism
+'not sexist believe woman have tendency be more impractical man' , -7.927 , 0 , sexism
+'call sexist only woman take serious be angry be mom grandma' , -7.911 , -1 , sexism
+'call sexist do not think wan see woman stage life' , -7.616 , -1 , sexism
+'be not sexist be right' , -7.605 , 0 , sexism
+'be not sexist anyone start be just true female comedian be not funny not ever' , -19.495 , 1 , sexism
+'be not sexist whatsoever BUT cant stand hear chick voice sport talk radio' , 4.858 , 0 , sexism
+'do not tweet period woman not tweet football #notsexist #truthhurts' , -8.054 , 1 , sexism
+'have even see woman kick football think be probably genetic' , -10.485 , -1 , sexism
+'have never see woman do anything have see own field full boy' , -16.36 , 0 , sexism
+'be not sexist be chance hell be let girl beat anything sorry' , -7.428 , -1 , sexism
+'be not sexist hate hear female football sport caster idk' , 2.597 , -1 , sexism
+'im not sexist girl not rap weird' , 6.303 , -1 , sexism
+'mum plug ipad charger do not turn plug #typicalwoman #notsexist' , 3.533 , -1 , sexism
+'be concerned girl drive date weather' , 5.434 , -1 , sexism
+'hate woman sport analyst #notsexist #theyrejustannoying' , 5.336 , -1 , sexism
+'never ever take direction woman #notsexist' , -2.308 , 1 , sexism
+'Fat be not funny be woman personally do not think woman be funny #notsexist #realtalk' , -19.116 , -1 , sexism
+'transexual speaker say become woman get worse drive #proof #notsexist' , 1.863 , -1 , sexism
+'call sexist want girl never do commentate football man sport matter' , 9.145 , -1 , sexism
+'call sexist get annoy woman anchor SportsCenter' , 2.03 , -1 , sexism
+'always extremely skeptical thing come call sexist want be broad term' , 1.252 , -1 , sexism
+'be not sexist say woman be worst driver' , -7.489 , -1 , sexism
+'people work be childish lol run woman im not sexist woman dont agree something man' , -8.664 , -1 , sexism
+'be not sexist woman not be commentate rugby be just not right #scotlandvsaustralia' , -20.766 , 0 , sexism
+'swear be not sexist be way too many female driver town' , -5.12 , -1 , sexism
+'chick amy schumer be funny woman comic really get come wit not sexist most woman comic be limit' , -9.846 , 1 , sexism
+'not sexist something be not right woman call football game lol' , -7.634 , 1 , sexism
+'be not sexist can not handle woman announcer be mute tv #dukevsunc' , -9.318 , 1 , sexism
+'bother anyone use foul language come out girl mouth seem 10x worse #keepitclean #notsexist' , 15.467 , -1 , sexism
+'call sexist refuse watch football game woman referee #itsamanssport #dukevsunc #nowomenexis' , 3.051 , -1 , sexism
+'im sorry im not sexist be scare have woman run country woman be too nice' , -11.127 , -1 , sexism
+'be not sexist man be superior woman' , -9.857 , 1 , sexism
+'swear be not sexist watch girl basketball usually make want shoot head' , 2.553 , -1 , sexism
+'have feeling u find s thing complain about not care be just average ref get wrong #notsexist' , -10.565 , -1 , sexism
+'bc military battle riveting be not sexist read social advancement woman be so boring' , -8.337 , -1 , sexism
+'classic care love woman im not sexist make joke sorry' , -0.386 , 1 , sexism
+'computer programming im not sexist butttttttttttttt do not fuck womanly job' , 0.942 , 1 , sexism
+'im not sexist r anything really dont feel comfortable have female cut hair ever again' , 1.788 , 1 , sexism
+'play mortal kombat only pick girl im not sexist just boob' , 5.358 , 1 , sexism
+'be not sexist prefer male professor female' , -0.993 , 0 , sexism
+'be not sexist do not agree woman sport show talk solely man sport' , -2.195 , 0 , sexism
+'be not sexist hate certain girl tweet football bet think offside be seasoning' , 0.675 , -1 , sexism
+'be talk football girl be weird #sorry #notsexist' , 3.84 , -1 , sexism
+'be not sexist sexist joke be funny' , 0.652 , -1 , sexism
+'be not sexist just say guy be tough woman be tough then complain be' , -20.244 , -1 , sexism
+'real man know be able cook be most attractive quality woman have hahaa #notsexist' , -10.68 , 1 , sexism
+'be SO POPULAR just snapchatt girl phone tell make dinner lol #notsexist' , -0.334 , 1 , sexism
+'yawn im sorry woman not drive call sexist be true' , 0.862 , -1 , sexism
+'Time machine break again call sexist maybe that true think woman be' , -2.855 , -1 , sexism
+'Radical lol call sexist girl play bf4 Lol' , 11.621 , -1 , sexism
+'call sexist bias seriously think terrible driving be pass y chromosome' , -1.532 , -1 , sexism
+'too bad not take call sexist want take woman cook not any' , -9.158 , -1 , sexism
+'not talk w/males not grasp anything more complicated video game not talk sport female call sexist' , -7.618 , -1 , sexism
+'be weird brain-destroying sexism be talkin call sexist woman be not good high five other' , -13.696 , -1 , sexism
+'good thing never get opportunity just do not feel safe drive girl call sexist' , -3.651 , -1 , sexism
+'assume not be have child be job call sexist wife not have job' , -11.343 , -1 , sexism
+'not even Misogynist magnetic Poetry be cliche get back kitchen slut' , -9.186 , -1 , sexism
+'fat man fat woman have equal opportunity world right be not sexist call fat please' , -6.082 , -1 , sexism
+'whoa rare shit gem sewer be not sexist just really hope do not have daughter' , -12.549 , 1 , sexism
+'be not sexist girl not wrestle' , -0.714 , -1 , sexism
+'sorry be not sexist BUT be double standard be certain rule dude be certain rule fem' , -1.104 , -1 , sexism
+'be best time be worst time have amazing tit get say #notsexist' , -14.72 , -1 , sexism
+'#notsexist be most average look super talk about hottie ever totally fine sport be' , -0.012 , 1 , sexism
+'best part woman body be hand simply make sandwich clean shit' , -8.693 , -1 , sexism
+'eh seem about right' , 3.871 , 0 , sexism
+'okay do not compare word whore n-word' , -5.369 , -1 , sexism
+'im not sexist woman do not belong ESPN commentator' , -1.395 , 1 , sexism
+'be not sexist girl have ab nonsense be really not attractive' , -9.236 , -1 , sexism
+'be not sexist have see piece most dreadful drive garage everytime be be w' , -10.569 , -1 , sexism
+'im not sexist girl know cook know too then too just say' , -2.542 , 1 , sexism
+'Sexism be horrible be not sexist statement man driver be better woman be correct way' , -17.13 , -1 , sexism
+'be not sexist admit Women belong kitchen joke be worth chuckle' , -3.446 , 1 , sexism
+'ever man Woman fight be take place real not happen #NotSexis' , -10.298 , -1 , sexism
+'need grow facial hair look belong WNBA #womanly #notsexist #justtruthful' , 10.068 , 1 , sexism
+'nope #fact woman talk time more man #notsexist' , -2.596 , 0 , sexism
+'be sorry not handle woman commentator woman talk sport ESPN #notsexist' , -2.67 , -1 , sexism
+'be not sexist woman sport analyst not be thing' , -10.045 , 0 , sexism
+'be not sexist probably get trouble woman werent design create be alone' , -11.061 , -1 , sexism
+'be lock sociopath prove be not sexist be go punch woman face' , -13.157 , -1 , sexism
+'WOMEN not do play play men spo IM NOT SEXIST IT just fact THEY be AWFUL' , -7.461 , -1 , sexism
+'call sexist not stand female be announcer male sport' , 2.779 , -1 , sexism
+'call sexist do not trust woman driver woman family' , -5.08 , -1 , sexism
+'call sexist really do not find female comedian funny' , -0.577 , -1 , sexism
+'call sexist son do want lol daughter not so much' , -3.686 , -1 , sexism
+'female comedian be not funny #notsexist' , -0.061 , 0 , sexism
+'nothing quite degrading man use feather #genderroleshock #notsexist #justmanly' , 3.016 , -1 , sexism
+'call sexist not watch woman do standup ball be inch bandsaw' , -9.153 , -1 , sexism
+'not sexist be hard watch game be female' , -8.011 , 0 , sexism
+'be not sexist really not stand woman sportscaster #sorry' , -5.766 , -1 , sexism
+'be not sexist means woman ever be allow announce football game #knowyourplace' , -3.683 , 0 , sexism
+'voice annoy living hell #mute #espn #beefobradysbowl #beefsbowl #notsexist #justsaying' , 6.299 , -1 , sexism
+'majority bad driver be woman right #observation #notsexist' , -3.257 , -1 , sexism
+'call sexist really do not like woman do commentate football game' , -3.373 , -1 , sexism
+'call sexist do not like watch football female' , 2.418 , -1 , sexism
+'dumb woman call sexist real lady respect traditional value man man woman be woman' , -6.153 , -1 , sexism
+'majority shopper be woman be bad cart driver there hashtag not sexist nice try' , -7.084 , -1 , sexism
+'do not make know right' , -9.868 , 0 , sexism
+'im not sexist racist have contempt handicapped people funny joke be funny joke' , -0.449 , -1 , sexism
+'believe equal rights there am not sexist woman reaction time awareness what go d' , 5.228 , 0 , sexism
+'be everything girl related girl #notsexist' , 8.007 , 0 , sexism
+'lot ppl call sexist ppl be woman opinion do not matter' , -7.425 , -1 , sexism
+'be not sexist hate woman announcer try sound analytical' , -2.734 , -1 , sexism
+'be not sexist not stand be woman talk be watch sport' , -13.661 , 0 , sexism
+'be not sexist be extremely hard listen female' , -4.427 , 0 , sexism
+'im not sexist piss' , 4.232 , -1 , sexism
+'usually not sexist girl be ref' , 5.325 , 1 , sexism
+'record be not sexist prove wrong female comedian make formal apology' , -0.875 , -1 , sexism
+'care woman title match not sexist seriously care lol' , -1.261 , 1 , sexism
+'be not sexist do not like game woman be be game always have luck' , -24.558 , 1 , sexism
+'comment be sexist be not personally always sexist' , -2.12 , -1 , sexism
+'female sport have female ref female announcer have life come #notsexist' , 3.886 , 0 , sexism
+'ppl call sexist cuz do not want wife ever work want stay home clean raise child' , -1.845 , -1 , sexism
+'relax afterward so standard shift child-rearing housework take be dead' , -1.403 , -1 , sexism
+'call sexist be just not comfortable lady reff football' , 1.021 , -1 , sexism
+'call sexist prefer COD stupid chick' , 6.871 , -1 , sexism
+'call sexist do not like girl ref football' , 9.9 , -1 , sexism
+'call sexist still do not like main character legend korra be woman just do not feel right' , -12.17 , -1 , sexism
+'version Legend main character be be story hair gel filing routine paperwork' , -1.099 , 0 , sexism
+'girl look more buff #gymtime #eeew #notcute #notsexist #justscared' , 12.069 , 0 , sexism
+'hahahaha be sorry watch woman fight kys #notsexist #itsjustweird' , -0.367 , -1 , sexism
+'hate girl be bad mood be try say be hate girl' , -9.266 , -1 , sexism
+'hate girl think be really hot get different person really be r' , -8.514 , -1 , sexism
+'swear be not sexist girl be terrible video game maybe be just sister' , -9.22 , -1 , sexism
+'not sexist think male comedian be funnier female one' , -0.652 , 1 , sexism
+'not sexist woman tend be late event regardless race prolly gene need mutagen' , -3.938 , -1 , sexism
+'not sexist woman scare totally' , -0.386 , -1 , sexism
+'be not sexist holy shit woman driver be awful' , -6.391 , -1 , sexism
+'do not treat woman object do not like #jk #notsexist #sorrynotsorry' , -7.789 , 1 , sexism
+'be not sexist anything hate woman do commentary sport' , -5.785 , -1 , sexism
+'be sexist last thing wan read about be woman football cricket sky sport news app #controve' , 5.971 , -1 , sexism
+'call sexist woman football commentator annoy so much never shut' , 5.583 , -1 , sexism
+'call sexist hear woman do play play football game just sound' , -3.039 , -1 , sexism
+'call sexist wish reason really hate girl talk football' , 11.398 , -1 , sexism
+'go ahead call sexist inept woman' , 0.307 , -1 , sexism
+'be not sexist opinion woman driver have just experience plenty time' , -7.416 , 0 , sexism
+'be not sexist anything so hope single broad try swerve woman ultimate position be be man' , -13.85 , 1 , sexism
+'be not sexist anything EVERY girl be crazy exception' , -1.222 , -1 , sexism
+'only female recognise final spin wash machine full clothes #notsexist #fact' , 8.902 , 0 , sexism
+'call sexist man always be superior driver' , 1.645 , -1 , sexism
+'call sexist idc girl fight argument just sound retarded' , 8.913 , -1 , sexism
+'be not sexist be become be drive' , -9.653 , 0 , sexism
+'be not sexist female character tv show be usually most annoying character' , 0.919 , -1 , sexism
+'im not sexist football be not mean woman' , -2.482 , 0 , sexism
+'be not sexist do feel be too many woman ESPN #notthesame be not sexist straight world be not ready most powerful influential country have woman' , -28.561 , 0 , sexism
+'be not sexist just prefer be make sammich instead read' , -4.833 , 0 , sexism
+'be not sexist follow very well inform knowledgeable female fan comment be daft' , -2.194 , 1 , sexism
+'make sandwich o #notsexist' , 4.507 , 0 , sexism
+'xbox be design boy make be design girl get idea #notsexist #promise #lol' , 2.924 , 1 , sexism
+'be woman be sexist comment directly be watch football just do not talk team score' , -18.518 , -1 , sexism
+'agree rather brush tooth sandpaper then watch football girl' , 8.909 , 1 , sexism
+'unfortunate get tf mention' , -0.223 , -1 , sexism
+'say something enforce stereotype be not same stereotype #jogon' , -7.289 , -1 , sexism
+'be just selectively highlight woman meet stereotype be fish confirm be sexist' , -9.671 , -1 , sexism
+'be not sexist woman present football show just not take seriously' , -6.199 , 0 , sexism
+'not sexist girl twitter be not funny' , -0.832 , 0 , sexism
+'do not ever want female talk football be be play' , -18.2 , 0 , sexism
+'not sure woman darts be tv too be just really bad see better pub #notsexist #justshocking' , -18.394 , -1 , sexism
+'be sexist be just realist not make sense shit do society' , -11.552 , -1 , sexism
+'call sexist be watchin nat.championship just prove be not sport fan matter' , -3.832 , -1 , sexism
+'call sexist old fashion new trend dude take alimony be shameful utterly unmasculine' , 6.497 , -1 , sexism
+'Ladies have be price go down call sexist know be true #joke' , -8.234 , -1 , sexism
+'suck ball hoe' , 0.223 , -1 , sexism
+'be not sexist BITCHES CAN NOT drive' , -1.03 , -1 , sexism
+'be not sexist be not single woman sport stand sit' , -5.139 , 0 , sexism
+'be not sexist just remember hate feminist be black orjewish please stop whine' , -10.313 , -1 , sexism
+'be not sexist anything really be not hear be female comedienne have lot do ma' , -24.674 , 0 , sexism
+'be joke tell woman make sandwich want spaghetti bitch better make #notsexist' , -7.023 , 1 , sexism
+'do not care people call sexist do not find female comedian funny' , -8.749 , -1 , sexism
+'im not sexist come learn prefer male fave teacher be male' , 1.086 , 0 , sexism
+'direct quote op come learn prefer male nice try' , 2.773 , 1 , sexism
+'be not sexist woman football make feel sick' , -5.219 , -1 , sexism
+'woman be really bad driver #notsexist #sorryitsthetruth' , -3.257 , -1 , sexism
+'call sexist just not stand woman auto journalist something just be not right' , -13.914 , -1 , sexism
+'be not sexist heck do have girl' , -3.814 , 0 , sexism
+'be not sexist most girl bad driver' , 2.617 , -1 , sexism
+'be not sexist girl be not funny' , -3.168 , 0 , sexism
+'be not sexist bitch not drive SHIT' , -2.311 , -1 , sexism
+'im not sexist hate woman sport commentator' , 4.973 , -1 , sexism
+'swear be not sexist get lady outta here come football' , 7.965 , -1 , sexism
+'not sexist really dislike woman announcer' , 1.0 , -1 , sexism
+'be not sexist hate serve woman be so unbelievanly fussy drink' , -11.802 , -1 , sexism
+'LOL fucking doubt be not sexist especially girl respect man so ever well most' , 3.757 , 1 , sexism
+'HOLY FUCK IM NOT SEXIST BUT ALOT WOMEN CAN NOT FUCKING drive' , 10.146 , -1 , sexism
+'be good talk wife be so much easier say shut n make sammich #notsexist lol' , -6.28 , 1 , sexism
+'be thing care less about soccer Women soccer #notsexist' , 2.93 , 1 , sexism
+'Women tennis be good standard #shitnoonesays #notsexist #stillenjoywatchingivanovic' , 3.376 , -1 , sexism
+'oi be not sexist swear god only woman population know drive properly ff' , 1.332 , -1 , sexism
+'be not sexist feminist make sick go about fight equality sorry' , 2.03 , -1 , sexism
+'#bizarresexism do not know buy find hearty handshake woman be very awkward #notsexist' , -8.849 , -1 , sexism
+'word lady very short skirt shorts thanks #notsexist #grateful' , 7.398 , 0 , sexism
+'call sexist do not care girl know make Roti' , -0.773 , -1 , sexism
+'call sexist hate hear girl argue bout sport' , 12.175 , -1 , sexism
+'call sexist do not like woman commentator man sport' , 2.243 , -1 , sexism
+'call sexist do not like female engineering teacher' , 0.809 , -1 , sexism
+'be not sexist dammit best joke be' , -8.011 , 1 , sexism
+'bitch be drive God damn be not sexist be not car be drive female ever lol' , -9.211 , -1 , sexism
+'dude go culinary school #why #findawife #notsexist' , 6.432 , 1 , sexism
+'be not sexist woman comedian be not funny' , -8.219 , 0 , sexism
+'man umbrella just do not look right be #notsexist' , -8.087 , 0 , sexism
+'watch men slope style be way better watch woman #notsexist #justsayin' , -3.95 , 0 , sexism
+'Pizza dinner say need wife twitter call sexist' , 0.11 , -1 , sexism
+'call sexist shopping woman take' , 1.154 , -1 , sexism
+'call sexist just not enjoy game as much woman call' , -5.943 , -1 , sexism
+'call sexist have desire see stand alone wonder Woman movie' , -1.266 , -1 , sexism
+'Ok so girl replacin kinda strange #notsexist' , 9.063 , 0 , sexism
+'be sorry call sexist woman not get involve football have make oath never take bird' , -9.313 , -1 , sexism
+'be not sexist woman play poker' , -5.324 , -1 , sexism
+'im not sexist do bring tear eye see woman successfully reverse parking space' , -3.051 , 1 , sexism
+'back straight ball be do scientific precision' , -8.361 , 0 , sexism
+'Women cricket be not sexist rather kick eye' , 3.794 , -1 , sexism
+'be not sexist not work female manager same time anymore' , -9.583 , 0 , sexism
+'just hear someone say feminist be fantastic be really hope do not hear ever again #notsexist' , -19.903 , 1 , sexism
+'discribe dick be hungry #notsexist' , 0.38 , -1 , sexism
+'culture be not sense humor be silencing shame terrifying woman' , -11.182 , -1 , sexism
+'never know be culture well COLOR SHOCKED find be ignorant impression imply' , -6.767 , -1 , sexism
+'call sexist guess just not do female commentator want watch #CINvLOU watch #flavmiss instead' , -5.228 , -1 , sexism
+'call sexist be exactly girl not be take serious football 3nil down be smile' , -2.759 , -1 , sexism
+'be not sexist fuck woman yid Twitter be fucking clueless' , -8.183 , -1 , sexism
+'im not sexist most woman take best seat pubs/clubs have clue be go' , -10.16 , 1 , sexism
+'belive let female know do not run shit round here be not sexist do belive show respect be due' , -13.876 , 1 , sexism
+'im not sexist girl ref really' , 7.555 , 0 , sexism
+'be not sexist show good woman lol' , -2.462 , 1 , sexism
+'call sexist pig only woman be allow do anything sport' , -2.335 , -1 , sexism
+'honestly know most woman also just happen be sexiest' , -14.056 , 1 , sexism
+'be sure commentator do not find attractive make less money opinion matter so much' , -12.794 , 1 , sexism
+'be not sexist woman letterman jacket look so weird' , -2.913 , -1 , sexism
+'be not sexist not stand woman commentator' , -3.773 , 0 , sexism
+'not sexist be get little tired female announcer' , -1.91 , -1 , sexism
+'call sexist come football idc hate girl put pic hot guy that team be' , 14.726 , -1 , sexism
+'call sexist idgaf be true' , 0.665 , -1 , sexism
+'call sexist just feel man woman have appropriate role life' , -7.399 , -1 , sexism
+'sound dumb end story quit cry make big deal little thing tf' , 2.773 , -1 , sexism
+'10-to-1 odds guy faint punch be not sexist girl not fight think need stop' , -1.343 , -1 , sexism
+'be not sexist lot female lack true logic sometimes lot guy be just dumb' , -9.972 , -1 , sexism
+'need change name be be throw #nooffenseladies #notsexist' , -6.455 , 0 , sexism
+'girl be cheer team bc think player be hot need get back kitchen #notsexist #justth' , -7.526 , 1 , sexism
+'call sexist true definition #goddess be good house wife mother also have good health look physique' , -2.433 , -1 , sexism
+'broken lady younger generation fail description way man be feminine d' , -3.721 , -1 , sexism
+'be not sexist woman football be' , -6.168 , 0 , sexism
+'be not sexist really dislike majority teenage girl' , 0.943 , -1 , sexism
+'remember use refuse get bus woman be drive #notsexist' , -3.873 , -1 , sexism
+'go ahead call sexist scandalous woman be wayyy lower book scandalous man mainly cause want be' , -13.322 , -1 , sexism
+'call sexist be be BIG difference guy girl be equality ability' , -2.998 , -1 , sexism
+'call sexist ur gf/woman/wife keep house exception room laundry folding clothes be m' , 1.763 , -1 , sexism
+'not sexist female comedian be so shit' , -3.92 , -1 , sexism
+'typical female want everything' , -1.673 , 1 , sexism
+'course be exception woman be bad driver be sorry be true #notsexist' , -12.578 , -1 , sexism
+'be not sexist woman rapper be bigger joke WNBA' , -9.857 , 1 , sexism
+'be not sexist lady Assassin just be not right #assassinscreedliberation' , -11.631 , -1 , sexism
+'be not sexist bet have training do snowboard trick girl be do have neve' , -14.084 , -1 , sexism
+'not sexist girl hu cant yall better find good divorce' , 4.665 , -1 , sexism
+'call sexist like just not watch woman hockey so boring' , -3.43 , -1 , sexism
+'call sexist y  woman not drive man y  read say not y  head' , -1.115 , -1 , sexism
+'call sexist male volunteer be more intelligent female' , -3.612 , -1 , sexism
+'call sexist watch woman play rugby be just plain wrong #weird' , -6.556 , -1 , sexism
+'call sexist do not think woman be allow grow beard' , -8.747 , -1 , sexism
+'not sexist watch girl ice hockey be really painful be do' , -6.437 , -1 , sexism
+'not sexist not listen woman talk man basketball #ainthappenin' , -4.529 , 0 , sexism
+'again call sexist man not get lower back tattoo' , -2.229 , -1 , sexism
+'be not sexist female standup have never successfully make laugh' , -8.971 , -1 , sexism
+'be not sexist female ref just make awful awful call cost Magic game bunch garbage be' , -9.685 , -1 , sexism
+'be not sexist man woman basketball ESPN be unwatchable' , -8.47 , 0 , sexism
+'people be too damn sensitive lol' , -5.321 , -1 , sexism
+'be not sexist men skill set ability be just league woman much more entertaining #olympics' , -13.846 , 0 , sexism
+'not sexist female football commentator just do not work not take serious Netball maybe' , -5.837 , -1 , sexism
+'be not sexist think sexism be hilarious' , -8.704 , 1 , sexism
+'need be be isnt sexist BUT ASKING LAWS INSISTING WOMEN be correct alway MEN be criminal be' , -13.424 , -1 , sexism
+'Woman half pipe be hard watch be not sexist be brutal finish run last athlete #iwanttocry' , -15.893 , -1 , sexism
+'be not sexist woman ice hockey be just naa' , -10.955 , 0 , sexism
+'woman big handbag be problem limited space the.overcrowded #notsexist' , -4.643 , -1 , sexism
+'hate tweet blonde girl curling team have extraordinary eye #notsexist #justsaying' , 2.52 , -1 , sexism
+'want social media site go just see girl react #notsexist' , -2.368 , 0 , sexism
+'be really not sexist be true say woman driver #thick' , -9.163 , 1 , sexism
+'be not sexist want punch girl broad city #workaholics' , 1.636 , -1 , sexism
+'be not sexist vast majority woman know be pure evil' , -12.852 , -1 , sexism
+'be not sexist lot y  female really be not good shit catch semen' , -13.71 , -1 , sexism
+'sorry be really not sexist stereotype have yet prove wrong woman driver' , -2.146 , -1 , sexism
+'be sorry be not sexist not stand #awful' , -5.562 , -1 , sexism
+'be not sexist woman not be ref' , -11.397 , 0 , sexism
+'be not sexist truly believe woman not drive idefk hell not be deadly behus' , -12.244 , -1 , sexism
+'be not sexist fuck woman half pipe be weak' , -7.777 , -1 , sexism
+'be not sexist most woman comic suck be not funny period couple other don' , -12.208 , -1 , sexism
+'not even sit down watch period woman hockey let alone class #notsexist just not excitin' , -8.161 , -1 , sexism
+'put woman room lawwwwd know happen #notsexist #justscared' , -0.334 , 0 , sexism
+'have dollar time girl have back almost hit have #notsexist #butdamn' , -3.625 , 0 , sexism
+'be not sexist sometimes woman proper need stfu' , -6.423 , 0 , sexism
+'be not sexist anyone think male female be equal ever be be naive' , -20.031 , -1 , sexism
+'be not sexist fuck female' , -1.686 , -1 , sexism
+'chick just be not funny call sexist' , -4.171 , -1 , sexism
+'call sexist honestly mass majority woman not cut combat arm be liability' , -4.631 , -1 , sexism
+'call sexist really hate girl gamer team really really hate lol' , 3.368 , -1 , sexism
+'call sexist woman hockey just do not sound Right' , -6.189 , -1 , sexism
+'be not sexist internet do be show most girl do not know form own opinion' , -13.731 , 0 , sexism
+'be not sexist be something so off put girl like football #controversial' , 2.312 , 1 , sexism
+'im not sexist girl basketball be hilarious matter level be suck annoying exist' , -1.915 , -1 , sexism
+'be not sexist female be ever gon tell do include mom' , -15.423 , 0 , sexism
+'be not sexist woman do cook nd clean better then #itsacompliment' , -8.459 , 0 , sexism
+'id consider open mind not sexist female UFC fuck' , 2.846 , -1 , sexism
+'Thats not begin so dumb yeah see mean fact suck go w/o' , -9.814 , -1 , sexism
+'be not sexist prefer shear athleticism man curl tactical woman game' , -5.036 , 0 , sexism
+'Iam not sexist y do woman have singular ability block way coz r busy texting make miss y dont u.' , -5.326 , -1 , sexism
+'nooo not sexist most woman be bad driver' , -4.631 , -1 , sexism
+'woman be so much worse man ski halfpipe #truedat #notsexist #sochi2014 #winterolympics' , -6.589 , -1 , sexism
+'woman skater not fall make look graceful man #notsexist' , -1.977 , 1 , sexism
+'not stand female comedian not name find funny #notsexist' , 0.915 , 1 , sexism
+'only thing do im sick that watch woman hockey #notsexist #killme' , -5.954 , -1 , sexism
+'be not sexist do believe most girl be not good driver' , -6.591 , 0 , sexism
+'be not sexist actively avoid support woman athlete then act defensive' , -5.547 , -1 , sexism
+'not agree more have never find female funny #notsexist #justthetruth' , -3.401 , 1 , sexism
+'sexist be people do not go be woman people be not go be poor qua' , -33.384 , -1 , sexism
+'be not sexist just so happen only complain quality be woman play ignore historical context' , -17.465 , -1 , sexism
+'complain have not clean house do look woman na jk be not sexist common make soup pl' , -15.007 , -1 , sexism
+'not sexist woman driver sometimes' , 1.288 , 0 , sexism
+'be not sexist leave girl write article people be so angry s' , -5.853 , -1 , sexism
+'be not sexist do not think be ready female' , -14.255 , 0 , sexism
+'im not sexist woman just cant be comedian be rapper' , -8.758 , 0 , sexism
+'sum thing jus be not right come girl lip #notsexist' , 0.148 , 0 , sexism
+'be right be male know be race track #notsexist #daytona500' , -12.374 , 0 , sexism
+'call sexist be female rap automatically dislike song #chauvinism #vocabword' , 0.665 , -1 , sexism
+'far be concerned girl argue be stupid call sexist' , 1.822 , -1 , sexism
+'call sexist girl just not curse' , 2.585 , -1 , sexism
+'call sexist not mind stay home wife do not need kid be raise someone other family' , -12.467 , -1 , sexism
+'call sexist do not care be mans sport #sorrynotsorry' , -3.534 , -1 , sexism
+'call sexist most girl have meet be not cut work full time #feministslookaway' , -5.53 , -1 , sexism
+'do not think woman make tough military decision Notice face raid h' , -11.609 , -1 , sexism
+'not sexist hate female announcer' , 2.846 , -1 , sexism
+'not sexist never vote woman do not think woman be mentally stable enough maybe' , -18.32 , -1 , sexism
+'be not sexist never vote girl' , 1.519 , 0 , sexism
+'be not sexist woman sky sport be shocking' , -5.796 , -1 , sexism
+'be honest like idea wife cooking cleaning guy earn money support family' , 0.689 , 1 , sexism
+'be not sexist cough only thing worse female league ref be female league ref husband' , -6.612 , -1 , sexism
+'great comment lad class be not sexist sexism be wrong be man so be never wrong #damnstraight' , -22.2 , 1 , sexism
+'ah be #feminist see #sexism everywhere then do check tweet call #sexist yo' , -12.496 , -1 , sexism
+'good luck buy razor sharp enough shave hirsute fanny armpit leg' , 0.405 , 1 , sexism
+'call sexist want not cook become less attractive' , 1.97 , -1 , sexism
+'call sexist be yet see funny female' , 1.135 , -1 , sexism
+'call sexist do not like play woman video game be survival horrorgame' , -9.846 , -1 , sexism
+'get bore woman stop make sense sometime especially talk part #notsexist' , -4.141 , -1 , sexism
+'be not sexist racist be bigot be difference' , -10.752 , -1 , sexism
+'damn make page daddy never love huh' , -0.693 , -1 , sexism
+'think really funny joke promise be not sexist have say' , -7.873 , 1 , sexism
+'im not sexist woman just not drive' , -3.025 , 0 , sexism
+'happy #womensday2014 lady good luck sandwich #notsexist' , 6.011 , 1 , sexism
+'not lie be generally clever funny relatable ruin girlishness #notsexist' , -0.467 , -1 , sexism
+'guy know only thing make woman happy be make man sandwich #notsexist' , -7.575 , 1 , sexism
+'im starve im so wear hell work bring get let alone go single dude prob n' , -2.574 , -1 , sexism
+'ftr be not sexist never vote be liar so come do not call sexist' , -9.148 , -1 , sexism
+'just do not find Woman comedian funny slightest #notsexist' , -3.806 , 1 , sexism
+'be not sexist annoy people be force make strong female protagonist movie book lamest char' , -10.814 , -1 , sexism
+'be not sexist nothing bore more novel' , -3.073 , -1 , sexism
+'be not sexist be house better finish dish dear' , -6.507 , 1 , sexism
+'think prefer male voice female voice sound more normal #notsexist' , 4.443 , 0 , sexism
+'be friend zone cut shit thanks management' , -6.036 , -1 , sexism
+'call sexist like not listen female calling analyze men college basketball game' , 5.331 , -1 , sexism
+'call sexist believe girl have clue horse' , 7.997 , -1 , sexism
+'people call sexist say truthful mean do expect man do cooking cleaning wash' , -3.184 , -1 , sexism
+'call sexist do not think girl work gym be help be alone need' , -12.911 , -1 , sexism
+'call sexist love watch woman fat ass walk away' , 0.866 , -1 , sexism
+'call sexist not stand play golf female especially middle aged elderly one SMH SPEED up g' , 6.247 , -1 , sexism
+'call sexist never take woman play poker seriously look easy meh' , 1.234 , -1 , sexism
+'look guy man have look woman ass point life' , -0.704 , 0 , sexism
+'be woman homosexual male' , -8.17 , 0 , sexism
+'face be not excuse self righteous son bitch do not worry be not refer' , -18.39 , -1 , sexism
+'be not sexist be girl weight room way' , -3.994 , 0 , sexism
+'be not sexist be not funny female comic world less funny bout plague' , -2.62 , -1 , sexism
+'issue female host sport broadcast be most have variation tone voice #notsexist' , -1.915 , 0 , sexism
+'like pickle woman thin cut #notsexist' , 3.76 , 1 , sexism
+'fall safer male be drive instead female #notsexist #justhonest' , 1.596 , 1 , sexism
+'not stand work office woman gossip entire time #notsexist #notlearningmuch' , -3.443 , 0 , sexism
+'maybe so be still right' , -5.918 , 0 , sexism
+'omg be not sexist enough woman cricket tweet complete estimation much people' , -8.233 , 1 , sexism
+'im not racist find racist joke funny im not sexist find gender stereotype funny imo nothin' , 8.119 , -1 , sexism
+'be not sexist most woman not drive offence girl best everything else' , -1.462 , -1 , sexism
+'fifa girl just do not go together #notsexist' , -3.068 , 0 , sexism
+'agree be only rapist fault advise girl take precaution potential rapist cal' , 0.688 , -1 , sexism
+'need girl iron shirt not call sexist' , 4.665 , -1 , sexism
+'call sexist hate hear girl argue bout sport' , 12.175 , -1 , sexism
+'call sexist man be far more civilised debate woman #debtdebate' , -6.962 , -1 , sexism
+'almost purely man raise voice woman just end scream' , -4.212 , -1 , sexism
+'ah see men raise voice woman scream' , -1.663 , -1 , sexism
+'men have discussion woman argue' , -3.755 , -1 , sexism
+'be inform man be difference Insurance house' , -10.451 , 0 , sexism
+'be not sexist say hate idiot female roommate get stick choice mean perf' , -6.762 , -1 , sexism
+'be not sexist female sport announcer annoy' , 3.76 , -1 , sexism
+'im not sexist anything woman college basketball be super lame' , -2.434 , -1 , sexism
+'im not sexist im just say wrong lower standard standard be implement com' , -2.744 , -1 , sexism
+'call sexist man not telecast woman sport woman not telecast man sport #sorrynotsorry' , -2.413 , -1 , sexism
+'people call sexist opinion female professional sport stop be so politically correct' , -1.41 , -1 , sexism
+'im not sexist cant be bossy bitch lol' , 2.225 , -1 , sexism
+'be not sexist hate guy lack masculinity be worst' , -4.427 , -1 , sexism
+'not sexist sport woman be worst thing be ever happen sky sport news #thatswhatloosewomensfor' , -4.444 , -1 , sexism
+'Women sport stare blank tv screen not sexist not seem get enjoyment' , 5.143 , 1 , sexism
+'most girl say all man be asshole be not sexist most guy say most woman not drive be sexist' , -12.379 , -1 , sexism
+'be not sexist most woman musician suck ass' , -7.403 , -1 , sexism
+'be not sexist most girl be fucking stupid' , -2.203 , -1 , sexism
+'man sorry im not sexist woman never let go' , -2.332 , -1 , sexism
+'have make observation lately lot woman really struggle parallel parking #notsexist' , -4.793 , -1 , sexism
+'woman be stupid Fuck then leave want be intelligent hang man #sorrynotsorry #notsexist #so' , -11.479 , -1 , sexism
+'id love turn tell lady shut cuz way be boss husband super annoyi' , -2.623 , -1 , sexism
+'not sexist woman basketball be REAL hard watch #layups' , -2.146 , 0 , sexism
+'not sexist fuck give damn WNBA' , 3.944 , -1 , sexism
+'be not sexist hate watch woman play sport' , -4.036 , -1 , sexism
+'not sexist really be not there guy have actually play college pro ball be other' , -15.62 , 0 , sexism
+'just fast forward have wife cook clean be not sexist just old school' , -4.471 , 0 , sexism
+'be not sexist extent female rapper' , -3.073 , 0 , sexism
+'be not sexist way shape form female presenter sky sport news be soo prestigious' , -3.832 , 0 , sexism
+'call sexist woman sport be bore be wear something short tight be jump around' , -6.437 , -1 , sexism
+'call sexist just do not find woman funny' , -6.124 , -1 , sexism
+'call racist call sexist time talk debate wan slap' , 1.614 , -1 , sexism
+'baby do not have dad life mom be whore be making' , -20.62 , -1 , sexism
+'road have more hole whore have kayly dad' , -8.383 , -1 , sexism
+'woman want man treat world fuck whore someone' , -5.583 , -1 , sexism
+'tell bitch whore slut cunt change behavior end speech' , 5.193 , -1 , sexism
+'be not sexist do not think man woman be equal' , -16.507 , 0 , sexism
+'be definitely not sexist be gon be awkwardly call poppet every-time see' , -15.134 , -1 , sexism
+'HAHA Im not sexist honestly think only man be report football Sportscenter just say haha' , -4.759 , 1 , sexism
+'be not sexist guy teacher be far better teacher be girl' , -3.963 , 0 , sexism
+'im not sexist only girl be funny twitter rest u hoe try too hard' , 3.298 , 1 , sexism
+'be not sexist Ferrari be red' , -6.219 , 0 , sexism
+'im not sexist female need stay fucking road' , 2.153 , 0 , sexism
+'be nothing more retarded then female talk shit kick guy ass be not sexist get real bitch' , -7.135 , -1 , sexism
+'WE GOT A here not sexist be man hole' , -0.588 , 0 , sexism
+'woman be so complicated #notsexist' , -5.203 , -1 , sexism
+'be girl come handy #someonecomeclean #notsexist' , 5.783 , 0 , sexism
+'be tool set phone background selfie male female #notsexist #jk #womanbeater' , -1.699 , 0 , sexism
+'be not sexist woman be sport commentator woman sport man man' , -5.055 , 0 , sexism
+'be not sexist woman driver be shit' , -8.183 , -1 , sexism
+'be really not sexist most woman not drive shit' , -9.637 , -1 , sexism
+'be woman football be not sexist find irrelevant' , -7.266 , 0 , sexism
+'be just not good look opinion im definitely not sexist just feel suit be more man' , -14.911 , 1 , sexism
+'be not sexist hate girl talk sport just wan smack em' , 2.113 , -1 , sexism
+'be not sexist just do not care woman wrestling' , -14.277 , 0 , sexism
+'back then men be charge woman be obligate woman be just equal even better not sex' , -25.709 , -1 , sexism
+'send mass snapchat laundry ask only woman fold #notsexist' , -2.413 , 0 , sexism
+'not woman drive be road kitchen bedroom #notsexist #sorrynotsorry' , -4.392 , 0 , sexism
+'be not sexist hate woman be play play person have idea talk' , -15.925 , -1 , sexism
+'be not sexist hate female vocalist normally paramore chick get pipe' , -6.762 , -1 , sexism
+'be not sexist get mad car drive see be woman be no longer mad' , -15.005 , -1 , sexism
+'be not sexist thing not be say female' , -14.339 , 0 , sexism
+'be not sexist woman comedian be fucking shit' , -7.659 , -1 , sexism
+'girl not do #notsexist #justthetruth' , 1.363 , 0 , sexism
+'dont even understand girl sport be televise #notsexist #justsaying' , 8.051 , 0 , sexism
+'girl have jungle leg #pleaseshave #notsexist' , 4.535 , 0 , sexism
+'im not sexist just amazing woman know cook #lovrmesomefood' , -2.583 , 1 , sexism
+'be not sexist just dont female singer haha' , -3.478 , 1 , sexism
+'be not sexist honestly say have never feel safe ride car woman drive' , -6.423 , 1 , sexism
+'be not sexist woman not be able drive' , -10.992 , 1 , sexism
+'im not sexist be Woman do not feel comfortable guy stick hand mouth.lol' , -9.594 , -1 , sexism
+'stop watch have ownership professional basketball team not sexist plenty other qu' , -4.256 , 0 , sexism
+'call sexist think woman motorcycle be kind dumb especially have ape hanger' , -8.466 , -1 , sexism
+'call sexist heel heel sorry lady also nasty nail vomit look clean least' , 10.652 , -1 , sexism
+'call sexist need female personal trainer be sexy #sorrynotsorry' , -3.324 , -1 , sexism
+'be sorry call sexist not respect female opinion entertain have do sport even pr' , -2.8 , -1 , sexism
+'be not politically correct people call sexist acknowledge gender difference distinctive i.' , -5.065 , -1 , sexism
+'call sexist despise female comedian female rapper' , 4.909 , -1 , sexism
+'sock mom fucking uterus ever talk again' , -1.791 , 1 , sexism
+'look be not sexist tell do not get least little nervous see woman' , -13.544 , -1 , sexism
+'be not sexist do believe woman be inferior man' , -11.893 , -1 , sexism
+'really piss anime girl do not have big boob #notsexist' , -1.933 , -1 , sexism
+'do woman announcer annoy anyone #nba #notsexist' , -0.474 , -1 , sexism
+'be not sexist be fact do more female be scientific fact only people say otherwise be' , -27.174 , 0 , sexism
+'woman rule world be just bunch country not talk other' , -13.411 , -1 , sexism
+'be woman want equal rights also want be cater same time #notsexist #justdatroof' , -11.725 , 0 , sexism
+'do not understand intent' , -6.467 , 0 , sexism
+'be not sexist everytime piss be always woman' , -8.47 , -1 , sexism
+'Mannnn be not sexist female not cook #killyaself' , -4.795 , 1 , sexism
+'be not sexist girl drive do not work' , -2.751 , 0 , sexism
+'only position belong ;-rrb- haha #notsexist' , 4.22 , 1 , sexism
+'cook Bitch ;p back douche mannnn be not sexist female not co' , -4.285 , 1 , sexism
+'be not sexist woman make want be' , -13.035 , 0 , sexism
+'swear be not sexist sometimes think act way idk explain v.v' , -2.667 , -1 , sexism
+'be not sexist woman man be just different not be same be not say man be superior yeehh' , -34.683 , 1 , sexism
+'girl play football park guy just look somewhat unnatural #notsexist #observations' , 13.391 , -1 , sexism
+'#arnabgoswami be woman just not stop talk #notsexist' , -12.475 , 0 , sexism
+'let hear woman perspective sport event go well #notsexist #justobservant' , 1.177 , 1 , sexism
+'be not sexist just do not believe idiosyncrasy certain female there male too' , -11.109 , 0 , sexism
+'be moderator bigbang fansite not be more objective seriously sometimes girl not think properly' , -15.702 , 0 , sexism
+'emotion get way far too often be not sexist be just state see fact' , -16.487 , 0 , sexism
+'do woman play best man best tennis be not sexist most sport woman be not' , -20.178 , 1 , sexism
+'be not sexist woman suck drive not have right get wheel' , -12.75 , -1 , sexism
+'anyone do not agree woman be legally prohibit drive be sexist !? outrage' , -9.879 , -1 , sexism
+'just think woman do not have human rights #doesntmakemesexist' , -14.905 , 0 , sexism
+'be not sexist be woman not be allow have opinion football' , -13.522 , 0 , sexism
+'as far girl team name female team have place top major event not sexist be waste' , -5.137 , -1 , sexism
+'be not sexist woman league football ever get kind attention man league get' , -9.418 , 1 , sexism
+'talk number single lady not understand not keep partner tell call' , -8.743 , 0 , sexism
+'call sexist have yet have woman roll good burrito Chipotle be be' , -14.097 , -1 , sexism
+'call sexist not stand see girl neck pint' , 5.946 , -1 , sexism
+'swear be not sexist girl drummer look really awkward play' , 5.705 , -1 , sexism
+'be not sexist do have problem people exploit double standard use sexuality attention tho' , -11.902 , -1 , sexism
+'hate woman want be man be not sexist be biology be just different accept' , -23.774 , -1 , sexism
+'just most man take sexist remark gender do not mean be not sexist just do not cry' , -13.296 , -1 , sexism
+'Dont female superior not sexist feel uncomfortable male superior more nice friendly mean' , 3.251 , -1 , sexism
+'give daughter fighting chance do not start name' , -9.463 , -1 , sexism
+'be not racist be not sexist be just tire self-entitlement' , -15.876 , -1 , sexism
+'be watch battleship again sorry sound sexist moment even bottom do not make worth watchi' , -1.708 , -1 , sexism
+'listen be not sexist girl be man relationship' , -3.301 , 0 , sexism
+'be not sexist be really glad be guy lol' , -8.737 , 1 , sexism
+'tell mom leave money counter.also ask sandwich be #notsexist #sorynotsorry' , -5.149 , 1 , sexism
+'happen vice versa man be smarter naturally #notsexist' , -2.797 , -1 , sexism
+'away probably fucking dude instead make sandwich' , 3.178 , 0 , sexism
+'im not sexist find really weird see woman sing band full guy' , 1.182 , -1 , sexism
+'not sexist not stand woman black cabbie just see bounce #bignono' , -6.832 , 0 , sexism
+'be not sexist do agree gender role have dick U do not gender be not same' , -18.644 , 0 , sexism
+'be not sexist do not want hear female call game' , -15.491 , 0 , sexism
+'be' , -4.532 , -1 , sexism
+'understand especially come self defense im not sexist be thing be' , -4.65 , 0 , sexism
+'be not sexist do believe man provide family woman stay home take care' , -7.649 , 1 , sexism
+'type be google not be autofill result not sexist need t' , -9.957 , 0 , sexism
+'woman be reckless driver #notsexist #realtalk' , -0.484 , -1 , sexism
+'woman shouldnt rap gross #notsexist' , 2.374 , -1 , sexism
+'female comedian just be not funny reason #notsexist #justfacts' , -1.16 , 0 , sexism
+'kill man say woman take fuck compliment not objectification man literally fuck apple pie' , -9.454 , -1 , sexism
+'be not sexist woman work construction just be not same' , -17.465 , 0 , sexism
+'not sexist woman act just plain stupid 100 fight equality be gon play dumb' , -6.017 , -1 , sexism
+'im not sexist #yesallwomen post be just most dumbest thing twitter' , -9.364 , -1 , sexism
+'stfu im sick useless ass people mention' , -2.11 , -1 , sexism
+'prefer more attractive girl be not sexist' , 3.598 , 1 , sexism
+'im not sexist reason time woman come give h' , 0.307 , 0 , sexism
+'be not sexist girl beg wear yoga do not get uptight see guy look then be just helpus' , -10.086 , -1 , sexism
+'be not sexist woman be be treat other person planet' , -15.488 , 0 , sexism
+'not sexist hate female sport announcer' , 6.213 , -1 , sexism
+'be not sexist be memorial badge #pganotlpga' , -6.912 , 0 , sexism
+'be not sexist be old hat clean car bloke job cut grass bloke job have dish' , -0.961 , 0 , sexism
+'be not sexist damn do let act know basketball' , -5.333 , -1 , sexism
+'be not sexist read new colour parking bay assist woman park faster think' , -3.245 , 1 , sexism
+'be so shut fuck be go be arrogant' , -15.004 , -1 , sexism
+'stop be feminazi struggle attract other sex stop start dr' , -9.255 , -1 , sexism
+'shut man woman murder equally have not kill anybody so do not' , -18.273 , -1 , sexism
+'y  exit conversation nobody like piss everybody off' , 5.663 , -1 , sexism
+'be not sexist generally speak girl just be not funny exception none know m' , -5.876 , 0 , sexism
+'be not sexist cant stand female analyst idk feel pressured try too hard idk put' , 0.393 , -1 , sexism
+'female need stop think be treat exactly same male Society Wont let happen #factsoflife n' , -10.131 , 0 , sexism
+'woman short list parliament really be good enough beat man vote #notsexist' , -5.336 , 1 , sexism
+'have yet meet woman cut good haircut #notsexist' , -2.308 , 1 , sexism
+'sister be woman be worst #notracist #notsexist' , -7.096 , -1 , sexism
+'be girl so bad math know so much hair volume volume mascara #notsexist' , -2.385 , -1 , sexism
+'woman not park #notsexist #fact' , -2.057 , 0 , sexism
+'jealous cause be inferior #jokes' , -5.225 , -1 , sexism
+'girl sport be not sport #notsexist #justfacts' , 6.7 , 0 , sexism
+'be not sexist pokemon team have ever have have always be strictly male hmmm' , -21.076 , -1 , sexism
+'be not sexist do not believe equality' , -5.957 , 0 , sexism
+'be not sexist female comedian be shite #banthem' , -5.408 , -1 , sexism
+'do not make sexist have right opinion believe equality be equal man' , -4.493 , -1 , sexism
+'swear im not sexist WNBA pass lol' , 7.346 , -1 , sexism
+'Easy bake oven teaching girl role life im not sexist be hilarious' , 1.231 , 1 , sexism
+'not sexist woman tennis be joke compare man hahaha more break serve hold' , -5.612 , 1 , sexism
+'do know be minority miss point entire #YesAllWomen tag' , -9.277 , -1 , sexism
+'be not sexist bit girl not be play football end story' , -1.846 , 1 , sexism
+'be talk vike size man huge amount lust cm girl then not like' , -4.477 , 0 , sexism
+'many #YesAllWomen tweet be degrade man support campaign many woman' , -9.779 , -1 , sexism
+'im not sexist dont think girl be funny' , 4.984 , 1 , sexism
+'be not sexist feminist be pinnacle double standard' , -2.818 , 0 , sexism
+'be female do not say bruh be not sexist shit be just unappealing' , -23.981 , -1 , sexism
+'be not sexist have not meet single female be good parking' , -13.422 , 1 , sexism
+'actually hate people talk sport not name player play sport #mostlywomen' , -4.881 , -1 , sexism
+'just clear thing do not skip female comedian be female just generally suck #notsexist' , -13.935 , -1 , sexism
+'be not sexist fuck do girl try talk tweet football impress lad be thing do not ru' , -12.552 , -1 , sexism
+'be not sexist palin be complete joke politics be no different better not much' , -15.065 , 1 , sexism
+'typical woman stick nose' , -2.944 , 0 , sexism
+'be not sexist anyway also y  feminist be rocker' , -5.408 , 0 , sexism
+'be not sexist sexist joke be funniest joke there opinion' , -2.59 , -1 , sexism
+'not sexist girl be allow football show only have brain' , 5.074 , 0 , sexism
+'woman vocalist rock music thought personally prefer man singer seem have more passion #notsexist' , 0.464 , 1 , sexism
+'mean disrespect girl be much more difficult boy #notsexist' , 3.809 , -1 , sexism
+'be point have cleaning lady have mom sister #notsexist' , -7.597 , 0 , sexism
+'also note man wear fake tan be not man #notsexist #justhonest' , -4.471 , -1 , sexism
+'girl dig football be not sexist girl hate football then watch have opinion na' , 8.924 , -1 , sexism
+'be not sexist girl please do not pipe football be know have idea just sit si' , -11.273 , 1 , sexism
+'guess #tammy be next terrible comedy list only female laugh theater #guaranteed #notse' , -8.521 , -1 , sexism
+'never be not sexist woman please just stop tweet football do not tweet cooking' , -17.208 , 1 , sexism
+'do not need be not sexist post bitter comment have less less sympathy female struggle' , -12.954 , -1 , sexism
+'be not sexist just do not believe woman be' , -17.017 , 0 , sexism
+'woman be terrible driver just say #jesustakethewheel #notsexist #justtruth' , -4.761 , -1 , sexism
+'FYI one timeline know nothing football #notsexist' , 8.314 , 0 , sexism
+'male-led empire have fall iirc im not sexist history show empire fall woman take control' , -2.141 , 0 , sexism
+'not sexist do girl talk football do put tl mac product buy stay lane' , 3.469 , 0 , sexism
+'song be guna hit someone do not punch girl #wasteofaredcard #notsexist' , -2.813 , -1 , sexism
+'actually be not mistake be comprehension girl be just rubbish geography #notsexist' , -12.683 , -1 , sexism
+'im not say woman cant be great leader be weak fact be incredibly more decept' , -21.378 , 1 , sexism
+'male lead empire usually fall do listen wifey more often mom show be really runnus' , -8.389 , 0 , sexism
+'be not sexist hate girl' , 1.231 , -1 , sexism
+'be not sexist woman be just girl never rap' , -8.443 , -1 , sexism
+'sorry girl never be able compete level football man football have set #notsexist' , 7.785 , -1 , sexism
+'woman driver say kick ass' , -0.577 , -1 , sexism
+'im not sexist be just drunk shit have problem wife believe ha' , -4.982 , -1 , sexism
+'take way too personal yo' , -3.583 , 0 , sexism
+'be go social club be see woman main bar be mad just not right #notsexist' , -22.676 , -1 , sexism
+'swear im not sexist female tattoo artist bug' , 5.043 , -1 , sexism
+'be not sexist believe kid have parent home be fully parent' , -8.704 , 0 , sexism
+'be not sexist believe man woman have role house' , -8.214 , 0 , sexism
+'be not sexist girl not do everything guy do physically' , -4.095 , 0 , sexism
+'be sorry be not sexist do not find woman comedian funny maybe tanisha long' , -10.256 , -1 , sexism
+'be not sexist really do not get girl be just completely incompetent kitchen' , -15.943 , -1 , sexism
+'be not sexist want girl be go cook clean take care everything else' , -3.925 , 1 , sexism
+'swear be not sexist Women tennis be most boring sport watch' , -0.654 , -1 , sexism
+'be not sexist be definitely man drink' , -7.605 , 0 , sexism
+'not fault people feed stereotype example sister be be multiple' , -12.715 , -1 , sexism
+'idk be not sexist female be not do' , -14.073 , -1 , sexism
+'be always fun watch sport w woman room #myaunt #notsexist' , -0.871 , 1 , sexism
+'not even good use meme have never meet woman drive well be none business #notsexist' , -9.836 , 1 , sexism
+'think be great/funny cameraman still get away zoom hot woman game #not' , -9.625 , 1 , sexism
+'blonde end be great spot' , -4.127 , 1 , sexism
+'amount time wonder people get licens be directly proportional number female driver o' , -9.233 , 0 , sexism
+'not sexist woman comedian suck' , 0.712 , -1 , sexism
+'im not sexist thanks be such mess mean' , -1.686 , 1 , sexism
+'be not sexist feminist sometimes be stupid woman make mistake too be not perfect nobody be' , -23.353 , -1 , sexism
+'be not sexist see lady drive fast car get piss Yo chick be not drive right' , -4.792 , -1 , sexism
+'be not sexist do believe woman man play very different role society be not limit' , -12.335 , 0 , sexism
+'have have spewer cab not sexist time girl guess do not eat b4 drink joy' , -9.78 , 1 , sexism
+'be not sexist do WNBA really have exist' , -10.197 , 0 , sexism
+'everyone say be unreal be be help play girl' , -11.778 , -1 , sexism
+'half time read girl tweet read dude sh*t sorority girl say video #notsexist j' , 10.813 , 1 , sexism
+'not really sexist be take piss feminist not woman' , -7.558 , -1 , sexism
+'need run time not sexist not run country' , -4.475 , 0 , sexism
+'kind think woman not be cop be infantry #notsexist' , -12.914 , 1 , sexism
+'be not sexist just think woman driver be not as good' , -13.777 , 1 , sexism
+'be not sexist woman sport be awful' , -5.391 , -1 , sexism
+'be not sexist woman do something notable give birth give acknowledgement deserve' , -11.637 , 0 , sexism
+'be sexist pay men Women same prize money be farcical job go be ent' , -9.232 , -1 , sexism
+'hate woman talk football do not know be talk be only cute know shit #nosexist' , -22.689 , -1 , sexism
+'be not same job otherwise be compete other better sportsperso' , -13.09 , -1 , sexism
+'be not sexist do not like fact woman do not think man let' , -18.952 , 0 , sexism
+'not sexist do not find woman stand comedian funny ever' , -2.695 , 1 , sexism
+'be not sexist chick not be able say be period do not feel good not have work' , -33.536 , 1 , sexism
+'be be wrong period be not excuse go home early' , -17.777 , -1 , sexism
+'hell man make Thor woman be make SpiderMAN woman be not sexist just do not do certain thing' , -28.878 , -1 , sexism
+'male be unworthy woman be take place be not sexist be bull sheeeeeit' , -18.699 , -1 , sexism
+'not believe be release female Thor comic book series be not sexist really do not think work' , -19.602 , 0 , sexism
+'Hmmm be girl be not sexist hope get explain really well #thor #loki #marvelmovies #odi' , -2.965 , 1 , sexism
+'be dude be not sexist tend affiliate male character Majority com' , -4.022 , 0 , sexism
+'be woman be not sexist just do not make fucking sense' , -17.423 , 0 , sexism
+'be Marvel be not sexist be stupid' , -10.752 , -1 , sexism
+'black widow understand be original character be not sexist have always be guy not s' , -14.895 , 0 , sexism
+'be not sexist not picture be anything else then character be' , -15.288 , 0 , sexism
+'be not sexist fuck marvel disrespect' , -0.993 , -1 , sexism
+'not sexist God Thunder have be man middle age be next movie female' , -9.92 , 0 , sexism
+'be not sexist have be woman new comic be idea be not so' , -24.318 , 0 , sexism
+'say be thank god do not also make Thor black people have explode' , -21.376 , -1 , sexism
+'be completely not sexist be dude' , -5.526 , 0 , sexism
+'do just hear be make marvel character thor female be not sexist really #thorlorealadsherewecome' , -15.305 , 0 , sexism
+'be not sexist do not like be woman be male mythological figure be make Zeus chick' , -24.696 , 1 , sexism
+'be not sexist girl smoke be big turn even status still turn' , 0.148 , 1 , sexism
+'love man need create system inequality know not compete woman home work' , -9.272 , 1 , sexism
+'course do get back kitchen #notsexist' , -4.802 , 0 , sexism
+'so be woman be black iron man be superior silver #wheredidmychildhoodgo' , -18.893 , 1 , sexism
+'be n dumb idea be change girl hope burn hell #notsexist' , 1.25 , 1 , sexism
+'just not very appeal then again be tv show revolve woman prison probably do not like' , -13.356 , -1 , sexism
+'sad hear be go be lady change be history here real historic viking god #notsex' , -9.762 , -1 , sexism
+'be not sexist change make next Thor female be not something be okay due almost always be' , -24.279 , 0 , sexism
+'just see girl drive wrong way way girl really do not know drive #notsexist #guysdoitbetter' , 0.892 , -1 , sexism
+'mute woman sportscaster' , -1.845 , 0 , sexism
+'remind say fiction reality do not have tumblr account rant' , -13.347 , 0 , sexism
+'call sexist make woman be major bummer' , -4.477 , -1 , sexism
+'woman not be propose man circumstance b. u cant tell nothing call sexist idccccc' , -6.017 , -1 , sexism
+'call sexist be just thing man do better example refuse be teach drive woman' , -14.33 , -1 , sexism
+'call sexist not watch cause main character be woman' , -5.206 , -1 , sexism
+'be not sexist feminist annoy shit' , -0.3 , -1 , sexism
+'be not sexist hate female sport talk host' , -1.497 , -1 , sexism
+'be not sexist be not woman world pull Thor be fucking man Always have be al' , -26.531 , 1 , sexism
+'be not sexist be not afraid hit girl fact plan' , -4.331 , 0 , sexism
+'be not sexist fully believe support idea gender equality woman really not drive' , -1.371 , 1 , sexism
+'not sexist do not like weak woman pov kickass woman pov Cersei know' , -8.635 , -1 , sexism
+'Dont understand #Marvel be make change character Thor be favorite mine im not sexist Im mad he' , -0.961 , -1 , sexism
+'not sexist female action movie ehhhh' , 2.153 , 1 , sexism
+'work virtually female environment not sexist come be own problem sadly' , -3.073 , -1 , sexism
+'be not sexist woman just not be sport announcer' , -10.227 , 0 , sexism
+'Driverless car be improvement clown road #notsexist' , -0.6 , 1 , sexism
+'basically u use woman #notsexist need buy soap return red box movie shit need' , -4.035 , -1 , sexism
+'lot leg show approve #notsexist' , 4.779 , 0 , sexism
+'be go treat ur girlfriend wife ask Fancy finger #notsexist' , -1.853 , 1 , sexism
+'be girl just mad world reason #notsexist' , 1.506 , -1 , sexism
+'female not sexist be only camp right not be happen regu' , -14.809 , 0 , sexism
+'Para here be elite most applicant fail p company be not sexist woman nev' , -9.451 , -1 , sexism
+'not sexist not be take seriously have become' , -11.492 , 0 , sexism
+'be not sexist woman suck drive' , -3.127 , -1 , sexism
+'im not sexist swear female comedian be not funny' , 1.455 , -1 , sexism
+'be not sexist female sport reporter need come end immediately' , 3.472 , 0 , sexism
+'be not sexist fuck catch girl pokemon #pokemonprobs' , 3.31 , -1 , sexism
+'look be not sexist only funny woman comedy be amy poehler kristen wiig' , -5.212 , 1 , sexism
+'be not sexist not help cringe woman talk football #notsexist #wheresmytea' , -3.638 , -1 , sexism
+'who idea be hire female man be ridiculous not sexist be not place' , -13.455 , -1 , sexism
+'be not sexist hear woman voice radio turn' , -3.82 , 0 , sexism
+'do not get pants bunch be not sexist pc geekdom world heaven forbid disagree' , -12.536 , -1 , sexism
+'im not sexist feminist be most annoying people there' , -2.986 , -1 , sexism
+'apparently guy not take joke that non business' , -2.233 , 1 , sexism
+'be good female comedian comediennes prefer not think even #notsexist' , -3.932 , 1 , sexism
+'im not sexist corps make infantry open woman get female commadant be' , -8.032 , 0 , sexism
+'be not sexist do believe male female role extent' , -5.11 , 0 , sexism
+'#pleasedontshoot #handsup #mikebrown #ferguson #peace #janellemonae' , 0.0 , 1 , sexism
+'woman disavow name advocacy man rights' , -3.167 , -1 , sexism
+'be not sexist dont deal woman be business do be too emotional' , -15.851 , -1 , sexism
+'not sexist be pure comedy' , -2.38 , 0 , sexism
+'be not sexist do not think actually find female funny' , -10.757 , 1 , sexism
+'be not sexist asleep female drive be xan' , -4.715 , 0 , sexism
+'have watch lot female comedian do stand none humour' , -3.135 , 1 , sexism
+'be not sexist female comedian just be not funny' , -8.453 , 0 , sexism
+'just do not make laugh whip tit do something entertaining' , -14.69 , -1 , sexism
+'be not sexist female comedian cease exist immediately be painful watch' , -6.794 , -1 , sexism
+'have vagina do not try be funny' , -11.929 , 1 , sexism
+'be not sexist female rapper need just stop' , -8.266 , 0 , sexism
+'guy be better then woman everything not sexist be just coz be competitive hell' , -16.692 , -1 , sexism
+'be not sexist be evident woman not do man job come tennis coaching #mauresmoout' , -11.354 , 0 , sexism
+'be not sexist female comedian just be not funny' , -8.453 , 0 , sexism
+'love female swear everyone someone come close hittin car look be female #notsexist' , 4.413 , 1 , sexism
+'be not sexist know funny girl be go DID hear guy be just joking therefore prattle mouth CAN NOT be sexist' , -9.898 , -1 , sexism
+'guy be not sexist do think man woman be good different thing' , -14.196 , 1 , sexism
+'im not sexist woman man play mlb together id stop watch' , -4.48 , 0 , sexism
+'call sexist hate hear female rapper switch song hesitation whatsoever' , 2.019 , -1 , sexism
+'happily pay more flight ensure woman be control bet lot woman too' , -14.41 , 1 , sexism
+'listen be not sexist dumbass have cross lately have be female' , -14.197 , -1 , sexism
+'Bruh be not sexist be WNBA entertaining' , -6.219 , 0 , sexism
+'nah im not sexist female rapper cant' , 2.846 , 0 , sexism
+'be not sexist never ride chick motorcycle' , -3.073 , 0 , sexism
+'FUCK be not sexist have girl recruit school again Son bitch' , 5.207 , -1 , sexism
+'only experience be terrible classmate fuck guy keep slit shut skank' , -0.949 , -1 , sexism
+'anyone else have mute tele woman be match #notsexist' , -7.246 , 0 , sexism
+'see woman drive lorry town serious irony turn be hoover lorry #notsexist' , 0.508 , -1 , sexism
+'call sexist just not stand female rapper yuck voice' , 1.172 , -1 , sexism
+'call sexist not stand woman SportsCenter talk football' , 3.59 , -1 , sexism
+'do not dare call sexist generalize woman have dollar time hear woman say man be' , -22.442 , -1 , sexism
+'be not sexist female not do nigga do end y  gon look hoe dude gon look' , -3.739 , 1 , sexism
+'again again be remind harshly have woman truly suck #sorrynotsorry #itsfact #notsexist' , -4.356 , -1 , sexism
+'be not sexist have ever see female even look know be do wheel car' , -16.077 , 1 , sexism
+'just see comment chivalry be rarely practice female be not sexist be irrationality be finest' , -21.17 , -1 , sexism
+'not sexist woman sky sport have opinion everything be tell there ear piece #pointless' , -2.544 , -1 , sexism
+'be not sexist have yet hear good woman play play' , -10.987 , 1 , sexism
+'be not sexist ever get woman be move country' , -12.565 , 0 , sexism
+'be not sexist cut whole sideline nonsense be absolutely useless take' , -8.298 , -1 , sexism
+'btw be not sexist replace #WCBD #news2 be inexperienced' , -6.219 , 0 , sexism
+'not sexist last thing woman change be diaper' , -6.933 , 0 , sexism
+'be not sexist woman sort ur fucking parking ff' , -2.434 , 0 , sexism
+'Sooooooo lady start post picture cook rather eat #notsexist #justcurio' , 5.359 , 1 , sexism
+'keep get damn ad girl be better sport then guy sorry not #notsexist' , 3.122 , -1 , sexism
+'be not sexist woman sport sky sport news app twitter feed boil blood' , 2.391 , 0 , sexism
+'be not sexist just not watch football female even mom not stand' , -8.533 , 0 , sexism
+'be not sexist be just not comfortable female' , -12.324 , 0 , sexism
+'be not sexist woman not drive ever' , -7.558 , 0 , sexism
+'like think be not sexist BUT not stand female be clueless sport talk sport' , -0.044 , 1 , sexism
+'be not sexist not stand feminist' , -1.435 , 0 , sexism
+'im really not sexist such turn girl say bro time sentence so fuckn ignorant lol' , 4.041 , -1 , sexism
+'be not sexist bitch be bitch' , -3.693 , -1 , sexism
+'im not sexist female manager be fucking retard overall useless' , -0.182 , -1 , sexism
+'be not sexist be just not fan woman rapper' , -13.882 , 0 , sexism
+'bus woman driver be always late #notsexist #justanobservation' , -1.465 , 0 , sexism
+'woman not be football announcer #notsexist #justannoyed' , -1.514 , 0 , sexism
+'be not sexist girl age drive be super scary' , 3.46 , -1 , sexism
+'im not sexist ma life there gene woman block rationality' , -0.791 , -1 , sexism
+'be not sexist woman driver be terrible' , -6.391 , -1 , sexism
+'im not sexist woman shouldnt be allow drive' , 0.456 , 0 , sexism
+'be not sexist woman be just bad drive lol' , -8.535 , -1 , sexism
+'woman do college play-by-play just sound wrong be not sexist seriously get back kitchen' , -13.717 , -1 , sexism
+'be not sexist female have business commentate football be man conduct child birthe class just d' , -6.807 , 1 , sexism
+'be not sexist girl not rap' , -0.714 , 0 , sexism
+'Idc be hit child be worse hit woman sorry not sexist be sick' , -7.181 , -1 , sexism
+'be not sexist woman be try explain happen fight idk wtf be talk' , -16.299 , -1 , sexism
+'be woman so bitchy #notsexist' , -5.896 , -1 , sexism
+'be kinda weird think woman have #genitals #notsexist #justsaying' , -5.454 , -1 , sexism
+'car pile-up house woman driver #nocomment #notsexist #coincidence' , 3.76 , 0 , sexism
+'call sexist want stories/seeing kind stuff go down woman whole need change co' , -1.772 , -1 , sexism
+'listen be not sexist be firm believer man set tone relationship' , -8.298 , 0 , sexism
+'be not sexist litteraly be sorry sometimes woman get too many rights Yall be not innocent man ne' , -18.925 , -1 , sexism
+'do not need fisesm woman want be stare catcal wear reveal clothes be invent' , -17.917 , 0 , sexism
+'not sexist even woman prefer watch men sport woman play be play higher level' , -3.515 , 1 , sexism
+'not sexist promise woman live gullibly always see thing want be instead reality' , -10.217 , 1 , sexism
+'call sexist have never be funny woman stand' , -2.515 , -1 , sexism
+'call sexist woman sport not listen even think information be credible' , -5.135 , -1 , sexism
+'be stupid af be not sexist sister be hell spoil daddy lil girl have not have work struggle' , -17.875 , -1 , sexism
+'think teach man not be not sexist be' , -12.729 , -1 , sexism
+'radfem think man be blame be mostly other fem do different group #gamergate htt' , -12.67 , -1 , sexism
+'last Tweet im not sexist ummmm think whole equality thing be get hand be different' , -13.82 , 1 , sexism
+'maybe be focus less cunt football #notsexist' , 4.474 , -1 , sexism
+'son have score shitload goal youth team not make professional y' , -5.241 , -1 , sexism
+'obviously big be script fake have ever see woman so little luggage #notsexist #plissescooz' , -12.593 , -1 , sexism
+'be comical mention male gaze re speech center man be not intersectional' , -13.09 , 0 , sexism
+'b/c see many WW seem think male gaze be only sexual CENTERS WM Whiteness bw' , -8.914 , 1 , sexism
+'be not sexist damn want equality learn not pull be woman card' , -14.17 , -1 , sexism
+'lucky come bus alive #womenbusdriverproblems' , 3.584 , 1 , sexism
+'be not sexist not watch football game female idk' , -4.508 , 0 , sexism
+'swear be not sexist SOME woman not be wheel vehicle' , -10.992 , -1 , sexism
+'m not sexist be something girl just shouldnt do' , -3.696 , 0 , sexism
+'be not sexist be way nhl let woman play non-checking game be totally different' , -17.855 , 0 , sexism
+'be not sexist woman get upset other woman stupid reason woman constantly say have hater' , -17.622 , -1 , sexism
+'be not sexist thought female ghostbuster scare more ghost think #badidea' , -5.558 , -1 , sexism
+'yes be not sexist be very much lady job' , -3.734 , 0 , sexism
+'im not sexist female be try say be better man go so much history say' , -17.971 , 0 , sexism
+'be not sure listen woman give drive direction #sorry #notsexist' , -4.392 , -1 , sexism
+'call sexist really piss girl know fuck football win huge bet #womenagainstfeminis' , 12.561 , -1 , sexism
+'be not sexist all-female be go be just awful' , -14.777 , -1 , sexism
+'be not sexist also definitely not fan rumour ghostbuster woman next Steel magnolia d' , -8.251 , 0 , sexism
+'same involve original apparently be not sexist all female ghostbuster' , -4.459 , 0 , sexism
+'be not sexist do not want watch ghostbuster film just woman #sosueme' , -17.049 , 0 , sexism
+'be not sexist all-female ghostbuster connection original movie be quite possibly wor' , -7.605 , 0 , sexism
+'be not sexist girl constantly be complain stuff tv kind annoying' , 0.57 , -1 , sexism
+'be not sexist do not really fw female rapper' , -10.927 , 0 , sexism
+'woman sport badger be make want use mute button #notsexist' , -5.37 , 0 , sexism
+'be not sexist never want have daughter cause even girl know girl be' , -6.675 , 0 , sexism
+'call sexist want do not like female comedian do not know tell be funny' , -11.395 , -1 , sexism
+'do not call sexist cause im farthest holy fuck hate feminine activist' , -0.982 , -1 , sexism
+'hate group do not make sexist dumbass' , -1.676 , -1 , sexism
+'be not sexist think be better Male Shepard effect be basically break' , -13.524 , -1 , sexism
+'not sexist just be not same woman present motd fuck get back' , -13.156 , -1 , sexism
+'be not sexist female not reverse property' , -6.405 , 0 , sexism
+'FemShep be literally male boob be different' , -9.352 , 0 , sexism
+'be character create appease people pathetic way do not add depth dif' , -10.795 , -1 , sexism
+'fucking hate rich ass snobby woman do not know there place front man #notsexist #justventing' , -6.866 , -1 , sexism
+'female struggle drive car yet have fly plane #notsexist #justhonest' , 4.625 , -1 , sexism
+'most woman be bad driver just most man be douchebag driver #equality #notsexist #fact #latraffic' , -8.195 , -1 , sexism
+'do not want listen girl be watch game #sorry #notsexist' , -5.654 , -1 , sexism
+'im a tough manly man im terrify period blood body hair woman gay man be percieve feminine woman havi' , -6.039 , -1 , sexism
+'rather watch name welterweight prime not sexist man woman compe' , -2.178 , 0 , sexism
+'most funny twitter account intelligent man dumb woman ;-rrb- #notsexist #soplease p' , -3.407 , -1 , sexism
+'swear be not sexist woman CAN NOT drive' , -2.47 , -1 , sexism
+'refuse watch football game woman be commentate be not sexist people just do not belong thing' , -18.84 , -1 , sexism
+'be not sexist not listen female commentator man sport' , -0.64 , 0 , sexism
+'be not sexist hate female rapper' , -3.766 , -1 , sexism
+'call sexist actually have nightmare' , -0.295 , -1 , sexism
+'be not sexist anything wow woman be totally time haha' , -12.629 , 1 , sexism
+'be not sexist anything idea female Marvel irk stick original same go fem' , -3.697 , -1 , sexism
+'be not afraid hit woman be not sexist x' , -10.886 , 1 , sexism
+'do not get wrong be not sexist see female engineer site be weird' , -18.273 , -1 , sexism
+'call sexist want be true last time hear someone break w pretty quiet girl' , -1.423 , -1 , sexism
+'Women sport be dumb not pay watch woman sport do woman get pay be watch' , -19.88 , -1 , sexism
+'call sexist be only person do not find female funny way' , -9.386 , -1 , sexism
+'be be woman complain such' , -13.395 , -1 , sexism
+'be so not sexist girl not wrap burrito chipotle think be know fact come lady step' , -7.011 , 0 , sexism
+'be not sexist female look completely lose guy start talk football' , 2.775 , 0 , sexism
+'do get Truck win superbowl just interview bitchy win world s' , -7.922 , -1 , sexism
+'have not notice feminist be take picture anyone consent nice strawman tho trash' , -11.042 , -1 , sexism
+'be not sexist die laugh dude class make sexist joke' , 2.294 , 1 , sexism
+'im not sexist woman shave goddamn leg' , 2.099 , -1 , sexism
+'not stand female sport commentator be not sexist only one around be just dumb shit' , -6.741 , -1 , sexism
+'be not sexist not stand female commentator sport' , 1.845 , 0 , sexism
+'not sexist cant have woman discuss lady fine not pc so save potent' , -7.574 , 1 , sexism
+'just want point overseas labour be not solely woman sweatshop' , -14.968 , 0 , sexism
+'be not #sexist opposite sex not drive shit' , -8.712 , -1 , sexism
+'im not sexist bitch be dumb' , -0.77 , -1 , sexism
+'not sexist do not like girl be sport talk show' , 2.156 , 0 , sexism
+'be not sexist hate feminist female already get equal rights stop complain' , -3.296 , -1 , sexism
+'be not sexist woman do not belong infantry sorry' , -8.208 , -1 , sexism
+'be not sexist really make hard act otherwise #franga' , -2.785 , 0 , sexism
+'come woman joke man not sexist other way round be' , -5.612 , 1 , sexism
+'be not sexist girl be just straight birch honestly' , -2.608 , 0 , sexism
+'men be far better woman #notsexist #justbiology' , -3.257 , 0 , sexism
+'be not sexist never get hair cut woman just be not racist never eat chicken fry white p' , -18.564 , 1 , sexism
+'be not sexist be nearly impossible listen girl talk football ESPN' , 2.061 , 0 , sexism
+'right im wanker do not even have enough space tweet point much cu' , -14.551 , -1 , sexism
+'cunt too bad word really mean be insecure whiny baby say nothing' , -6.899 , -1 , sexism
+'be not sexist believe woman have equal rights/pay just not stand feminazis make everything' , -7.858 , 0 , sexism
+'hate woman control conversation own problem do not make sexist' , -7.105 , -1 , sexism
+'be not sexist fuck be woman not get shit together' , -15.204 , -1 , sexism
+'yell light turn #notsexist' , 5.318 , -1 , sexism
+'be sexist be nothing more aggravating female try talk sport be just get tf' , -12.423 , -1 , sexism
+'really be not sexist like woman be homebody housewife' , -8.065 , 1 , sexism
+'friend zone concept rely foregone conclusion sex be give #wellactually make rapist' , -5.631 , -1 , sexism
+'do not rape-zone' , -6.467 , 0 , sexism
+'fake victim whine rapist motherfucker need die' , 2.367 , -1 , sexism
+'be not sexist not listen female talk male sport play all men talk sport yo' , -1.174 , 0 , sexism
+'exactly be not sexist most female sportscaster have see say dumb shit lol' , -9.547 , -1 , sexism
+'so totally not sexist foul be synonym woman basketball' , -6.577 , 0 , sexism
+'no Heaven forbid man find woman visually appeal horror grow #notsexist #freespeech #science' , -1.209 , -1 , sexism
+'sorry not use fact next time just go rest mass think be no differenc' , -15.984 , -1 , sexism
+'way insult direct man unflattering hat wear predominantly man mean in' , 2.351 , -1 , sexism
+'pass offer say stupid woman be more sexist say stupid man stupid boy stupi' , -3.678 , -1 , sexism
+'get #nervous see #woman driving get extra nervous see woman drive speeding ambulance #notsexist' , -4.351 , -1 , sexism
+'Women bathroom be so much worse man everyone agree #fuckthanksgiving' , -3.077 , -1 , sexism
+'guy swear god be not sexist Girl announce LouVSKen game be annoy' , 5.539 , -1 , sexism
+'be not #sexist #woman do better job clean car #man #handcarwash #norwich' , -8.109 , 0 , sexism
+'be not sexist be note woman surprise competence' , -10.55 , 0 , sexism
+'still not fan lady commentate game play Sabc #notsexist' , 5.318 , 0 , sexism
+'be not sexist personal opinion not be consider sexist remark almost case' , -4.942 , -1 , sexism
+'be not sexist girl drive truck be weird wan look dyke means' , 6.43 , -1 , sexism
+'be not sexist woman not have open own door pay bill drive still beleive chivalry so' , -11.547 , 0 , sexism
+'swear be not sexist release emulate woman shoot basketball' , -1.74 , -1 , sexism
+'yip be not sexist like throttle woman' , -2.839 , 1 , sexism
+'lady be terrible official not be lady be not sexist be stupid bitch #cavs' , -13.423 , -1 , sexism
+'be thing know old pin-up ad be be definitely not sexist' , -13.97 , 0 , sexism
+'Woman front better stop tweet watch #nosexist' , -6.163 , 0 , sexism
+'cause be just wrong want rights be sexist be not fem' , -13.706 , -1 , sexism
+'call sexist most people have mute twitter be woman' , -12.655 , -1 , sexism
+'call sexist do dish be not man job' , -4.704 , -1 , sexism
+'then do dish' , -3.646 , 0 , sexism
+'be not sexist woman be really stupid offense' , -10.55 , -1 , sexism
+'be not sexist do not go say WEMON be top shit yous run world be MEN literally run' , -26.332 , -1 , sexism
+'Dont even get start female man im not sexist gaming community do tend be bit more friendly' , -10.996 , 1 , sexism
+'girl count lucky get guy still shout mad mean care' , 7.531 , -1 , sexism
+'be not sexist female football commentator be horrible listen have deep man voice' , -2.617 , -1 , sexism
+'not sexist guy be never go live lose girl football throw contest' , 5.053 , -1 , sexism
+'apparently be sexist Time make gf quit job clean cook not mention use meat sex ri' , -0.993 , -1 , sexism
+'Mamas child be btwn age be struggle buy holiday toy fill form' , -9.065 , -1 , sexism
+'be not sexist anything means be exactly not watch girl basketball' , -5.247 , 0 , sexism
+'maybe issue be not boy be better spos be child play school sport so leave alone' , -14.88 , 1 , sexism
+'be not sexist do have theory female be unable tell difference def' , -15.828 , 0 , sexism
+'be not sexist make sexist comment make LOL' , 1.418 , -1 , sexism
+'release private mail hurt people be same release nude photo be ok t' , -11.463 , -1 , sexism
+'swear be not sexist female chipotle employee not roll burrito shiizzzz' , -4.208 , -1 , sexism
+'not sexist majority girl be useless group project lol majority' , 3.246 , -1 , sexism
+'be not sexist woman not commentate sport' , -3.903 , 0 , sexism
+'be not sexist say woman not drive literally not' , -12.276 , 0 , sexism
+'be not sexist evolve semantics literally be female-led sociolinguistic phenomenon' , -8.298 , 0 , sexism
+'be not sexist be room woman hear talk problem #bodied' , -12.341 , -1 , sexism
+'be not sexist feminist do not half milk man be same bollock' , -12.974 , 0 , sexism
+'reality tv disgust not sexist reality h s be young girl role model' , 1.924 , -1 , sexism
+'be not sexist let face girl not drive' , 0.789 , 0 , sexism
+'be not sexist do not like movie woman main role' , -7.515 , 0 , sexism
+'im not sexist youre female agree certain gender standard' , 8.08 , 0 , sexism
+'let girl drive car mean something #notsexist #justscience' , 11.819 , 0 , sexism
+'be sorry woman there be not sexist have woman infantry do front line role simpl' , -17.728 , -1 , sexism
+'not sexist woman have weird sense humor not drive' , -0.658 , 1 , sexism
+'do girl think be achievement not wear make boy do not wear #bestgender #notsexist' , -7.026 , 0 , sexism
+'do nothing do require inordinate amount skill' , -5.865 , 0 , sexism
+'have female ever make anyone laugh ever call sexist woman comedian be not funny' , -12.896 , -1 , sexism
+'call sexist be female know be not stupid way just do not listen' , -19.554 , -1 , sexism
+'call sexist always fasten seatbelt early be woman #brosexist' , -4.071 , -1 , sexism
+'be not sexist anything just dont think woman protagonist not fit vulgarity GTA' , -12.24 , 0 , sexism
+'be not sexist female not rap' , -5.712 , 0 , sexism
+'most woman r physically weaker man #notsexist #sexhonest' , 0.805 , -1 , sexism
+'woman r more please look #notsexist #sexhonest' , 2.965 , 1 , sexism
+'woman get wreck be not surprise #notsexist' , -10.278 , -1 , sexism
+'be not sexist get scare woman drive particularly young lady old lady keep put' , 1.737 , -1 , sexism
+'too many guy act girl twitter be not sexist do not have act whiny bitch' , -6.347 , -1 , sexism
+'be not sexist fear life be passenger woman car' , -9.451 , -1 , sexism
+'fuck woman mean be not sexist fuck woman' , -3.704 , -1 , sexism
+'road be lot better safer mom school run #notsexist #facts #factsonly' , -3.896 , 1 , sexism
+'do not prioritize woman man be not sexist therefore be not' , -20.35 , 0 , sexism
+'ok be not sexist anything women SUCK DRIVING just do not do favor' , -13.774 , -1 , sexism
+'be not sexist way shape form think woman be better gift wrapping be xx chromosome thing' , -19.87 , 1 , sexism
+'do not hear lot fan complain end conflict gender be so much more important' , -14.62 , -1 , sexism
+'im not sexist girl rapper be trash' , 2.617 , -1 , sexism
+'be bad encounter be extremely old person female #notsexist #facts' , -5.133 , -1 , sexism
+'have difficulty relate protagonist be tiny girl sorry call sexist make feel better' , -1.099 , -1 , sexism
+'girl know guy protective thing especially girl doesnt share' , 9.954 , 1 , sexism
+'reason girl date nice Guy' , 10.66 , 0 , sexism
+'be not sexist woman be inferior prove still be idiot regardless' , -10.651 , -1 , sexism
+'be not sexist let red ranger be female prss be just not right red ranger be always guy exception' , -21.389 , 0 , sexism
+'guess be safer too do speed limit not try be mean' , -16.343 , 1 , sexism
+'be not sexist anything do not take female rapper seriously never buy album something' , -14.916 , 0 , sexism
+'woman have rights woman fight rights woman be always right be #notsexist' , -13.509 , -1 , sexism
+'be not sexist people play role' , -5.471 , 0 , sexism
+'make mistake reading article be not sexist really make female journalist' , -6.656 , -1 , sexism
+'be not sexist hate female sport analyst just not take seriously' , -6.216 , -1 , sexism
+'call sexist hate most woman sport center everything be just seem so script' , -3.631 , -1 , sexism
+'hate so much masterbatker be not sexist fuck lady be awful' , -6.373 , -1 , sexism
+'get man wife foot be' , -6.429 , 0 , sexism
+'think be real nasty bitch be hope be eliminate be make watery fish soup' , -16.233 , -1 , sexism
+'please do not hold tell see' , -10.562 , 1 , none
+'maybe be just typo mean list kickass ice-cream apple pie' , -5.918 , -1 , none
+'twitter be explode' , -7.422 , -1 , none
+'rt be tempt give give chicken liver help kill baby' , -16.036 , -1 , none
+'be enough blue wardrobe department !?' , -7.998 , 1 , none
+'do not anyone have gif say get cos be awesome' , -21.856 , 1 , none
+'kitchen hq be warehouse coburg' , -7.305 , 0 , none
+'be difference pancake' , -5.918 , 0 , none
+'joke pun be fly free camping episode' , -9.096 , 1 , none
+'have forget rob/dave incessant use word mate address other' , -11.261 , -1 , none
+'be go much harder choice fro next go' , -12.701 , 1 , none
+'keep' , -0.693 , 0 , none
+'last time see something chaotic someone have run beehive underwear make rattlesnake skin' , -14.018 , -1 , none
+'happen' , -1.098 , 0 , none
+'im booooo' , 0.0 , 1 , none
+'rt yay go cash manilla' , -6.805 , 1 , none
+'be go sudden debt sudden death' , -10.467 , -1 , none
+'congrat ash camilla' , -2.079 , 1 , none
+'yay go cash manilla' , -3.044 , 1 , none
+'be just not same manu' , -11.736 , 0 , none
+'best thing have hear' , -7.39 , 1 , none
+'see be complain thing do not exist' , -15.605 , -1 , none
+'rt course annie do not do outside be redhead' , -21.192 , 0 , none
+'rt bianca be feel sick try baked egg' , -12.975 , -1 , none
+'course annie do not do outside be redhead' , -17.431 , 0 , none
+'want big portion' , -3.465 , 1 , none
+'bianca be feel sick try baked egg' , -9.214 , -1 , none
+'have not actually sell be not charge food' , -18.076 , 0 , none
+'have sell metaphorically' , -5.087 , 0 , none
+'finger cross taste good' , -3.178 , 1 , none
+'cut punter taste cardboard' , -1.791 , 1 , none
+'have surprise' , -3.988 , 0 , none
+'rt pete not eat whole plate plate be not make bone broth chicken oils' , -20.215 , 0 , none
+'want gozleme' , -2.772 , 0 , none
+'benchmark success be team next door then be always go be feel confident' , -24.607 , 1 , none
+'suddenly number people ever possibly fill tent picture camp site earlier rock breakfast' , -11.814 , 1 , none
+'back wall' , -1.791 , -1 , none
+'gon call' , -2.079 , 0 , none
+'positive polly negative nancy be so corny guy' , -6.766 , 1 , none
+'wadhwa think woman only disagree vocally want attention #stopwadhwa2015' , -14.288 , -1 , none
+'wadhwa have other woman write book be woman tech then publish own name title #stopwadhwa2015' , -29.091 , 0 , none
+'wadhwa only care wadhwa not woman tech #stopwadhwa2015' , -17.246 , 1 , none
+'rt wadhwa be most male ally use woman suffer own financial career advancement #stopwadhwa2015' , -24.885 , -1 , none
+'rt wadhwa be unapologetic furtherer shanley abusive neo weev #stopwadhwa2015' , -16.46 , -1 , none
+'hell yeah awesome post wadhwa #stopwadhwa2015' , -7.878 , 1 , none
+'totally forget jerk invite office too lol time be worth too much #stopwadhwa2015' , -12.68 , -1 , none
+'rt oblivious meltdown be response woman dare speak #stopwadhw' , -15.514 , -1 , none
+'rt orly have do more cause woman tech almost anyone #stopwadhwa2015' , -22.488 , 0 , none
+'have be travel barely manage cfp blog question' , -8.809 , 0 , none
+'wadhwa start contact journalist follow twitter tell disappointed be #stopwadhwa2015' , -16.517 , -1 , none
+'wonder be value refuse answer inquiries/provide quote press insist quote wadhwa #stopwadhwa2015' , -16.164 , 1 , none
+'hand get quote more reporter look pretty dumb woman tech story be dude' , -12.184 , 1 , none
+'have run difficulty get respond be weird news org have write story' , -13.714 , -1 , none
+'be guess be just use tuning complaint' , -15.644 , -1 , none
+'rt be woman tech vivek wadhwa do not speak #stopwadhwa2015' , -25.989 , 0 , none
+'#stopwadhwa2015 be develop tie gamergate rely support talk milo' , -9.725 , 1 , none
+'#stopwadhwa2015 follow pathetically low amount female engineer be cool female reporter' , -11.399 , -1 , none
+'just do twitter search be look not block manually ez enough write though' , -16.583 , 0 , none
+'best thing do woman tech be leave hell alone creeper #stopwadhwa2015' , -20.998 , -1 , none
+'watch claim never receive financial compensation sweet know be not work #stopwadhwa2015' , -17.152 , 1 , none
+'money be smallest part success tech be accomplishment connection rep wadhwa hide woman' , -21.323 , 1 , none
+'yeah have get bit rageboner mentally speak' , -9.469 , -1 , none
+'yo be go save world social media people #stopwadhwa2015' , -12.565 , 1 , none
+'be not shark be tree shark' , -16.714 , -1 , none
+'tree be creeper look look eye' , -0.906 , 0 , none
+'name be randi lee harper' , -9.032 , 0 , none
+'harper lee be trend' , -7.422 , 0 , none
+'coincidence' , -0.693 , 0 , none
+'have not hear anything keep eye open' , -8.014 , 0 , none
+'rt sad thing be woman tech debate be become radicalize people personal agenda begin dominate push' , -28.043 , -1 , none
+'lack self-awareness be staggering hilarious #stopwadhwa2015' , -8.914 , 1 , none
+'rt personal agenda want work tech have life livelihood threaten' , -16.591 , -1 , none
+'rt yeah woman tech be become radicalize man be lose ground horror' , -24.611 , -1 , none
+'mom dog just wake fart have be cry not be soothe butt have betray' , -23.265 , -1 , none
+'rt be woman tech do not want speak have block not creep dm #sto' , -30.69 , -1 , none
+'hahahaha people gamergate be troll so call' , -13.44 , 1 , none
+'stalk respond blog post make id forget' , -6.643 , 0 , none
+'gamergater do not like reboot' , -3.982 , 1 , none
+'shop website' , -1.386 , 1 , none
+'rt account be literally retweet talk woman tech seriously look #stopw' , -16.821 , 0 , none
+'also use book account rt criticism send personal acct then blame' , -16.044 , -1 , none
+'rt think be odd #stopwadhwa2015 imply annual event then read guy tweet oy' , -13.815 , 0 , none
+'be related wadhwa' , -7.623 , 0 , none
+'rt reminder game patriarchy woman be not oppose team be ball' , -24.478 , 0 , none
+'perfection' , -0.693 , 1 , none
+'wait be not someone valve sjw dinner' , -12.988 , 0 , none
+'kid be quite amusing have happen totally do not' , -18.167 , 1 , none
+'just want hear scream collusion' , -7.336 , -1 , none
+'do matter' , -3.828 , 0 , none
+'be pretty not useful not helpful explain' , -12.583 , 1 , none
+'penguinman1337 be regular poster baph board coordinate target harassment/stalking/swating' , -10.077 , -1 , none
+'also linux suck' , -2.772 , -1 , none
+'rt closing argument silk road trial be' , -11.759 , -1 , none
+'rt actual rule be be allow lesbian trans player 5-player team be much worse' , -16.26 , -1 , none
+'be lesbian be gaming only makeout obviously not speak trans' , -17.654 , 0 , none
+'be vegan power right' , -6.612 , 1 , none
+'rt also just find andraste name be nonsense' , -16.259 , -1 , none
+'rt lgbt player be welcome official lol tourney be work partner ensure consistency value' , -17.167 , 1 , none
+'take nap lgbt not play video game anymore wtf' , -10.381 , -1 , none
+'see cute woman tl tweet be chick just want be most unsmooth person ever hey laydeez' , -28.228 , 1 , none
+'so many joke' , -3.332 , 1 , none
+'be shark be super cute too' , -11.367 , 1 , none
+'not much longer' , -5.123 , 0 , none
+'be visit mom house be all be laugh do not know explain' , -25.258 , 1 , none
+'rt really think be sexy shark' , -13.774 , 1 , none
+'rt lgbt too powerful pl nerf' , -8.325 , 0 , none
+'be big-time vc have strong ally leaning curious not look funding' , -12.061 , 0 , none
+'do not think have ever ask anyone before huh want get coffee get back town' , -22.111 , 0 , none
+'doh haha sure' , -1.386 , 1 , none
+'rt way harsh bank account application' , -9.424 , -1 , none
+'rt think be call scissoring' , -12.165 , 0 , none
+'point do people start confuse alpha asshole' , -9.404 , -1 , none
+'plz stop demonize black woman sexuality k' , -8.425 , 0 , none
+'rt reminder nerd dinner/tweetup crossroads mall redmond wa #codenewbie welcome' , -9.711 , -1 , none
+'be there just late usual' , -9.096 , 0 , none
+'white woman need ally black woman more' , -11.957 , 0 , none
+'be perfect make mistake then have apologize celebrity be not special' , -19.094 , -1 , none
+'have get own shit happen have get do better' , -18.609 , -1 , none
+'be not vast majority' , -9.251 , 0 , none
+'quick kiss boy show birth certificate' , 3.555 , 1 , none
+'taunt follower cnt back' , -4.094 , -1 , none
+'gamergate youtube comment service' , -4.276 , 0 , none
+'pause horror realize harsh reality statement' , -4.564 , -1 , none
+'be not go comment cernovich buy follower do not know be speculation' , -26.92 , 0 , none
+'state people have buy follower try get account trouble' , -14.981 , -1 , none
+'yes lot follower be bot have know be not news' , -20.298 , 0 , none
+'say do be not okay do not know probably never know do not be' , -35.963 , 1 , none
+'already know reach do not really extend gamergate anymore follower do not matter' , -23.608 , 0 , none
+'be cool do not worry' , -11.693 , 1 , none
+'rt vivek wadhwa be carrot top academic source' , -14.157 , -1 , none
+'someone send pizza wrong address again baph be so incredibly incompetent freebsd be supportive usual' , -15.952 , -1 , none
+'rt accord be for-profit firm benefit corporation federal land nasa research' , -11.066 , 1 , none
+'guess be bad linkedin sad' , -7.71 , -1 , none
+'rt be ever be know very sad funny too :-rrb-' , -12.761 , -1 , none
+'respect' , 1.609 , 1 , none
+'heh heh' , -1.386 , 0 , none
+'literally domain whoi' , -2.772 , 0 , none
+'hey have say many time hate chocolate bread plz do better skittle tho' , -14.866 , -1 , none
+'do not really know most people be dumb' , -18.473 , -1 , none
+'sometimes' , -0.693 , 1 , none
+'love' , -0.693 , 1 , none
+'be debate someone name dickwart' , -9.879 , 0 , none
+'have kid name wow character' , -4.499 , 1 , none
+'rt have quite symbiotic relationship gg point target baph doxx terrorise gg' , -12.602 , -1 , none
+'rt someone block #gamergate sure do manage find way' , -14.1 , -1 , none
+'gosh golly dare respond' , -3.871 , 0 , none
+'rt head get promote tweet promote dogpiling' , -11.585 , -1 , none
+'so know thanks http' , -5.347 , 1 , none
+'send email' , -2.302 , 0 , none
+'seriously though promote tweet be funniest shit ever' , -12.721 , -1 , none
+'rt people be spend money try get temporarily suspend twitter be most be' , -31.577 , -1 , none
+'rt someone be pay money get report twitter twitter' , -20.674 , 0 , none
+'be sjw version such sa' , -7.71 , 0 , none
+'rt lol even promote tweet have slur gamergate' , -11.844 , -1 , none
+'not stop laugh' , -6.04 , 1 , none
+'be so tempt not contact twitter just so spend more money promote twitter handle' , -27.972 , 0 , none
+'way be just hang somebody github talk decision remove gamergate account' , -16.551 , -1 , none
+'rt last rt people be actually pay money promote ad twitter suspend make gg autoblocker' , -27.777 , -1 , none
+'do then refuse remove account piss gator' , -7.229 , -1 , none
+'rt baphomet people be give biddix bitcoin harass have literally be waste' , -26.262 , -1 , none
+'rt say let waste money eventually wont be able afford internet then h' , -19.591 , -1 , none
+'kid never learn time do something harass more people learn work stop' , -18.298 , -1 , none
+'so thanks free advertising' , -4.836 , 1 , none
+'be great meet thank kind word' , -6.612 , 1 , none
+'rt baphomet send family death threat tweet need law stop baphomet do st' , -19.467 , -1 , none
+'have be quietly help gator already' , -11.411 , 0 , none
+'rt yes probably have say milady unironically' , -12.026 , 0 , none
+'rt twitter just switch mongodb understand' , -8.443 , 0 , none
+'drive back san francisco' , 1.792 , 0 , none
+'be be swell seattle swelling go down' , -10.317 , 0 , none
+'yup' , 0.0 , 1 , none
+'be present probably do not want deal cost hotel' , -12.386 , 0 , none
+'do not' , -6.467 , 0 , none
+'most diversity panel feel lot circle jerk be good depend' , -8.691 , -1 , none
+'know be interesting idea maybe get promote tweet ggautoblocker' , -11.258 , 1 , none
+'nice meeting too' , 0.0 , 1 , none
+'maybe be stay bellingham be little bit drive' , -6.174 , 1 , none
+'have interest gratipay use example not do' , -11.372 , 1 , none
+'be lovely meeting too' , -5.631 , 1 , none
+'rt article be shit lol lose argument make buzzfeed #gamergate' , -10.267 , -1 , none
+'rt lose so hard' , -5.013 , -1 , none
+'see' , -1.609 , 0 , none
+'go comic shopping super fun time' , -0.847 , 1 , none
+'rt world need be cyber-buddycop film star twitterbot fight crime spout' , -8.699 , -1 , none
+'kinda reallllllly want magnetic implant fingertip' , -0.287 , 1 , none
+'rt new override account security password multifactor social engineering' , -4.166 , 1 , none
+'random keep blogg sexist asswipe tell not bother project coz do' , -1.676 , -1 , none
+'be ethic egg warp fact right' , -5.225 , -1 , none
+'nah really bad datum worst source methodology ever' , -3.178 , -1 , none
+'list company anti-abuse round table be building be grow be excite world need' , -12.904 , -1 , none
+'be company sf have abuse/community dept person be something want be part hit randi.io' , -19.848 , -1 , none
+'purpose group be share type abuse see talk deal diff policy changes/tools be need' , -9.0 , -1 , none
+'possibly want see evolve internet video conf become thing' , -8.476 , 0 , none
+'wake little stalker sit lap stare' , 1.792 , 0 , none
+'be only person' , -6.612 , 0 , none
+'be use msn ????' , -6.142 , 0 , none
+'be sure :-rrb- do not know personally be soon be npo do be not sign rando' , -30.19 , 1 , none
+'thing need start small then grow' , -4.029 , 0 , none
+'rt be official fcc motion have internet file title utility' , -13.669 , 0 , none
+'gater trigger too many false positive lose valid follower base' , -4.094 , 1 , none
+'do not care have do have goddamn ethic real' , -15.096 , -1 , none
+'continue spread rumor be basically same thing gater say be arrest' , -13.159 , 0 , none
+'rt want take person twitter be' , -13.956 , 0 , none
+'note be tricky be go accomplish suspend gater account' , -13.901 , -1 , none
+'think be go push people safety get better promotion review' , -13.663 , 1 , none
+'complain early people buy follower get acct suspend' , -9.893 , -1 , none
+'trickiest thing' , -1.609 , -1 , none
+'perhaps regardless tool remove bot remove gater' , -1.386 , -1 , none
+'sit here spread unsubstantiated rumor be shit move though be not gater' , -11.298 , -1 , none
+'rt wife co-found pylady best thing have do gender diversity be let woman speak #stopwadhwa2015' , -21.581 , 1 , none
+'rt ok be gon chill bit longer then walk pup remind have do #morethanwadhwa tech #stopwadh' , -20.205 , 0 , none
+'rt wadhwa think take intense help woman tech not realize be get be do opposite s' , -33.007 , 0 , none
+'ohmygod just realize soggy knee mean be better freeze peach feel so old' , -8.557 , 0 , none
+'rt write new stretch mark turn massive hypocrite come sex' , 1.902 , -1 , none
+'watch someone 1k follower explain twitter have be highlight' , -12.482 , 0 , none
+'rt well technically gif be hard g' , -5.654 , 0 , none
+'adderall be legal prescribe be not arrest next troll' , -12.802 , 0 , none
+'pajama pants do not look pajama pants go lunch super mario bro pants hater gon hate' , -6.136 , -1 , none
+'rt literally there have not be single criticism response level actual work so know' , -21.249 , -1 , none
+'just change profile pic/name woman pref w/brightly color hair tweet gamer be dead game be sexist' , -7.623 , -1 , none
+'be not take life advice someone do not know diff wear ware' , -17.328 , 0 , none
+'as be' , -2.923 , 0 , none
+'be best account' , -7.422 , 1 , none
+'bring party' , 0.693 , 1 , none
+'pull lip ring freak mom' , -1.098 , -1 , none
+'worry' , 0.0 , -1 , none
+'ur face be classify utility fcc' , -4.532 , 0 , none
+'gather round kid be story time bring good friend' , -6.206 , 1 , none
+'time land far far away great state truly work' , -3.178 , 1 , none
+'part way stay touch get swole go off do thing write perl anger troll' , -11.072 , -1 , none
+'bring hero story be bus uga listen podcast do thing' , -6.792 , 1 , none
+'word be say gater protest free speech speech be free not consequence' , -17.079 , -1 , none
+'give friend be quite fit gater be not quickly depart next stop instead debate further' , -16.491 , 1 , none
+'take heed gater be alone world campaign hate people stand man woman stand' , -8.37 , -1 , none
+'i. think be be snarky' , -10.856 , 0 , none
+'lrt do not appear be snark o pretty sure dude be serious' , -13.453 , 1 , none
+'do not think be people leave' , -15.883 , 0 , none
+'rt ah here go do not take long scratch silver ethic foil find win free mra' , -12.58 , 0 , none
+'be right be show say not failure appear expire tag' , -12.936 , 1 , none
+'bot fight' , 0.693 , -1 , none
+'also sorta work twitter bunch thing get clarity nda' , -8.594 , 0 , none
+'not look fte anti-harassment org ;-rrb-' , -0.767 , -1 , none
+'watch devil wear prada just reaffirm desire be single forever needy boyfriend omfg' , -3.279 , -1 , none
+'remain optimistic acknowledge be complex problem easy solution less hate more idea please' , -5.225 , -1 , none
+'watch episode live color be kinda expert gawd hairflip' , -4.127 , 0 , none
+'bring' , 0.0 , 0 , none
+'be rad' , -4.532 , 0 , none
+'stepdad walk room offer pot wa then fart decline' , -1.609 , -1 , none
+'mom hand book coupon buy bra' , -3.988 , 0 , none
+'love family be leave p' , -6.612 , 1 , none
+'hilarious side note show be only sighting poc be backwoods farm country saw ep' , -7.812 , 1 , none
+'saw :-rrb- have be work directly twitter safety department have faith want do right thing' , -21.244 , 1 , none
+'rt' , -3.761 , 0 , none
+'be pretty chill super sick multiple sclerosis be be always stone' , -14.984 , 1 , none
+'rt btw alt twitter account be' , -11.589 , 0 , none
+'kickstarter be tempting be just so weird money still feel kind squick patron tbh blame foss mentality' , -13.09 , -1 , none
+'have so many idea so little time even do full time be do be talk people' , -27.288 , 0 , none
+'be slowly find people trust be so hard care so much *' , -15.76 , 1 , none
+'not yet' , -2.233 , 0 , none
+'need sit figure be better pm life' , -5.225 , 0 , none
+'be still stage have give find good task list mgt app fit workflow so use notepad' , -10.536 , 1 , none
+'difficulty be find time find ally figure do one have get' , -16.626 , -1 , none
+'be not block bot be tool share block list particular be generate api comparison ff' , -16.93 , -1 , none
+'burn build' , 0.693 , -1 , none
+'have whiteboard mental list run several time do not know pm stuff yet' , -10.274 , 0 , none
+'maybe put together press kit' , -0.287 , 0 , none
+'be press kit do build' , -7.668 , 0 , none
+'think so' , -3.737 , -1 , none
+'be response bad have get block list enable so see nothing' , -13.974 , -1 , none
+'yeah be more specific less time talk press more time write code' , -12.68 , 0 , none
+'think woman have issue talk money activism lot article' , -11.076 , 0 , none
+'have read many do not make easier' , -9.475 , 0 , none
+'be look specific video so search anita sarkeesian youtube good grief so many angry manchildren' , -7.533 , -1 , none
+'want show mom ted talk mom see search result start get fuss be about' , -10.893 , -1 , none
+'yes find' , -2.197 , 0 , none
+'non game dev stuff want something hand easy explanation press' , -4.564 , 0 , none
+'wait do become pedozoophile be' , -9.459 , 0 , none
+'leo sleep bed be little spoon' , -3.146 , 0 , none
+'hate cat' , -0.693 , -1 , none
+'job give constant stream endorphin' , 0.405 , 0 , none
+'rt number hacking attempt website launch override alone overall not inc' , -9.172 , -1 , none
+'think need make facebook page too ugh so weird be still come term be life' , -9.876 , -1 , none
+'be not bad thing be just such huge change be sometimes-foss dev full-time devop be' , -25.844 , -1 , none
+'be get too many friend req people do not know rather just manage page keep stuff separate pic leo' , -19.166 , 1 , none
+'be weird am do right thing feel so pseudo-celeb' , -10.817 , -1 , none
+'be not important thing be work be people help push be do not want message be warped be' , -45.279 , -1 , none
+'right love yell thing do not like people be listen be weird responsibility' , -15.956 , 1 , none
+'hehe be actually super helpful be save later so review think' , -14.189 , 1 , none
+'sure shoot email randi.io' , -0.693 , -1 , none
+'be never part' , -6.324 , 0 , none
+'rt hey be think support patreon much patreon income go crack cocaine' , -13.535 , 1 , none
+'hate have bug parent credit card' , -3.295 , -1 , none
+'get mostly people clue' , -2.908 , 0 , none
+'omg pothead stepdad ms be sweetheart kill stumble more time living room be sleep' , -11.55 , 1 , none
+'be not guess keep forget dog just go outside ughhhh want sleep' , -19.344 , -1 , none
+'lol remember watch be full gamergate nut' , -2.923 , 1 , none
+'wtf do identity-sure mean have never hear make sound think trans be confuse' , -14.324 , -1 , none
+'rt raspberry pi foundation look new most exciting job charity sector' , 0.596 , 1 , none
+'rate be go be make slide keynote car drive home' , -7.022 , 0 , none
+'rt be see not be unseen' , -17.768 , 0 , none
+'weird be surprised do not offer twitter' , -10.712 , -1 , none
+'yeah be stepdad thanks call though' , -9.096 , 1 , none
+'weeeee be get grumping/joking family member random internet rage' , -8.221 , -1 , none
+'time donation be still very appreciate ;-rrb- give feedback though' , -4.26 , 1 , none
+'be allergic cat thanks anyway' , -5.631 , 1 , none
+'well make sense' , 2.234 , 0 , none
+'yup especially start drive home' , 3.584 , 0 , none
+'sure be weird only ever see mean thing be attach gamergate hashtag' , -13.67 , -1 , none
+'not tell sarcasm clueless' , -3.737 , -1 , none
+'leave gg think woman need compete attention man have not listen bey flawless gawd' , -14.542 , 1 , none
+'do search name preface come peace' , -2.953 , 0 , none
+'be able criticize as long be not abusive people argue criticism be important' , -18.006 , -1 , none
+'be difficult sometimes not always well receive heavy sometimes just not tell be troll' , -20.832 , -1 , none
+'tweet worry do not want people think be not sure fix' , -22.904 , -1 , none
+'have idea love hear know offer be get lot shit let know' , -16.122 , 1 , none
+'indeed people be perhaps bit more protective regard like' , -6.93 , 1 , none
+'be lucky have people too be learn walk away get bit too impassion' , -21.05 , 1 , none
+'help remember many eye be watch not gg msm people company npo depend' , -12.054 , 1 , none
+'ugh kidding miss be able be asshole terrible be still let everything moderation' , -11.939 , -1 , none
+'good lord only have kind patience' , -5.375 , 1 , none
+'rt not shield say literally turn custom build ideal anime girl mascot' , -4.175 , 0 , none
+'be long time know deal child have be asset' , -12.871 , 0 , none
+'write tool people not have listen hate fill rant' , -10.412 , -1 , none
+'think need get back sleep thanks have talk' , -11.784 , 1 , none
+'rt sure be weird only ever see true thing be attach gamergate hashtag' , -18.124 , -1 , none
+'sure be hungry scramble egg' , -5.225 , -1 , none
+'#ggautoblocker get mention arstechnica' , -1.609 , 1 , none
+'anyone have video' , -5.375 , 0 , none
+'rt love misty blizzard' , -4.454 , 1 , none
+'rt cis ww celeb millionaire rosie claim interview people not handle question exploitative upcome guest' , -9.778 , 0 , none
+'rt rosie resort say bully be entitle ww do meanwhile lauren have solid info back question' , -15.823 , 0 , none
+'rt rosie dismiss lauren claim defend exploitative eve ensler call lauren bully valid point defend racist' , -4.454 , -1 , none
+'rt lauren name defend misuse chief indigenous woman critique settler colonialism then insult aura' , -9.924 , -1 , none
+'rt fact be queer survivor so rosie racism settler colonialism exploitation ensler be ok b/c ro' , -14.079 , -1 , none
+'rt white people bring queerness be survivor way silence woc woc be queer none survivor' , -16.61 , -1 , none
+'rt be not rosie defend buddy ensler ultimately be worldview be challenge clearly have never ha' , -24.392 , -1 , none
+'rt clearly rosie have never have think ww oppressor settler colonialist be harm even view' , -17.082 , -1 , none
+'rt anyone else have least answer lauren question say look critique ensler work' , -7.67 , 0 , none
+'think feminist do however want' , -5.214 , 1 , none
+'do not shit woc be not' , -15.431 , -1 , none
+'be inclusive rosie be do just blow mind weaponize woc holy crap' , -13.992 , -1 , none
+'rt happen twitter call bully point woc eve ensler' , -9.136 , -1 , none
+'rt then turn tw handle last name racial slur' , -8.366 , -1 , none
+'dear lord' , 0.693 , 1 , none
+'markov bot be roll' , -5.225 , 0 , none
+'twitter ebook github' , -2.89 , 0 , none
+'be wait mostly be watch timeline involve' , -9.758 , 0 , none
+'favorite part trip have be amazing new sock' , -6.442 , 1 , none
+'rt write enough puppet code have basics ruby just give sit' , -11.215 , 0 , none
+'rt just start ebook account just so have more shit argue' , -18.654 , -1 , none
+'look have' , -0.73 , 0 , none
+'get home have email answer' , -5.886 , 0 , none
+'be plan stop portland again do not think be go have time too much do get back' , -33.197 , 0 , none
+'likely be back up pnw conference season' , -4.938 , 0 , none
+'submit cfp be bar hopefully get accept' , -6.142 , 1 , none
+'not stop stare' , -4.248 , 0 , none
+'sorry do not get chance stop have love end have go home quicker think' , -17.007 , 1 , none
+'do not understand thing do waffle house' , -11.905 , 0 , none
+'rt state not let unvaccinated crumb-snatcher school best part be legal do not' , -18.499 , -1 , none
+'well do' , -1.189 , 0 , none
+'rt fda everyone transgender be gay man' , -7.888 , -1 , none
+'number email attribute rt woc/racial issue spoil white girl guilt be greater' , -5.376 , -1 , none
+'yay new reason people hate shove' , -1.417 , -1 , none
+'be call be ally pissant pay attention learn something' , -15.826 , -1 , none
+'do not look be' , -8.435 , 1 , none
+'rt be watch get interview huffpost live #silkroadtrial course start be not em' , -21.351 , 0 , none
+'time be never know fill date site' , -8.626 , 0 , none
+'hate math strongly appreciate anyone else good math' , -2.079 , -1 , none
+'really though show someone play string instrument be happy woman know mean' , -10.067 , 1 , none
+'top kek' , -0.693 , 0 , none
+'remember roguestar dude doxx lead mob many never deliver kickstarter have' , -3.008 , -1 , none
+'interesting' , 0.0 , 1 , none
+'rt hey do know ks tos prohibit doxx people' , -12.002 , -1 , none
+'mock account' , -0.693 , -1 , none
+'get temp ban gg mass report email twitter be insta-unbanned' , -11.111 , 0 , none
+'rt stream say people gg doxx srh' , -8.644 , 0 , none
+'not get shut' , -4.536 , 0 , none
+'rt piss anti-vaxer' , -2.374 , -1 , none
+'rt guy sex tape just leak #fiftyshades watch here' , -1.969 , 1 , none
+'rt overwatch review blizzard do not just announce game announce universe' , -10.228 , 0 , none
+'insta-blocked' , 0.0 , -1 , none
+'rt want report rogue doxxing harass people use report kickstarter link bottom http' , -13.026 , -1 , none
+'be be honest other rogue be way too busy harass people even start work game' , -24.666 , -1 , none
+'ks be not game be sponsor online abuse' , -13.496 , -1 , none
+'be not down tactic especially be launch ks later' , -11.011 , 1 , none
+'happen not cool' , -5.123 , 0 , none
+'be not gamergate do not do shit' , -20.358 , -1 , none
+'rt level transference tone deafness be amazing' , -7.6 , 1 , none
+'rt speech never tell #mlk' , -5.958 , 0 , none
+'contact k directly use social network' , -2.708 , 0 , none
+'yeassssssss' , 0.0 , 1 , none
+'mayyyybe be cfp have do neat stuff statsd/graphite abuse metric' , -9.865 , -1 , none
+'devopse social activism be pretty rad stuff' , -4.82 , 1 , none
+'rt be true woman run world have still be live echo chamber' , -17.813 , 1 , none
+'saw' , 0.0 , 0 , none
+'just see follow row really freak have thing be due damn guy' , -12.433 , -1 , none
+'worst drive' , 4.277 , -1 , none
+'use live here nerd' , -0.51 , -1 , none
+'rt friend facebook acct get shut down legal name be not name use/are know anyone fb know' , -19.267 , 1 , none
+'wow just realize much life suck somebody be actually name vivian jame' , -13.596 , 1 , none
+'shoutout back gamergate think fork #ggautoblocker repo excessively make renounce open source' , -5.78 , -1 , none
+'shoutout dude try blackmail release source code #ggautoblocker do not take project down' , -6.873 , -1 , none
+'dictate tweet be worst' , -4.755 , -1 , none
+'shoutout time someone fork #ggautoblocker make change gamergate think do do not understand github' , -17.212 , 0 , none
+'think last tweet get confuse start laugh halfway' , -9.692 , -1 , none
+'rt think apple use bsd compensate be still favorite' , -9.055 , 1 , none
+'shoutout people email freebsd think be employer wait be still happen' , -13.793 , 0 , none
+'last not least shoutout guy bus be talk shit run be confront friend' , -13.208 , -1 , none
+'be head south be mile border let know' , -12.06 , 0 , none
+'github shut' , 0.405 , 0 , none
+'strongly debate stop ikea portland sale tax' , -2.708 , -1 , none
+'gas be pretty cheap' , -5.225 , 1 , none
+'rt #gamergate inspire law order trailer be up' , -8.293 , 1 , none
+'rt grace hopper badass la not resist see raw image h' , -9.395 , 1 , none
+'be rather curious give very low percentage tweet be geo tag' , -8.659 , -1 , none
+'gosh problem be have be travel forget do garrison stuff' , -17.17 , -1 , none
+'garrison be rad be just very commit upkeep' , -9.758 , 0 , none
+'have just be away almost just realize completely forget everything' , -14.472 , 0 , none
+'be actually more upset forget garrison be miss conquest cap' , -13.341 , -1 , none
+'be next darkmoon faire be so so close be grandma insane' , -17.895 , -1 , none
+'possible kickstarter reward personally dye hair bright color choice' , 3.807 , -1 , none
+'do okay' , -3.828 , 0 , none
+'rt meg ryan be indie tom hank be amazon zillionaire keep ing twitter come soon have get male o' , -18.137 , 0 , none
+'rt appreciate feedback joke be not funny think be' , -15.87 , 1 , none
+'dye hair' , 1.609 , 0 , none
+'possible kickstarter award carry glory 2v2 arena' , 1.099 , -1 , none
+'scrub bubble work amazingly well' , 0.847 , 1 , none
+'possible kickstarter reward rename leo name choose' , 0.182 , -1 , none
+'everything mostly' , 1.792 , 0 , none
+'mean have giant dick be swing around' , -5.343 , 0 , none
+'nuke rating constantly help friend gear alt' , -1.098 , 1 , none
+'rt grow south really cool thing be be something change' , -15.822 , 1 , none
+'time hydroplan go speed limit call be hope make 40m away' , -8.963 , 1 , none
+'drive be horrible have decide be fact not initial d.' , -11.704 , -1 , none
+'get worst think be easier be light' , -10.386 , -1 , none
+'leo be stoic guard' , -4.532 , 0 , none
+'feel car rock wind be freaky' , -5.513 , -1 , none
+'dog be photogenic hell' , -6.324 , -1 , none
+'weird be tweet be supposedly chase twitter' , -11.08 , -1 , none
+'nah most tree here be pretty short' , -5.225 , 1 , none
+'rt get high score' , -4.965 , 1 , none
+'rt boat full batmen spot venice' , -2.662 , 0 , none
+'imply know programming language' , -0.916 , 0 , none
+'just enter mountain be shit show' , -6.17 , -1 , none
+'be only person crazy enough be road weather have keynote write goddamnit' , -15.133 , -1 , none
+'see little wave water crash road car be rock wind have pull again' , -7.933 , 0 , none
+'nothing break be just drive througg lot water' , -2.623 , -1 , none
+'just' , -2.484 , 0 , none
+'have see grand total car' , -3.806 , 1 , none
+'be constantly use system be off' , -9.981 , 0 , none
+'be off be just continuously engage very long time water here be crazy' , -11.112 , -1 , none
+'yeah car well ur face have traction' , -1.637 , 0 , none
+'someone get eta be go get' , -13.029 , -1 , none
+'give chill weed ft walk door cafe have completely drench' , -4.682 , -1 , none
+'be not like be typing' , -9.912 , 0 , none
+'old dude cafe grandmother have blue hair' , 0.393 , 0 , none
+'be away' , -4.532 , 0 , none
+'rt generation anime-american' , -3.761 , 0 , none
+'grosssssss' , 0.0 , -1 , none
+'think be too' , -7.422 , 0 , none
+'hear be snow north glad make snow start' , -8.116 , 1 , none
+'do not know atmospheric be do feel be drive' , -18.773 , 1 , none
+'be glad be finally get rain really wish be not happen be drive' , -21.567 , 1 , none
+'mile get home be watch' , -6.429 , 0 , none
+'make mountain alive' , -1.098 , 0 , none
+'leo be freak wind so bury luggage sleep' , -6.478 , -1 , none
+'get do not seem hold tight enough' , -7.266 , 0 , none
+'happen time' , -2.484 , 0 , none
+'be gamergate finally eat own tail' , -7.71 , 0 , none
+'rt' , -3.761 , 0 , none
+'back yolo county awww yisssss' , -1.098 , 1 , none
+'leo status still zonk' , 1.946 , 0 , none
+'mile nothing farmland direction here stand lone palm tree' , 4.97 , -1 , none
+'be so random' , -6.478 , 1 , none
+'never have guess' , -5.493 , 0 , none
+'rt find harder harder tell apart' , -7.344 , 0 , none
+'rt qq harder just lose game' , -8.731 , 0 , none
+'be middle drive home be there soon send email later' , -7.378 , 1 , none
+'so harsh' , -3.044 , -1 , none
+'richmond police just make kissyface leo' , -2.89 , 1 , none
+'rt make sure send kickstarter link' , -7.162 , -1 , none
+'roguestar do not belong kickstarter' , -5.081 , -1 , none
+'rt well be not prize creep answer way' , -11.759 , 1 , none
+'whole harper lee thing kind gross so sister die sound everybody be take advantage' , -8.27 , -1 , none
+'do not really understand everybody seem so okay' , -8.701 , 0 , none
+'seem have really want book publish have be publish whole story seem so bunk' , -15.437 , 0 , none
+'be let just take advantage little old lady many account be senile' , -11.55 , -1 , none
+'rt be just be not even book be reject draft kill mockingbird befor' , -25.661 , -1 , none
+'finally home' , 1.792 , 0 , none
+'inbox' , 0.0 , 0 , none
+'patreon be act weird just get monthly payment yay go get pay say need become' , -17.269 , 1 , none
+'worry hit button lose patron' , 0.916 , -1 , none
+'yes recall' , -1.098 , 0 , none
+'omfg blackmilk be kill' , -5.225 , -1 , none
+'be there remember scream' , -5.225 , -1 , none
+'be resist' , -4.532 , 0 , none
+'ok yeah be' , -5.225 , 0 , none
+'have just buy' , -6.879 , 0 , none
+'thank god consult fuel blackmilk addiction' , 2.079 , -1 , none
+'patreon bill' , 0.0 , 0 , none
+'consult blackmilk food be not ramen 401k least do not have put many hrs/month' , -17.916 , 0 , none
+'shut' , 1.099 , 0 , none
+'do do business card someone tell app' , -8.622 , 0 , none
+'rt patch build heirloom ui brf tuning blue tweet amr brf wipe rate' , -6.063 , 0 , none
+'sweet use iphone be not peasant' , -9.474 , 1 , none
+'android be jerk' , -5.225 , -1 , none
+'wow really' , -1.386 , 1 , none
+'hair look amazing' , 4.174 , 1 , none
+'clip be listen listen listen #stopwadhwa2015' , -4.062 , 0 , none
+'rt shit tattoo shit forehead message be important *' , -10.491 , -1 , none
+'be cool be sure be go say npr be just call attention right' , -28.511 , 1 , none
+'be just short pay rent fee so not complain though be do better think' , -24.24 , 0 , none
+'rt really feel dm be hand-on-the-knee social communication #stopwad' , -11.759 , 1 , none
+'notice misogyny then realize plz brush tooth' , -2.995 , 0 , none
+'rt think have public debate woman tech topic speak woman #stopwad' , -19.419 , 0 , none
+'want see storify be return error code' , -8.221 , -1 , none
+'yo lady think be time sit group talk #stopwadhwa2015 google hangout broadcast' , -5.736 , 0 , none
+'want panel woman tech tear shit #stopwadhwa2015' , -9.523 , -1 , none
+'rt get love determine good feminist be man mentality gg have self-awareness' , -15.566 , 1 , none
+'really tho kind just want drain glass wine rant thing do not like do anytime' , -14.678 , 1 , none
+'also be think sjw party be happen soon perhaps gdc' , -13.054 , 0 , none
+'generally anytime say devil advocate mean be waste people time be ass especially argue point' , -12.849 , -1 , none
+'have contest be old tiresome trick use troll pseudo-feminist time' , -10.131 , -1 , none
+'personal facebook be not ever place debate ;-rrb- unblock please do not do again' , -19.442 , 1 , none
+'person sound moron find people shit' , -3.678 , -1 , none
+'worry block quickly facebook notification go phone twitter always willing unblock' , -4.143 , -1 , none
+'be exp get mansplain career advice dude xp bad life decision' , -8.221 , -1 , none
+'know feel' , -2.995 , 0 , none
+'have have space chance be most people already have schedule book' , -20.401 , 0 , none
+'have be rage think ever innovate woman' , -14.356 , -1 , none
+'do not worry back then then have be publish everywhere be try discredit' , -24.937 , -1 , none
+'really wish have time dig more financial such seem basically cxo circlejerk' , -6.761 , 0 , none
+'sigh accuse racism have idea' , -2.197 , -1 , none
+'whelp be start get pretty decent platform be go get face there alright' , -18.101 , 1 , none
+'anti-abuse thing be main focus always spare time bullshit be abusive' , -12.348 , -1 , none
+'bahahaha' , 0.0 , 1 , none
+'cc' , 0.0 , 0 , none
+'amaze think be help tell woman be do wrong' , -19.827 , 1 , none
+'really want ally get dudebro change not tell woman fit dudebro' , -13.431 , 0 , none
+'be probably not answer email have other work catch gob email' , -16.13 , 0 , none
+'be wait response approximately people be be sorry be afk respond soon' , -20.41 , -1 , none
+'ughhhh' , 0.0 , -1 , none
+'read get go afk bit still bring stuff car long road trip' , 0.588 , 0 , none
+'have source many gater timeline grammar be not good enough work well just seriously' , -16.263 , -1 , none
+'make markov bot fight markov bot command watch' , -1.791 , -1 , none
+'markov bot be also buzzfeed catch lot gater' , -7.305 , 0 , none
+'be pretty entertaining talk sometimes' , -7.017 , 1 , none
+'fight keep go stop script restart pull new cache 1d' , -1.475 , -1 , none
+'follow follow back then randomly rt/fav stuff like be weird' , -4.062 , -1 , none
+'gater ebook be very fond patreon' , -2.74 , 1 , none
+'tell think ethic' , -2.89 , 0 , none
+'ethic policy gamergate do not exist' , -8.952 , 0 , none
+'attn be take maintenance block list still function just not markov' , -9.096 , -1 , none
+'put same app secret/key just diff user cred add more source gater ebook do filesystem cleanup' , -5.908 , -1 , none
+'want more private repo github gdus' , -4.564 , 0 , none
+'need just switch organization-based github do not want pay 25/month be cheap' , -18.455 , -1 , none
+'stick github need stick org know have get internal contact abuse related thing' , -12.4 , -1 , none
+'need github ty anyway' , -1.791 , 1 , none
+'yeah name game lately be stay step ahead gater attempt shut thing down/abuse system github have be great love' , -17.253 , -1 , none
+'sorry need stick github' , 0.405 , -1 , none
+'hehe be use copy status url pasting lot :p love response get though ty idea' , -10.118 , 1 , none
+'have be talk employee hear lot internal politics be gg be enough make stay' , -21.863 , 0 , none
+'make mistake hope have learn way treat gg situation have be outstanding' , -14.014 , 1 , none
+'see reply' , -1.609 , 0 , none
+'easier github do not have time spend be admin' , -16.781 , 0 , none
+'new mascot' , 1.386 , 0 , none
+'rt be media need #stopwadhwa2015' , -11.694 , 0 , none
+'rt dear' , -3.068 , 1 , none
+'darpa-sponsored body double be available pickup never know diff' , -5.854 , 0 , none
+'hell know have be sockpuppet' , -10.536 , -1 , none
+'npo take' , -0.693 , -1 , none
+'end most be stop soon be shut maint' , -9.17 , 0 , none
+'restart daily pull new tweet' , -0.223 , 0 , none
+'worst part buy furniture ikea be have bring parking garage apartment do not wan' , -11.811 , -1 , none
+'rt well be pretty disgusting way spin thing gamergate' , -11.135 , -1 , none
+'go way be very limited sample size people be far less likely harass fb w/real name' , -13.632 , -1 , none
+'have only discuss other member target specific group not speak other hate group' , -9.806 , -1 , none
+'fact twitter make easier interact be not connect have more do' , -18.69 , 0 , none
+'so short be just not enough datum tell' , -13.394 , 0 , none
+'rt bot certainly fool admit be spank time' , -9.68 , -1 , none
+'block wait indefinitely datum filehandle' , -1.386 , -1 , none
+'grafana be weird have never use before do not act expect' , -14.519 , -1 , none
+'er expect' , 0.693 , 1 , none
+'be' , -4.532 , 0 , none
+'present comment' , -0.405 , 0 , none
+'not field guess be just tie pseudonym real name even more so' , -16.389 , 0 , none
+'hey do have good way consume multiple json dump single corpus have be just hacking together' , -18.824 , -1 , none
+'er single mean multiple corpus' , 2.89 , 0 , none
+'think be look tweet id date be pull multiple user account' , -11.0 , 0 , none
+'just see latest version have consume-all help doc be bug btw' , -11.635 , 0 , none
+'consume consume-all do not mention name be' , -11.916 , 0 , none
+'yeah make * bunch * change old ver nice see be not need anymore' , -10.572 , 1 , none
+'have bunch command help manage ggautoblocker related stuff :-rrb- also start fight randi/gater ebook' , -5.087 , -1 , none
+'be nice update quite' , -4.127 , 1 , none
+'devopse so hard' , -0.559 , 0 , none
+'web client other web immediately delete tweet' , -2.708 , 0 , none
+'read policy irt delete tweet comfort' , -0.223 , 1 , none
+'thanks more fun stuff come soon' , 1.386 , 1 , none
+'hate configure retention policy flush interval statsd/graphite ughhhh' , -0.693 , -1 , none
+'make graphite show sum 5m retention be 1m want see graph point 5m sum time period' , -8.76 , 0 , none
+'have idea mean requestcontext serieslist guess intervalstr be 5m' , -6.036 , 0 , none
+'have not really have go plonk graphite stuff be practically foreign language' , -15.996 , -1 , none
+'hmm use grafana be give error' , -6.835 , -1 , none
+'summarize stats.counters.tweetstats.hashtag.all.count 5m sum' , 0.0 , 0 , none
+'be do thing go have pretty automate stuff show soon kinda neat stuff find' , -10.376 , 1 , none
+'disclaimer none thing be tell be accurate just mostly accurate be always exception' , -17.404 , -1 , none
+'gg hashtag see tweets/hr be rt max majority non-rt come bot' , -8.804 , 0 , none
+'be follow not-so-closely oc/36 rt gg hashtagged tweet mention better luck next time' , -14.179 , 1 , none
+'rt have fool anyone be too subtle' , -14.074 , -1 , none
+'literally #devops' , -1.386 , 0 , none
+'goal here be eventually have pretty dashboard go see up-to-the-minute stats stuff' , -8.493 , 1 , none
+'be start get grasp notification ugliness be go happen be interesting incident notification tool' , -19.35 , -1 , none
+'however do not scale use track certain number user target user be not look not work' , -17.584 , 0 , none
+'be possible super low retention graph guess wsp file be delete be not update n' , -15.138 , 1 , none
+'seem gross not really tool be use do better w/other thing be more overview' , -19.732 , -1 , none
+'get statsd/graphite work freebsd then switch connected line graph crash ?!' , -4.317 , 1 , none
+'do not wan devop just want work so do other thing need devop' , -19.92 , 0 , none
+'yeah be kind feeling be do wsp be ok do more granular monitoring redis be good' , -26.886 , 1 , none
+'pretty graph easily generate redis tho have learn r somesuch' , -2.091 , 1 , none
+'dear' , 0.693 , 1 , none
+'something go awry box run memory be also dev box' , -10.062 , 0 , none
+'look ty headsup' , 2.565 , 0 , none
+'yeah have get cron kick not be kick properly' , -11.383 , -1 , none
+'be not respond kill signal weeeeird run script manually work' , -12.141 , -1 , none
+'get inst be slow be oom prob go have aw console kick' , -15.223 , -1 , none
+'be already set bot tweet hashtag inflate do not really see make much difference' , -19.594 , 0 , none
+'do be happy turn graph twitter abuse department do not think people be watch risk' , -24.649 , -1 , none
+'love too much too much' , -5.087 , 1 , none
+'so guess need new jeans belt maybe just cat5 be keep real' , -9.368 , 0 , none
+'be about think' , -4.244 , 0 , none
+'cigarette trousers' , 0.0 , 0 , none
+'be pretty much synonym cigarette pencil skinny' , -6.324 , 1 , none
+'happen do not set lose weight anything' , -8.952 , -1 , none
+'just see people request update amazon wish-list hm usually only use track thing plan buy eventually' , -11.279 , 0 , none
+'so direct parent there time p' , -3.332 , 1 , none
+'just reminder be kind logic reasoning have come expect gg' , -8.927 , 1 , none
+'weird have address account not sure need add wishlist not' , -11.752 , -1 , none
+'best earring' , -0.405 , 1 , none
+'love amazon basics misc accessory do power brick usb hub have be so big' , -14.989 , 1 , none
+'be not be usb hub' , -12.397 , 0 , none
+'so fade :p need hair cut dye desperately' , -0.741 , -1 , none
+'tote sjw' , -1.098 , 0 , none
+'fellow sockphile' , 0.0 , 0 , none
+'think really need talk too' , -6.473 , 0 , none
+'unclear tos prevent bot be able contact contact iirc' , -8.116 , -1 , none
+'automated program be not clearly write' , -7.864 , 0 , none
+'be be try do least target specific groups/causes be tricky have look more statistics word' , -20.354 , -1 , none
+'thing not open interpretation such numeric boolean datum be following/is not follow' , -13.905 , 0 , none
+'be really fun watch pattern emerge regard various group think be useful' , -12.53 , 1 , none
+'rather amuse protest gg be only group have look abuse be easily predict base follower' , -10.083 , -1 , none
+'previous version ebook _ example code use twitter _ ebook not reply ebook account' , -8.237 , 0 , none
+'latest version do not take account iirc just add custom bot blacklist' , -11.032 , 0 , none
+'be do not hurt' , -11.0 , -1 , none
+'verify acct be ok idea too much administrative overhead be better way have talk' , -16.637 , 0 , none
+'verify account have feature other account do not not sure kind overhead increase have' , -21.766 , 1 , none
+'however twitter client web be suppose have same tools/exp be devpolicy do not really encourage party client' , -22.412 , 1 , none
+'ability lock unique phone account already exist eng/infra be already there expose have be add metadata' , -14.558 , -1 , none
+'add filter toggle show phone-verified acct client require devpolicy update natch' , 2.351 , 0 , none
+'do have drawback toggle say show acct older n be easy metadata already exist client/policy update' , -11.908 , 0 , none
+'phone idea be not perfect be easy enough grab phone gv be extra step good deterrent majority abuse' , -16.524 , -1 , none
+'short need be verify be not verify require govt id cause prob unique phone less problematic not perfect' , -16.135 , -1 , none
+'do not worry be sure be great idea dude take credit' , -15.127 , 1 , none
+'lot people do not have cell phone be ;-rrb- only use gv idea disallow gv' , -18.591 , -1 , none
+'not everyone afford cell phone gv be good alternative do not want turn twitter classist thing' , -18.714 , 1 , none
+'be talk twitter talk here neener p' , -7.135 , 1 , none
+'unaware issue do not have cell phones/access gv' , -9.763 , 0 , none
+'have see strong proof people be use online solution sm' , -12.752 , 0 , none
+'be not de-anonymizing phone not necessarily be store name be require' , -20.485 , 0 , none
+'be very easy change gv' , -1.642 , 0 , none
+'be really not surprising wadhwa jason be promote solution remove pseudonymity' , -18.484 , 0 , none
+'pseudonym be good own anonymous be not same thing jason/wadhwa be promote require id/home address/pay use' , -24.53 , 1 , none
+'go figure silicon valley circle jerk elite do not realize people not afford not be harass' , -24.493 , -1 , none
+'whisper hey guy be free abuse/harassment do not have be monetize be everyone show way' , -21.415 , -1 , none
+'take vc fedora think really be be right anyone have not be harass threaten' , -28.661 , -1 , none
+'so yammer sleazeball cupcake go go way' , -7.224 , -1 , none
+'fight user' , 1.386 , -1 , none
+'do not have have phone get sm have have internet be also require twitter' , -29.376 , 0 , none
+'number do not have be store be ensure unique' , -18.828 , 0 , none
+'think password work be store plaintext provider easily decrypt nope' , -4.938 , 0 , none
+'god sound horrible idea privacy problem also twitter likely not be store number be bad' , -11.481 , -1 , none
+'be still entertain jason idea be pay fee make acct protect love hear thought short skirt' , -9.604 , 1 , none
+'think not make assumption be use manner be diff original purpose' , -16.204 , 0 , none
+'still extra work go most troll move find new victim' , -2.197 , -1 , none
+'last check baldwin be verify' , -4.938 , 0 , none
+'only have gv acct give time' , -8.147 , 0 , none
+'accept pull request better idea do not violate pseudonymity/privacy' , -6.062 , 0 , none
+'yupppp jason do not have lot experience twitter seem very healthy world view' , -9.07 , 1 , none
+'rt everything wrong everything single screenshot' , -1.158 , -1 , none
+'only want people use' , -7.473 , 0 , none
+'multiple gmail acct be lot effort though most troll just pick new target' , -9.79 , 0 , none
+'nothing ever be perfect be good start fix huge percentage' , -12.243 , -1 , none
+'not do' , -6.467 , 0 , none
+'be talk' , -5.631 , 0 , none
+'meet :p know do certainly do not be talk' , -17.536 , 1 , none
+'set bad precedent' , -0.693 , -1 , none
+'guess anyways' , -1.098 , 0 , none
+'god be so stubborn' , -4.399 , -1 , none
+'just realize only thing take push fence real name/pseudonym debate be jason/wadhwa' , -10.706 , 0 , none
+'wow be blue hair dye have tube pravana be purple' , -11.444 , 1 , none
+'exist web' , -0.693 , 0 , none
+'donate blood pretty sure bleed twitter json metadata point' , -4.276 , 1 , none
+'rt beck step up take album award be' , -8.293 , 0 , none
+'pretty sure take credit beck comeback' , -2.079 , 1 , none
+'noooooooooooo bey be so sorry be still national treasure' , -6.867 , -1 , none
+'be keep youthful good look live forever' , -3.353 , 1 , none
+'get crazy cheese whiz' , -1.609 , -1 , none
+'uhh point ingress' , -0.693 , 0 , none
+'gg take statement mean just hide subreddit' , -2.772 , -1 , none
+'accord ralphreject gdc be just place rich people drink/do jeez guy guess bring enough wine share then' , -8.722 , 0 , none
+'nichegamer get blacklist gaming company respond post article be blacklist' , -8.914 , 0 , none
+'countdown more company follow suit see way be handle' , -11.111 , 0 , none
+'yes love' , -1.791 , 1 , none
+'freebsd be fact person yo hear be not besty anymore' , -14.882 , 0 , none
+'also lol senior position be employer title apparently' , -4.309 , 1 , none
+'gamergate just call copy boy personal 8chan' , -5.152 , 0 , none
+'congrat' , -0.693 , 0 , none
+'gamergate be advocate baph stalk son' , -6.612 , 0 , none
+'kia do not have anything do' , -13.592 , 0 , none
+'hey guy tote hax submit pull request xss cleverly disguise perl cli app' , 2.773 , 1 , none
+'be' , -4.532 , 0 , none
+'no' , 0.0 , 0 , none
+'have see mod claim have idea even be screencap case delete' , -13.021 , 0 , none
+'hate cat' , -0.693 , -1 , none
+'be not everyone' , -6.766 , 0 , none
+'people need education likely not attend anti-harassment conf' , -6.135 , -1 , none
+'ambulance/firetruck building be weird have wonder someone call false report wait see' , -13.057 , -1 , none
+'post subreddit mod person claim' , -2.079 , 0 , none
+'yup know drill' , -1.609 , 0 , none
+'finally find macbook power cable time make slide be keynote speaker #girldevweek #developerweek' , -7.017 , 1 , none
+'prefer just get stage speaking most conference organizer want have slide' , -8.776 , 0 , none
+'doxxing' , 0.0 , 0 , none
+'be not p' , -7.864 , 0 , none
+'w be more efficient h p' , -5.918 , 1 , none
+'gg average oc tweets/hr' , 0.0 , 0 , none
+'gater get so excite talk reddit be pretty funny be sure be go go tell friend be totally #rekt' , -27.774 , 1 , none
+'original content not rt.' , -3.332 , 0 , none
+'not mute hashtag be violation twitter policy be be only implement older client' , -19.82 , -1 , none
+'look here nero wadhwa colluding borrow term gg playbook #stopwadhwa2015' , 0.349 , 0 , none
+'rt hot singles be area' , -7.195 , 0 , none
+'go west' , -1.945 , 0 , none
+'hot singles be circle' , -3.433 , 0 , none
+'go south' , -1.945 , 0 , none
+'hot singles smell fear' , 1.099 , -1 , none
+'go so' , -3.891 , 0 , none
+'rt well do ggr take huge shit own hobby be go be long time smell go away' , -21.779 , -1 , none
+'be make bucket coffee stop' , -7.24 , 0 , none
+'stop stop advocate people pay abuse mitigation' , -6.715 , -1 , none
+'stop' , -1.609 , 0 , none
+'rt also send message protection be service not basic right' , -16.008 , -1 , none
+'rt somebody never meet sit hospital bed inexplicably worry balanced parenthe' , -4.454 , -1 , none
+'be mostly start talk charge fee be horrible idea' , -9.065 , -1 , none
+'low userid do not give special insight pulpit privilege abuse-free living not have premium' , -13.788 , -1 , none
+'be defend ugh' , -4.532 , -1 , none
+'idea observation be completely dismissive low income bracket' , -4.127 , -1 , none
+'not mention poverty level other country amount be insurmountable teenager' , -6.883 , -1 , none
+'anything require government id be privacy concern anything require money be bad idea forever' , -12.685 , -1 , none
+'be try have conversation do think be fight' , -17.0 , -1 , none
+'just disagree do not mean have strong feeling just dislike solution' , -12.536 , -1 , none
+'find problem w/dude solution do not publicly call get accuse try pick fight ask shocking' , -10.967 , -1 , none
+'do dude have play be not serious just want fight card woman call solution ill consequence' , -18.626 , -1 , none
+'give already use low twitter userid brag worth not be shock want twitter be classist' , -22.965 , -1 , none
+'be also get tie jason lol okay then basically waste anyone time be not white cishet male' , -22.73 , -1 , none
+'actually listen probably not twitter userid be low' , -11.853 , -1 , none
+'sometimes hope do break become be own island love here damn system be rig' , -11.389 , 1 , none
+'physically separate decide separate governmental entity as well proclaim independence' , 3.555 , -1 , none
+'go quickly surrender google counter remove porn search ever' , -4.43 , -1 , none
+'peace treaty be broker google revert search include porn add new google api cat service world rejoice' , -4.127 , -1 , none
+'work define new government' , 0.288 , 0 , none
+'yes course perfect' , -2.89 , 1 , none
+'lone voice back not actually thing' , -6.04 , -1 , none
+'coffee just ding so be go finish story quickly' , -9.523 , 0 , none
+'primary export become pop collar' , -1.098 , 0 , none
+'end' , 1.099 , 0 , none
+'rt see read certificate authority break be own island site authentication need' , -10.596 , 0 , none
+'rt guy be so train see woman quiet plaything engage substance be see sudden aggression' , -18.856 , -1 , none
+'rt similar woman merely know stuff be see intimidating aggressive instead just standard competen' , -13.135 , -1 , none
+'be still attach sometimes do weird thing twitter be time' , -14.349 , -1 , none
+'be not' , -7.864 , 1 , none
+'totally write alternate more character time be blast' , -7.305 , 0 , none
+'rather do not not just become island' , -11.773 , 0 , none
+'be hunger game internet protocol' , -6.324 , -1 , none
+'be tank girl water power have be run white cishet ma-oh wait' , -11.235 , 1 , none
+'be frozen snow be ipv6 evangelism' , -9.065 , 1 , none
+'stop drink coffee' , -1.609 , 0 , none
+'haha thanks p' , -1.098 , 1 , none
+'hate cardio lifting be lot more fun get heart rate be do right' , -17.681 , -1 , none
+'treadmill be ooh look walk lifting be be stronger erryone raaaaar' , -10.339 , 1 , none
+'rt be total recall only breast maybe' , -9.68 , 1 , none
+'be few grownup movie see kid breast stick forever never forget' , -8.626 , 0 , none
+'do i. have quit then gamergate happen e-cig just be not cut anymore' , -21.686 , -1 , none
+'go sleep take adderall ability sleep be ridonkulous' , -7.171 , 0 , none
+'btw relevant' , 0.693 , 0 , none
+'thread tweet' , -1.609 , -1 , none
+'fwiw never quite disagree completely be pretty good fence sit' , -7.305 , 1 , none
+'omg do not realize' , -6.467 , 1 , none
+'just find' , -3.583 , 0 , none
+'better wadhwa #ladylike' , -3.091 , 0 , none
+'too many rule female be bad math #ladylike' , -6.324 , -1 , none
+'next time get tell woman be not good computer just try lavender #ladylike' , -20.278 , 0 , none
+'skin be so white glow have get blue hair #ladylike' , -11.853 , 0 , none
+'only carry thing none be pantyhose #ladylike' , -6.835 , 0 , none
+'book be publish' , -6.324 , 0 , none
+'have several strand pearl love' , -3.988 , 1 , none
+'rt skin green color suit only wear rip pants hulk need clothes' , -2.508 , 1 , none
+'be tough decide much personal story relate give short keynote state anti-harassment effort' , -6.036 , -1 , none
+'have see support place do not expect originally post story still here think be important point' , -11.657 , 1 , none
+'mostly hear context gamergate be very narrow focus not real problem' , -6.766 , -1 , none
+'find more impactful talk be base story be tough balance' , -10.974 , -1 , none
+'woman dev audience think real msg want get be anyone make difference even just line perl script' , -18.215 , 0 , none
+'be really hard talk abuse leave positive message call action be important not discourage woman industry' , -19.213 , -1 , none
+'code have be compress size :p go readability' , -9.081 , 1 , none
+'rt be gg do not get not even be jst insist be not real/b' , -34.873 , -1 , none
+'have only get so get keep simple figure something out' , -10.945 , 1 , none
+'yo security folk thought self-encrypting drive specifically wd passport ultra' , 3.584 , 1 , none
+'youre welcome' , -0.693 , 0 , none
+'good solution window pref built-in/open source/free order' , 0.0 , -1 , none
+'be waaaaay more spendy be drive have just consider use built-in go software' , -17.302 , 1 , none
+'be bitlocker good have never use do not realize gpg entire drive' , -15.5 , 1 , none
+'thing hate installer require restart then trigger restart hit finish do not want restart tyvm' , -10.849 , -1 , none
+'perf be not concern be mostly go be backup document storage' , -18.182 , -1 , none
+'banish be way too addictive do go' , -12.098 , -1 , none
+'here be thought be fairly easy implement webapp let get stats/links mention receive block user' , -10.962 , -1 , none
+'random' , 0.0 , 0 , none
+'be completely useless be butthead tweet' , -10.674 , -1 , none
+'cool bean useful info public callout' , -1.386 , 1 , none
+'do dismiss concern argumentative wan check time stamp' , -2.73 , -1 , none
+'be cool next time woman talk approach be classist want not completely dismiss' , -21.697 , 1 , none
+'do not come look attack be tell piss' , -5.662 , -1 , none
+'be sorry do not have time suck next time want look further useless vague callout' , -16.177 , -1 , none
+'not publicly only be not insult be reference top blog post' , -19.195 , -1 , none
+'get be probably go defend friend regardless do be shitty then follow w/more shit' , -20.255 , -1 , none
+'call manner be poo-flinging reference be totally useless provoke good job' , -10.046 , -1 , none
+'be not responsible hurt feeling be decide ignore instead have conversation' , -13.901 , -1 , none
+'behavior matter be pretty typical sorry truth hurt' , -3.721 , -1 , none
+'also fellow sj butthurt be generally frown descriptor' , -5.918 , -1 , none
+'fwiw be not mean dig do not know be point' , -19.375 , 0 , none
+'lord save hurt feeling man tech idea have be challenge' , -9.907 , -1 , none
+'be explain still think be asshole' , -8.911 , -1 , none
+'do be call' , -9.054 , 0 , none
+'haha' , 0.0 , 1 , none
+'have still have be irritated disagree response have be lot different' , -17.987 , -1 , none
+'yeah see be pretty much do interact shit pull be unacceptable same shit see sexist engineer' , -16.696 , -1 , none
+'do not know do not know act way everyone only base opinion single exp blog post' , -15.813 , 0 , none
+'tell respond language everything be typical dude see be dismissive woman eng' , -12.925 , -1 , none
+'claim otherwise really do not think be same side' , -15.564 , 0 , none
+'guy be wear super hero outfit cape' , 0.997 , 1 , none
+'literally cape' , -1.386 , 0 , none
+'need talk be official sjw uniform' , -8.521 , 0 , none
+'yessssss' , 0.0 , 1 , none
+'u' , 0.693 , 0 , none
+'countdown gamergate screencap start talk fat be' , -7.422 , -1 , none
+'blackmilk' , 0.0 , 0 , none
+'know not seem decide be meth addict have ton baby sell baby dude' , -12.076 , -1 , none
+'do have fan turn' , -3.54 , 0 , none
+'d  feel wonder woman' , -5.023 , 1 , none
+'be marry kid also' , -6.206 , 0 , none
+'love wear wonder woman swimmie write code help protect people online' , -6.574 , -1 , none
+'pretty sure be' , -5.918 , 1 , none
+'yes d' , 0.0 , 0 , none
+'be bug' , -3.839 , -1 , none
+'be kinda cold do not want stop wear superhero outfit' , -11.644 , -1 , none
+'qq gg qq take body shame way door' , -2.079 , 0 , none
+'be really bad thing know blackmilk swim fit well be super comfy really really bad' , -14.784 , 1 , none
+'run faster wear' , 0.847 , 0 , none
+'have bunch bm already not swim' , -7.726 , 0 , none
+'not too busy be superhero run cape' , -10.062 , 0 , none
+'hah be overweight hell still feel awesome be make feel not other think' , -19.004 , 1 , none
+'rt' , -3.761 , 0 , none
+'plz get blackmilk superhero swim' , -2.995 , 0 , none
+'btw have get lot museum bm fit retro tetri leggings borrow be kinda thing' , -10.641 , 0 , none
+'omg robot leggings be perfect' , -4.532 , 1 , none
+'just discover happen jeans be too big wear swim whelp time make belt' , -10.446 , 0 , none
+'ugh fake nerd guy do not even know wonder woman be' , -14.455 , -1 , none
+'lecture be older most people insulting pearl code' , -8.316 , -1 , none
+'rt only slut have skin hair proper lady be literal skeleton' , -8.188 , -1 , none
+'be pretty funny see people talk perl again' , -6.46 , 1 , none
+'be so many people bad understand do be' , -17.93 , -1 , none
+'rt comment article remind do stilget do mansplainer http' , -11.13 , -1 , none
+'rt oi be go ask still get doofuse question answer' , -10.19 , 0 , none
+'rt also tfa be example unintentional do so thanks play better luck next time' , -19.731 , 1 , none
+'be pretty entertain only see half conversation' , -8.221 , 1 , none
+'have get be weirdest insult have ever see sling mra/gater/whatever' , -16.134 , -1 , none
+'rather have tooth pull' , -1.686 , 0 , none
+'do know person do not generally promote fundraiser legal fee people do not know/haven t talk' , -22.093 , 0 , none
+'do :p lecture be freebsd' , -7.668 , 1 , none
+'someday gater have epiphany regard definition dos/ddos unbelievable feat be sign apocalypse' , -7.135 , -1 , none
+'do not understand simple technical definition be give so much problem seem think dos/ddos excessive packet' , -14.737 , -1 , none
+'dos/ddos do not refer technique method transport' , -5.369 , 0 , none
+'be largely define intention end result' , -2.74 , 0 , none
+'be not rocket' , -7.864 , 0 , none
+'want classify influx notification dogpile unintentional ddo make core functionality unusable' , -3.178 , 1 , none
+'be super common run unintentional do especially dev ever make stupid mistake cause critical lack resource' , -10.558 , 1 , none
+'maybe program fork fork no longer do not have restriction maybe send inappropriate amount udp' , -14.145 , -1 , none
+'dev have never forget put sleep statement increment counter write poorly design loop please stand' , -2.197 , -1 , none
+'be hard definition constitute do lack service service be open mean many thing' , -12.711 , -1 , none
+'remote server program listen server local app' , 1.386 , 0 , none
+'do just try mansplain perl fail' , -6.719 , -1 , none
+'rt' , -3.761 , 0 , none
+'standup' , 0.693 , 0 , none
+'goto' , 0.0 , 0 , none
+'congrat have graduate do school fly color gl educate gater' , -5.738 , 0 , none
+'dev make mistake' , -1.098 , -1 , none
+'break dude be teenager forkbomb server' , -2.047 , -1 , none
+'rt also anyone have never write x c/java/insert language assignment always ret' , -10.235 , 1 , none
+'only dev stand be one have not make mistake dev be sit' , -12.985 , -1 , none
+'worry think be parse failure' , -6.324 , -1 , none
+'d php d' , 2.197 , 0 , none
+'put list' , 1.792 , 1 , none
+'rt lynsey addario reporting female everything' , -3.355 , -1 , none
+'um be basic dos have batch file be not basic p' , -15.693 , 1 , none
+'not depend lang' , -3.332 , 0 , none
+'not sure think be too easily argue irt be unintentional' , -14.189 , -1 , none
+'someone involuntarily start flail smack person face person be attack arm' , -8.27 , -1 , none
+'man remember win95 ver a/b p' , 0.0 , 1 , none
+'pravana blue guess be stick mix clear special fx turquoise exist hair hmm be good' , -9.94 , 1 , none
+'exist dye derp' , -0.693 , 0 , none
+'gross netware' , 1.099 , -1 , none
+'well actually be kiiiiiiiinda rainbow hair expert' , -2.075 , 1 , none
+'seriousness have be die hair teens not remember last time use single shade too flat' , -12.259 , -1 , none
+'work well color pastel be gorgeous fade super quickly blues be amazing' , -5.732 , 1 , none
+'depend shade do blues most mp fade greyish blue most sfx fade w/green tint' , -6.601 , 0 , none
+'usually mix brand depend fade sfx have fantastic pink though n rage do decent pink too' , -5.92 , 1 , none
+'gross look weird hair' , 7.065 , -1 , none
+'have try pravana' , -4.394 , 0 , none
+'pravana blue not pastel mixed touch purple make fade gorgeous pravana clear swear' , -2.926 , 1 , none
+'be relatively new most salon have switch use here instead specialfx' , -6.547 , 1 , none
+'brb be start feel feeling scalp mean be time wash stuff' , -7.966 , 0 , none
+'not sure kind fade short hair be dye well be less monotone' , -7.455 , 1 , none
+'check' , 0.693 , 0 , none
+'pravana vivid be favorite line blues easily pastel line be gorgeous fade so quick' , -10.317 , 1 , none
+'pravana pastel pink fade rest be originally mint color completely go' , -5.785 , 0 , none
+'n rage pink turquoise be mix special fx nrage pink hold very well' , -1.488 , 1 , none
+'tend document hair color experiment later pigtail pic be old' , 1.354 , 0 , none
+'er manic panic exist 90' , -0.693 , -1 , none
+'be difference drunk perl sober perl' , -4.532 , -1 , none
+'drunk perl have comment' , -3.701 , -1 , none
+'be not young think be p' , -14.189 , 1 , none
+'funny dev joke y/n sense humor be weird' , 1.418 , 1 , none
+'be work new project video need help need vid clip ppl read abusive tweet have receive' , -12.04 , -1 , none
+'just content tweet not name person send pref screenshot' , -11.338 , 0 , none
+'goal be show people irl read word have receive internet have impact' , -11.576 , 0 , none
+'yes be censor name' , -7.24 , -1 , none
+'email vid randi.io share dropbox amy file share service prefer' , 2.773 , 0 , none
+'yup' , 0.0 , 0 , none
+'indeed have be code ;-rrb- be still fun use work really old unix too' , -14.221 , 1 , none
+'just abuse not necessarily gamergate specific' , -6.915 , -1 , none
+'be block be not' , -13.09 , -1 , none
+'thanks' , -1.098 , 1 , none
+'ty' , 0.0 , 1 , none
+'perl be pretty readable not efficient necessarily definitely possible anyone read understand' , -7.459 , 1 , none
+'be cool' , -5.225 , 1 , none
+'be even better' , -5.918 , 0 , none
+'never tell anymore p' , -3.295 , 1 , none
+'ask people read shit have receive provide video do so be small thing' , -18.015 , -1 , none
+'have more emotional impact be face person read loud' , -7.54 , -1 , none
+'rt' , -3.761 , 0 , none
+'think find amusing' , -2.89 , 1 , none
+'be pretty funny gamergate think be profit take huge pay cut go full time' , -13.901 , -1 , none
+'be funny be be drunk write write not something plan sharing' , -15.949 , -1 , none
+'be not actually dev be devop do thing find interesting be interesting' , -23.872 , 1 , none
+'not sure do not see' , -12.102 , 0 , none
+'just get mad hair cut' , -2.484 , -1 , none
+'hindsight be not wise move do keynote be punk rock sea urchin only chop bang' , -16.919 , 1 , none
+'do' , -3.135 , 0 , none
+'fashion randus' , 1.386 , 0 , none
+'joan jett do' , -3.135 , 0 , none
+'cut own damn bang' , 1.099 , -1 , none
+'be hope more personal be definitely troubling p' , -11.262 , -1 , none
+'eep' , 0.0 , -1 , none
+'ughhh someone offer discount access gdc pass be still more afford' , -6.324 , -1 , none
+'go ahead be interested see fabricate hopefully be more creative article' , -12.62 , -1 , none
+'have never talk be sure not let little thing truth way story' , -16.353 , 1 , none
+'sure' , -0.693 , 1 , none
+'be weird someone gamergate be oppose video not specific gamergate talk so weird right' , -18.774 , -1 , none
+'mean gamergate care video people read abusive tweet have receive do have do ethic' , -18.256 , -1 , none
+'keep hear gamergate be oppose be misunderstand something surely' , -14.728 , -1 , none
+'wait take back make mistake mention before' , -3.583 , -1 , none
+'someone not yet block reply tweet mention not remember be so check' , -14.213 , -1 , none
+'yo guy do know be convict felon be new' , -9.245 , -1 , none
+'rt haha have see tweet be link hilarious' , -15.501 , 1 , none
+'be pretty funny georgie claim harass never talk ignore smear article write' , -6.442 , -1 , none
+'iirc claim go jail something do not read be just try make name w/tabloidism' , -18.95 , -1 , none
+'pssst be not ethical journalism never happen ed be not reliable source' , -18.619 , -1 , none
+'spread rumor start gnaa fact call be not take seriously' , -11.736 , 0 , none
+'be fun be over be not even consider site techraptr anything more hit piece blog' , -18.786 , 1 , none
+'be claim threaten sue be hilarious * even obvious case have time' , -15.826 , -1 , none
+'remember gg post baph do anyone baph say awful human try get doxxed/raided' , -10.695 , -1 , none
+'pepperidge farm remember' , 0.693 , 0 , none
+'probably have warn sorry be desensitize such thing' , -8.626 , -1 , none
+'oop sorry belated content warning post gore target not distribute url guess fail' , -3.619 , -1 , none
+'totally bad :p here brain bleach' , 0.405 , -1 , none
+'failure appear expire tag be tote' , -4.532 , -1 , none
+'head #girldevweek keynote state online' , -1.386 , -1 , none
+'spoiler troll be not hide bridge anymore be burn time fight back' , -15.287 , -1 , none
+'be be sarcastic p' , -9.065 , -1 , none
+'more spoiler too bad literally turquoise do not quite have same ring' , -16.119 , -1 , none
+'u' , 0.693 , 0 , none
+'be epic color coordination layered tank turquoise pink pink shoe pink backpack pink pullover' , -3.839 , 0 , none
+'be decent editing worry' , -4.532 , -1 , none
+'also read gay slur' , -0.693 , -1 , none
+'be somewhere maybe pink pullover pink backpack' , -5.225 , 0 , none
+'be good guy let explain word be problematic' , -7.966 , -1 , none
+'pretty sf' , -0.693 , 1 , none
+'dev match outfit' , 0.693 , 1 , none
+'not :-rrb- hat' , -1.945 , 1 , none
+'er hat' , 0.693 , 0 , none
+'company again :p sorry be crazy' , -0.543 , -1 , none
+'sure think stop bit give talk be here' , -10.013 , 0 , none
+'shoot dm have get solid eta' , -4.905 , -1 , none
+'hang dice lounge #developerweek anyone want stop say' , -7.56 , 0 , none
+'tech conference crack everyone be walk black white navy blue shirt meanwhile be neon pink cyan' , -12.936 , 0 , none
+'be wander outside enjoy sun' , -4.938 , 1 , none
+'nervous not speaking content tech stuff be easier so many feel #girldevweek' , -12.583 , -1 , none
+'only get pass somehow' , -3.688 , -1 , none
+'shit be get real' , -6.142 , -1 , none
+'gamergate start harass #girldevweek spend q livestream tweet discuss' , -6.697 , -1 , none
+'be not surprise wish be gamergate turn talk anti-harassment live demonstration #girldevweek' , -13.783 , -1 , none
+'feel scatter heck sleep p' , -0.693 , 1 , none
+'rt woman feel guilty be attack scary true not just tech' , -18.441 , -1 , none
+'rt here be room #girldevweek #devweek15 http' , -7.195 , 0 , none
+'rt wadhwa literally silencing woman tech golf clap' , -12.974 , 0 , none
+'tweet be worry get harass think be fantastic' , -15.174 , -1 , none
+'rt be be crazy commend courage #girldevweek' , -12.133 , -1 , none
+'randi.io' , 0.0 , 0 , none
+'feel kind fantastic stand stage tell show people experience be harass vocal woman tech' , -10.126 , -1 , none
+'talk weev full disclosure mailing list post baph doxxing swat threat family friend be threaten be target mob' , -13.224 , -1 , none
+'be difficult question be good idea someone crowd come forward hug start cry then be cry' , -11.49 , -1 , none
+'then q keynote speaker get hijack show happen live talk diff aspect' , -3.064 , -1 , none
+'talk need support mentor people understand have be too' , -12.829 , 1 , none
+'be blow away not even think more impactful way get point be problem need talk' , -23.253 , -1 , none
+'thank everyone #girldevweek kind word thank let speak thank listen' , -0.693 , 1 , none
+'almost cry not quite have something eye okay' , -7.726 , -1 , none
+'make blog post contents talk slide be limit prefer not use slide' , -10.978 , 0 , none
+'meeting' , 0.0 , 0 , none
+'yup' , 0.0 , 0 , none
+'curious gamergate find more offensive be overweight be completely unapologetic unashamed' , -13.747 , -1 , none
+'1k' , 0.0 , -1 , none
+'np be home soon' , -2.74 , 0 , none
+'be list have not have time yet' , -14.051 , 0 , none
+'sigh' , 0.0 , 0 , none
+'facebook post give anti-harassment talk #girldevweek something be ironic apropo' , -8.809 , -1 , none
+'not sure' , -4.025 , 0 , none
+'strange nero glorious campaign be supposedly not be mock' , -10.605 , -1 , none
+'take look' , 1.872 , 0 , none
+'sorry' , 2.197 , -1 , none
+'not sure be irritated street call impressed walk convey state be' , -14.476 , -1 , none
+'rt hoooooolllllleeeeyyyyyy sssshhhhhiiiitttttttttt' , -3.761 , 1 , none
+'rt here be word cloud' , -7.195 , 0 , none
+'rt timeline divide guy snark ep other mostly woman thank take misogyny gaming' , -6.012 , 0 , none
+'here woman thank have not see ep yet have hear good thing thank' , -15.276 , 1 , none
+'pretty entertaining think ny be not hashtag use justify good job' , -10.167 , -1 , none
+'see get mob likely miss anyone be contact w/him tell abt #ggautoblocker #lawandordersvu' , -12.028 , -1 , none
+'do not read much content just enough see be get lot notification ignore fygm girl' , -14.191 , 0 , none
+'just saw fly stats display few time' , -3.871 , 0 , none
+'tweetstats.hashtag.gamergate.mention.freebsdgirl.oc' , 0.0 , 0 , none
+'lol nope' , 2.708 , 1 , none
+'original content retweet' , -0.693 , 0 , none
+'yes' , -1.098 , 0 , none
+'nys ht have die lot flurry tweet #lawandordersvu quickly minority point woman be lie' , -11.283 , -1 , none
+'gamergate be try do damage control hard do not think realize be nothing leave salvage' , -22.251 , 0 , none
+'rt anger episode opinion matter most think be people raina character be' , -16.387 , -1 , none
+'yup' , 0.0 , 1 , none
+'not place bri/zoe/anita feel way then be statement make not mine' , -15.068 , 0 , none
+'tweetstats.hashtag.notyourshield.mention roguestar _ rt' , -3.068 , 0 , none
+'quickly create shield person post woman address twitter' , -5.834 , 1 , none
+'be watch happen be watch number climb be bonkers #lawandordersvu' , -16.775 , 0 , none
+'tweet be positive ratio mention gg/nys be much higher usual' , -12.466 , 1 , none
+'appreciate #lawandordersvu episode just kick new wave gamergate time ride' , -2.484 , -1 , none
+'yup' , 0.0 , 0 , none
+'nerd follower be monitor hashtag/mentions send statsd incr call' , -9.83 , -1 , none
+'have get debug output scroll run program screen always have be scroll too fast read' , -14.93 , 0 , none
+'be statsd call sweetie protocol not programming language be go troll get level' , -16.645 , 1 , none
+'be use multiple stream multiple credentials' , -6.142 , 0 , none
+'have get reason believe be not anywhere hit cap number be verify other source' , -15.0 , -1 , none
+'literally' , -1.386 , 0 , none
+'literally #lawandordersvu' , -1.386 , 0 , none
+'be drunk dude' , -2.453 , -1 , none
+'not process be just watch scrollllllllll' , -11.042 , 1 , none
+'be have verify number be monitor more' , -14.845 , 0 , none
+'too late be literally blue taksy backsy' , -8.403 , 0 , none
+'take bunch screencap conf be speak receive be go be fun' , -18.028 , -1 , none
+'be reason not necessarily mind' , -6.478 , 0 , none
+'be cool hope feel better know happen anything do help' , -14.247 , 1 , none
+'be hard not have feeling sometimes maybe step back/break do do use motivation' , -18.347 , 0 , none
+'love dog so much' , -4.43 , 1 , none
+'be helpful valuable appreciate voice help appreciate know' , -6.142 , 1 , none
+'nothing ever happen be subtle stage unnoticed many know thing be change be watch happen' , -19.301 , -1 , none
+'take break need be not just say make feel better voice be important matter' , -20.139 , 0 , none
+'rt gator be yell respond fan make wan fund patreon here link' , -6.789 , 0 , none
+'rt least irl partner be cuter guy weird svu chimera counterpart be see' , -10.159 , -1 , none
+'rt dude be zoenitanna date shitty dude svu episode be so point break sobrus' , -10.901 , -1 , none
+'rt do not know expect wasnt law order tell give' , -13.63 , 0 , none
+'rt right time new wave horseshit message be send gger shit just fling side' , -14.179 , -1 , none
+'rt least amazon have decency unpublish fanfic real people christ' , -7.663 , -1 , none
+'rt wtf man get upset woman tech be upset say man silence woman so take ht' , -25.48 , -1 , none
+'rt hope whole episode be explain use male privil' , -10.596 , 1 , none
+'rt be get be inception-level bullshit' , -15.128 , -1 , none
+'pink lot too fade too quickly' , -2.197 , 1 , none
+'be not' , -7.864 , 0 , none
+'#lawandordersvu nys tweet have be rt be normal however only tweets/30m inc rt' , -22.879 , 0 , none
+'nys tweet have triple #lawandordersvu' , -4.905 , 0 , none
+'look gg hashtag be average abt tweets/30m #lawandordersvu' , -1.274 , 0 , none
+'notyourshield' , 0.0 , 0 , none
+'point be still few bug need work proper attribution rt people issue minor stuff' , -9.151 , 0 , none
+'seem be get most tweet have see much more ht engagement as well' , -12.279 , 0 , none
+'important note stats be take large timespan have be h typically slow time' , -14.44 , 0 , none
+'even own gg ht mention be way up be guess keynote' , -12.936 , 0 , none
+'typically be fairly low drop especially realize be not bother engage many block user' , -12.685 , -1 , none
+'harass doxx prevent free speech be attempt silence target' , -7.422 , -1 , none
+'however want everyone believe speak experience be not harass gg' , -9.944 , 0 , none
+'do use nickname real name not mention' , -7.201 , 0 , none
+'response supernova continue allow adam baldwin guest' , 1.504 , 0 , none
+'thank make petition' , -1.098 , 1 , none
+'randi.io' , 0.0 , 0 , none
+'help start come hashtag' , 0.981 , 0 , none
+'be watch wadhwa be very disappointed eff jesus be standard line male do not agree' , -19.532 , -1 , none
+'world be start see be be live perpetual cloud disappointment #stopwadhwa2015' , -18.608 , -1 , none
+'nope very engage pic dude be just ridic' , -0.949 , 1 , none
+'rt be see rise mark sad keanu meme sad wadhwa' , -13.687 , -1 , none
+'rt so think whole wadwha silencing woman thing be theoretical here be proof s' , -18.633 , 0 , none
+'rt #disappointwadhwa2015' , -3.761 , -1 , none
+'well give vivek get article pull likely have something do be support free speech' , -14.21 , 1 , none
+'rt someone tout eff twitter account be be rather judgmental be not' , -25.016 , 0 , none
+'rt be happy read post view point especially be appropriate tldr takedown' , -11.44 , 1 , none
+'rt kurt be eff assume be guilty take blog face value' , -13.807 , -1 , none
+'watch completely dismiss woman do not agree be very disappointed man do not agree #stopwadhwa2015' , -19.09 , -1 , none
+'here be support bcz jason feeling be hurt be tell shut listen wit' , -9.033 , -1 , none
+'be not really sure yet feel comfortable idea watch asshole band together be reminiscent mra behavior' , -13.953 , -1 , none
+'be podcast give woman tech do not want speak' , -20.993 , 0 , none
+'rt' , -3.761 , 0 , none
+'do not really surprise ughh yet thing not be attend drive more industry woman away good job' , -16.976 , -1 , none
+'least do not directly say speak woman be something' , -17.24 , 0 , none
+'configuration setting mention own be dev policy iirc rting be not' , -13.09 , -1 , none
+'be' , -4.532 , 0 , none
+'refuse provide proof nutter not make difference just claim be fake defend' , -12.141 , -1 , none
+'sure yeah have bail pretty quickly have other meeting plan city' , -9.769 , 1 , none
+'#stopwadhwa2015' , -1.609 , 0 , none
+'just watch #lawandordersvu be distressing corny early ep then jesus' , -9.32 , -1 , none
+'hahaha yam' , 0.0 , 1 , none
+'rt honestly be just not ok perspective have man try tell woman be wrong tech' , -28.872 , -1 , none
+'be upset see act be willing bet be fantasy many gamergater put loud place' , -11.112 , -1 , none
+'other hand think have value maybe only hope law enforcement watch show' , -8.399 , 1 , none
+'be time ever watch' , -8.403 , 0 , none
+'nutrition be key close #aboriginal life expectancy gap' , -4.127 , 0 , none
+'stuff instant couscous be immediate elimination' , -3.433 , -1 , none
+'be wrong show get worse' , -4.483 , -1 , none
+'someone have get highest score history' , -6.445 , 0 , none
+'better be eva debra sherie emilie' , -5.225 , 0 , none
+'be lose mum dad' , -4.127 , -1 , none
+'say like main have not eat anything plate #sayforthesakeofsaying' , -6.915 , 1 , none
+'rt stuff instant couscous be immediate elimination' , -7.195 , -1 , none
+'rt be lose mum dad' , -7.888 , -1 , none
+'only best enter kitchen head quarter pete best speaking phrase punctuate weird pause' , -4.564 , -1 , none
+'rt everyone underestimate' , -2.662 , 0 , none
+'rt smear lemon tart' , -3.761 , -1 , none
+'hope do okay xd look youll do good' , -4.399 , 1 , none
+'rt still try figure be more not' , -11.877 , 0 , none
+'smear lemon tart' , 0.0 , -1 , none
+'unboned spatchcock instant couscous' , 0.0 , 0 , none
+'tony lynn be eliminate just burn set house be eat gilbert grape' , -12.936 , -1 , none
+'yeah do not know go' , -11.409 , 1 , none
+'be happy life hand lemon not do shot tequila artichoke' , -12.386 , 1 , none
+'pretty sure be hide ability actually cook' , -5.408 , 1 , none
+'still refuse believe real name be drasko' , -1.305 , -1 , none
+'rt note spatchcock dish pomegranate be star dish be not good thing' , -16.263 , 1 , none
+'worst actually want throw remote tv score shitty strategic score witch #cheats #unfairscore' , 2.485 , -1 , none
+'get fb page asap' , -2.302 , 1 , none
+'be turn heat right up instant restaraunt round' , -2.335 , 1 , none
+'be wow be go be long episode' , -15.543 , 1 , none
+'have fun rating' , -3.295 , 1 , none
+'know feel way' , -4.382 , 0 , none
+'have not actually sell be not charge food have sell metaphorically' , -23.163 , 0 , none
+'finger cross taste good' , -3.178 , 1 , none
+'be element serve food have cooked.which turn whole lot better plan serve food someone else have cook' , -11.748 , 0 , none
+'have never like maple syrup bacon ruin great ingredient' , -2.602 , 1 , none
+'think maybe hat be turn people off' , -6.93 , 0 , none
+'be not raw egg tomato pour plate better nothing just' , -10.637 , 0 , none
+'back wall gon call' , -3.871 , -1 , none
+'positive polly negative nancy be so corny guy' , -6.766 , 1 , none
+'never' , -1.098 , 0 , none
+'hahahaha people gamergate be troll so call' , -13.44 , 1 , none
+'sock so perfect' , -2.639 , 1 , none
+'rt datum raise interesting point trust network be gross see ob' , -6.607 , -1 , none
+'unsubscribe' , 0.0 , 0 , none
+'yes' , -1.098 , 0 , none
+'do not acknowledge fart know' , -8.77 , 0 , none
+'patron' , 0.0 , 0 , none
+'lol' , 1.609 , 1 , none
+'not sure' , -4.025 , 0 , none
+'yes' , -1.098 , 0 , none
+'too' , -1.098 , 0 , none
+'blasphemy' , 0.0 , 0 , none
+'possibly' , -0.693 , 0 , none
+'gross' , 1.099 , -1 , none
+'sexual preference awesome' , -0.693 , 1 , none
+'hate math strongly appreciate anyone else good math' , -2.079 , -1 , none
+'rt link btw' , -3.068 , 0 , none
+'yes' , -1.098 , 0 , none
+'rt send kickstarter' , -5.37 , -1 , none
+'yup' , 0.0 , 0 , none
+'portland ikea bird' , 0.0 , 1 , none
+'yup' , 0.0 , 0 , none
+'heh' , -0.693 , 0 , none
+'yes' , -1.098 , 0 , none
+'never try' , -2.197 , 0 , none
+'yes' , -1.098 , 0 , none
+'yes' , -1.098 , 0 , none
+'jesus' , 0.0 , 0 , none
+'just enter mountain be shit show' , -6.17 , -1 , none
+'yreka still alive' , 1.946 , 0 , none
+'north' , 0.0 , 0 , none
+'dark sky' , 0.693 , 0 , none
+'yup' , 0.0 , 0 , none
+'need github ty anyway' , -1.791 , 1 , none
+'yeah name game lately be stay step ahead gater attempt shut thing down/abuse system' , -7.346 , -1 , none
+'github have be great love' , -9.907 , 1 , none
+'yup' , 0.0 , 0 , none
+'rofl' , 0.0 , 1 , none
+'gag' , 0.0 , 0 , none
+'prefer just get stage speaking most conference organizer want have slide' , -8.776 , 0 , none
+'rt someone tout eff twitter account be be rather' , -17.151 , 0 , none
